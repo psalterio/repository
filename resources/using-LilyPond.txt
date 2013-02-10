@@ -1,0 +1,39 @@
+Open Psalterio
+
+Before using LilyPond you must install Latex
+
+Use LilyPond
+- go to http://lilypond.org/
+- download LilyPond
+- install LiliPond
+-- Mac OS X
+ download the binary file
+drag to the applications
+test LilyPond with the example given (must restart the application)
+
+add the lilypond-book script (inside the package) to the $PATH environment variable.
+>> open the terminal
+>> check your current $PATH (echo $PATH)
+>> add the bin folder inside the package (export PATH=/Applications/LilyPond.app/Contents/Resources/bin/:$PATH)
+>> add the pdflatex executable to the environment also (export PATH=/usr/texbin/:$PATH)
+
+- to know more, read: http://lilypond.org/introduction.html
+
+
+Open TexMaker (or any other latex equivalent editor)
+
+put the song lyricis, chords and the 
+ \lilypondfile[]{test.ly}
+
+
+- open terminal
+- go to the folder where the tex ly file are
+- run lilypond-book --output=out --pdf  007.tex
+- open the out folder and the .tex file in it and build it again (DON'T WORK ON THIS FILE, USE THE ORIGINAL)
+- now you got the typeset file with the music! great! 
+
+
+
+IDEAS
+- add a form to every song in the web site so people can send comments to improve the songs
+- add transposition feature on the fly

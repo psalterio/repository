@@ -1,0 +1,175 @@
+\documentclass{article}
+\usepackage{gchords}
+\usepackage{geometry}
+\usepackage{rotating}
+
+\begin{document}
+\begin{center}
+{\Large GCHORDS, a \LaTeXe\ package to draw guitar chord diagrams}\\
+\vskip 0.2cm
+{\large by Kasper Peeters, kasper.peeters@aei.mpg.de}
+\end{center}
+\vskip 4cm GCHORDS is a \LaTeXe\ package to draw those familiar guitar
+chord diagrams. Options are available to draw them in any size, using
+any number of strings, produce black dotes or numbered circles to
+denote fingers, add chordnames, show the number of the top fret,
+specify fonts for almost any symbol occuring in the diagram and many
+more. There is also a macro to typeset chords above lyrics. A small
+TCL script for graphical construction of chord symbols is also
+included.  This is a short guide to show how the commands work, with a
+few examples included. Feel free to contact me if you want other
+features included.
+\medskip
+
+Note that, in order for this to work, you need the \LaTeX\ `lcircle' font
+in various sizes.
+\medskip
+
+The homepage for this macro package is
+{\tt http://www.damtp.cam.ac.uk/user/kp229/gchords/}.
+
+\renewcommand\topfretsiz{3pt}
+
+%-------------------------------------------------------------------------
+\section{Quick guide}
+
+The main macro is called {\tt$\backslash$chord}, and should be used as follows:
+
+\bigskip
+{$\backslash${\tt chord}\{{\it modifiers}\/\}\{$x_1,x_2,\ldots$\}\{{\it
+name}\/\}}, where
+\begin{itemize}
+\item {\it modifiers}\/: Currently, there are two uses of this part.
+Putting a `t' in it draws a thick top fret. Putting in an arbitrary number
+(large numbers must be put in curly braces) resuls in this number being
+printed at the top left corner of the diagram (denoting a fret position).
+\item $x_1,x_2,\ldots$: Each $x_i$ contains the information for a single
+string. Recognized commands are
+\begin{itemize}
+\item {\tt b}: This note is a base note and will be printed a bit larger
+than the others,
+\item {\tt n}: This string does not contain any dots.
+\item {\tt x}: This string should be muted (a $\times$ appears above the
+string).
+\item {\tt o}: This string should be explicitly labelled as open (a
+  $\circ$ symbol appears above the
+string).
+\item {\tt f{\it num}\/}: This note should be played with finger number
+{\it num}\/. The number will be put inside the (open) dot.
+\item {\tt p{\it num}\/}: Fret number on which the dot should be
+placed. If you need numbers larger than $9$, they must be enclosed in
+curly braces.
+\item {\tt t{\it txt}\/}: Adds a label to this string, to be put at
+  the very top of the diagram (useful to add the name of the note, for
+  instance). If you need more than one character, put the text in
+  curly brackets (though this probably will not fit).
+\item {\tt s{\it num}\/}: Use a different string to put this note on.
+\end{itemize}
+\item {\it name}\/: The name of the chord. Appears underneath the diagram.
+\end{itemize}
+If you want to put more notes on one string, just add the $f$ and $p$
+sequences. They {\em must}\/ appear in top-down order in order for the
+strings to be drawn correctly.
+
+The chord macro can be used in tables if you need a lot of diagrams neatly
+aligned. For a row of diagrams, the shortcut {$\backslash$\texttt{chords}$\{$
+\textit{chords}$\}$} may be used (where {\it chords}\/ is a sequence of chord
+macros).
+
+\smallchords\def\xoff{0}\def\yoff{0} A few examples will illustrate
+the possibilities. First, lets put a diagram in the text itself, like
+\chord{t}{n,n,p2,p2,p1,n}{}, which is just A minor. The numbers of the
+fingers can be put in, resulting in
+\chord{t}{n,n,f2p2,f0p2,f1p1,n}{}. Now let's make the diagrams a bit
+larger and put them in a separate line, like
+\def\numfrets{6}\mediumchords\def\xoff{2}\def\yoff{2}
+\chords{\chord{t}{t{E}n,t{A}n,t{E}f{m}p2,t{A}f3p2,t{C}f1p1,t{E}n}{Am}\chord{t}{x,f3p3,f2p2,o,f1p1,n}{C}}
+In the first diagram you can see how to put note names at the top of
+the diagram.  It is also possible to display a larger part of the
+neck, like in \def\numfrets{10}
+\chords{\chord{t}{p5,p7,p7,p6,p5,p5}{A}} which can also be displayed
+as \def\numfrets{5} \chords{\chord{{5~}}{p1,p3,p3,p2,p1,p1}{A}} Nice
+patterns to play are the following:
+\chords{\chord{}{p1p4,p1p3,p1p3,p1p3,p1p4,p1p4}{} \def\numfrets{20}
+\chord{}{p{10}p{13},p{10}p{12},p{10}p{12},p{10}p{12},p{10}p{13},p{10}p{13}}{}}
+
+%-------------------------------------------------------------------------
+\section{Gchords and lyrics}
+
+You can also typeset chords above lyrics by using the {\tt
+$\backslash$upchord} command, provided by Yotam Medini. You use it as
+follows
+\begin{verbatim}
+\begin{verse}
+\smallchords
+\newcommand{\AsevenMaj}{\chord{t}{x,n,p2,p1,p2,n}{A7+}}
+Getting to \upchord{\AsevenMaj}know you
+\end{verse}
+\end{verbatim}
+which produces the output
+\begin{verse}
+\smallchords
+\newcommand{\AsevenMaj}{\chord{t}{x,n,p2,p1,p2,n}{A7+}}
+Getting to \upchord{\AsevenMaj}know you
+\end{verse}
+See the file {\tt get2knowu.tex} for a more complicated example.
+
+There is currently no functionality for rotated diagrams, but you can
+rotate the diagrams using the ``rotating'' package:
+{\smallchords\hspace{10ex}\raisebox{-10ex}{\vbox{\begin{rotate}{90}
+\chord{t}{x,n,p2,p1,p2,n}{A7+}
+\end{rotate}}}}
+
+%-------------------------------------------------------------------------
+\section{Chordbox graphical chord editor}
+
+Included in the distribution is a small TCL script which provides a 
+graphical editor for chords. This script was written by David R.~Lovell.
+To start it, for instance with 8 frets, type
+\begin{quote}
+\verb|wish chordbox.tcl 8|
+\end{quote}
+After constructing the chord and entering the name, press the `print' button 
+to see the \LaTeX{} command printed on stdout. 
+
+It is possible to use the `b' and `\#' symbols in the `name' field to 
+denote `flat' and `sharp' chords.
+
+%-------------------------------------------------------------------------
+\section{Sizes and defaults}
+
+It's possible to change the dimensions, fonts, number of strings etc.\ by
+using one of the following settings.
+\begin{itemize}
+\item {$\backslash${\tt strings}\{{\it num}\/\}}: number of strings on your guitar.
+\item {$\backslash${\tt numfrets}\{{\it num}\/\}}: length (number of frets) of
+a diagram.
+\item {$\backslash${\tt chordsize}\{{\it dim}\/\}}: distance between two frets in some
+dimension known to \TeX.
+\item {$\backslash${\tt fingerfont}\{{\it font}\/\}}: font used for numbering of
+fingers. This can be any font, but if it is too large, the number will not
+fit into the circle, so beware.
+\item {$\backslash${\tt namefont}\{{\it font}\/\}}: font used when typesetting the name
+of the chord.
+\item {$\backslash${\tt fretposfont}\{{\it font}\/\}}: font used when typesetting the
+position of on the neck of the top fret in the diagram.
+\item {$\backslash${\tt dampsymbol}\{{\it symbol}\/\}}: a single symbol in any font you
+like, used to denote damped strings (usually a $\times$).
+\item {$\backslash${\tt fatsiz}\{{\it dec}\/\}}: size of a fat note (the physical size
+will be {$\backslash${\tt fatsiz*}$\backslash${\tt chordsize/2}}).
+\item {$\backslash${\tt normalsiz}\{{\it dec}\/\}}: size of a normal note.
+\item {$\backslash${\tt fingsiz}\{{\it dec}\/\}}: size of the circle used to produce
+`numbered fingers'.
+\item {$\backslash${\tt fatfingsiz}\{{\it dec}\/\}}: size of the circle used to produce
+`numbered fingers', used for the fatter notes.
+\item {$\backslash${\tt topfretsiz}\{{\it dim}\}}: thickness of the
+  top fret (when the `t' modifier is used).
+\item {$\backslash${\tt xoff}\{{\it dec}\/\}},{$\backslash${\tt yoff}\{{\it dec}\/\}}: the left lower
+corner of the diagram in units of {$\backslash${\tt chordsize}}.
+\end{itemize}
+
+There are two sizes predefined, which can be activated by
+{$\backslash${\tt smallchords}} and {$\backslash${\tt mediumchords}}.
+
+
+\end{document}

@@ -1,0 +1,70 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{101}													% song number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{A Bandeira do Céu}[	                               						% song title ...
+	%mlby={},                                            							% music and lyric by ...	
+	%sr={Revelation 5:13},                               						% bible verse  ...	
+	%cr={Public domain.},                               						% licence  ...	
+	%arr={my},                                          							% arrangement by  ...	
+	index={A Bandeira do Céu}]                                   						% index title ...	
+            
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+% verse #1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                                           								% start verse
+\[G]Nós pode\[D]mos anun\[C]ciar ao mundo in\[D]teiro
+\[G]Que há vi\[D]da ao la\[C]do de Je\[D]sus
+\[G]Nós pode\[D]mos procla\[C]mar o evange\[D]lho da \[D]cruz
+\[Em](Je\[C]sus, \[Em]Je\[C]sus)\[D] (repete)
+\endverse	                                           								% end verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% chorus
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginchorus                                          							% start chorus
+\[G]Nós pode\[D]mos haste\[Em]ar
+A bandei\[G]ra \[D]do \[G]céu
+Vamos \[D]todos agit\[Em]ar
+A ban\[C]deira \[D]do \[G]céu
+Entre to\[D]dos nós po\[Em]demos conse\[C]guir
+Levant\[Am]ar no mundo in\[C]teiro
+A bandei\[C]ra \[D]do \[G]céu
+\[Em]Je\[C]sus
+\[Em]Je\[Am]sus
+
+\chordsoff                                           								% chords formating off
+A bandeira do céu
+Nós podemos hastear Vamos todos agitar
+A bandeira do céu
+\chordson   																			% chords formating on
+\endchorus	                                          								% end chorus
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifbool{gchords}{																	% if the guitar chords are to be printed
+\vspace{\gchordsVspace}													% set a vertical space of 10 pt 
+
+\gtabC
+\gtabD
+\gtabG
+\gtabEm
+\gtabAm
+
+}																							% end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endsong	                                            								% end song
+%\input{../_include/songLatexFooter}

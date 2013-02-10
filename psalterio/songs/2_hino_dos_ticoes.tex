@@ -1,0 +1,60 @@
+% percentagem é comentário
+% 1 - \setcounter{songnum}{0} - numero da musica
+% 2 - \beginsong{Hino Ticoes}[ - título da música
+% 3 -  index={Hino Ticoes}] - entrada do indice da musica
+% 4 - \beginverse , depois desta linha adicionar a letra
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{2}       % song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Hino dos Tições}[            % song title ...
+    %mlby={},                           % music and lyric by
+    %sr={Revelation 5:13},        % bible verse
+    %cr={Public domain.},         % licence
+    %arr={my},                          % arrangement by
+    index={Hino dos Tições}]               % index title ...	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+\[C]Á fogueira levemos o noss\[G7]o tição
+E ou\[C]çamos cantar sua fe\[G7]liz can\[C]ção.
+Sobe \[Dm]chama lig\[C]eira, fogo \[G7]bom tão quente e \[C]bom.
+No me\[Dm]io des\[Am]ta cla\[C]reira, sobe, p\[G7]ois, sim, sobe \[C]mais,
+Sobe e s\[Am]obe e \[F]sobe \[C]mais,
+\[F]Fo\[Fm]go b\[C]om, tão qu\[F]ente \[G7]e \[C]bom.
+\endverse                         % end verse
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+\[C]Ó Jesus, vem acende em nós\[G7] o Tição.
+De um a\[C]mor puro e quente pelo\[G7] nosso ir\[C]mão.
+De a\[Dm]mor nos in\[C]flama, ó Je\[G7]sus, sim, ó Je\[C]sus.
+E que \[Dm]nós se\[Am]jamos \[C]chama dando \[G7]luz, inda ma\[C]is luz,
+Dando \[Am]luz, in\[F]da mais \[C]luz,
+\[F]Dan\[Fm]do a\[C]mor, lu\[F]z e \[G7]ca\[C]lor.
+\endverse                         % start verse
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifbool{gchords}{                 % if the guitar chords are to be printed
+\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+\gtabC
+\gtabF
+%\gtabGseven
+\gtabFsharpMinor
+\gtabBm
+}                                 % end if
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endsong                          % end song
+%\input{../_include/songLatexFooter}

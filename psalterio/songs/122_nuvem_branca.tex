@@ -1,0 +1,83 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{122}         % song number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Nuvem Branca}[              % song title ...
+    %mlby={},                     % music and lyric by
+    %sr={Revelation 5:13},        % bible verse
+    %cr={Public domain.},         % licence
+    %arr={my},                    % arrangement by
+    index={Nuvem Branca}]              % index title ...	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+\[D]Quando penso que \[A]Tua mão \[Bm]É uma espada de \[F#m]justiça,
+\[G]Que re\[A]vela no\[D]vos \[F#m]horizon\[Bm]tes, mais \[A]perfeitos \[A7]do que o mar e os montes.
+\chordsoff                        % chords formating off
+Não Te cansas de pensar em nós, doce brilho vai na tua voz
+E o poema tem um novo olhar que as pessoas sentem ao cantar
+\chordson
+
+\endverse                         % end verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% chorus
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginchorus                      % start chorus
+
+\[D]Quem me \[Bm]dera ser \[G]nuvem \[A4] \[A]branca
+\[D]Envol\[Bm]vida na \[G]perfei\[A]ção
+\[D]Ensi\[Bm]nando \[G]qualquer \[D]multidão.
+\[Em]A imi\[G]tar Je\[A] \[(A7)*]sus*.
+
+\endchorus                        % end chorus
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+\chordsoff                        % chords formating off
+
+Sempre ouvi dizer que és Salvador e que alcanças qualquer interior.
+Sob a forma de uma flor pequena o amor a imagem tão serena.
+
+*só na 1ª vez
+
+\chordson
+
+\endverse                         % start verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifbool{gchords}{                 % if the guitar chords are to be printed
+\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+
+\gtabD
+\gtabG
+\gtabA
+\gtabA7
+\gtabFsharpMinor
+\gtabBm
+\gtabEm
+
+}                                 % end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endsong                          % end song
+%\input{../_include/songLatexFooter}

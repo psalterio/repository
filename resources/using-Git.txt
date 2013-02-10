@@ -1,0 +1,104 @@
+GIT HELP for Mac Os/Unix
+(windows will be on the way)
+
+###########################
+using gitX
+###########################
+download the new gitX from 
+http://gitx.laullon.com/
+
+1. Create working folder e.g. psalterio-git
+2. Open GitX 
+3. Create new repository (File->New)
+4. Add Remote (icon in the bottom left of GitX)
+	- Remote name: psalterio
+	- Remote URL: http://code.google.com/p/psalterio/
+
+stage your changes and commit.
+
+Finally push to remote
+
+first dialog is username and not password as it appears
+
+###########################
+using command line
+###########################
+$ git init
+
+# add new files from the local folder
+$ git add .
+$ git rm -r folder/.
+
+$ git commit -m "README file"
+
+$ git config --global user.name "whatever"
+$ git config --global user.email "whatever"
+
+## commit changes to origin (server)
+$ git push origin master
+
+$ git status
+
+## to download/update the server repo 
+## this command is the same as running: git fetch origin + git merge origin/master
+$ git pull
+
+
+
+$git clean -n -d <path>
+will do a ‘dry run’ of the command and show you just what files and folders are going to be removed
+
+$sudo git clean -d -f .
+removes all untracked files in current directory
+
+------
+add the following line to the ~/.netrc file
+
+machine code.google.com login manunes@gmail.com password <password>
+###########################
+git help
+###########################
+
+Git book
+http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
+
+http://mobilemind.net/2011/04/git-tools-for-mac-os-x/
+http://code.google.com/p/support/wiki/GitFAQ
+http://book.git-scm.com/3_normal_workflow.html
+http://code.google.com/p/support/wiki/ExportingToGit
+http://shaun.boyblack.co.za/blog/2009/03/14/getting-started-with-git-on-mac-os-x/
+http://www.vogella.de/articles/Git/article.html
+http://google-opensource.blogspot.com/2008/05/develop-with-git-on-google-code-project.html
+http://code.google.com/p/support/wiki/ImportingFromGit
+http://stackoverflow.com/questions/455698/best-visual-client-for-git-on-mac-os-x
+
+
+
+read more about Git clients
+http://harrywolff.com/2012/01/the-best-mac-git-gui/
+
+client software
+http://gitx.laullon.com/ (preferred)
+http://www.sourcetreeapp.com/ 
+http://gitboxapp.com/
+
+If you use SourceTree
+
+Add default user details
+Miguel Nunes
+manunes@gmail.com
+
+Add bookmark create working folder and and clone repository
+https://code.google.com/p/psalterio/
+
+
+###########################
+other versions of gitX
+###########################
+other options for gitX (not recommended, older)
+https://github.com/brotherbard/gitx/downloads (take the experimental downloads)
+
+more info about this version
+ http://brotherbard.com/blog/
+
+(check http://www.gitx.org/)

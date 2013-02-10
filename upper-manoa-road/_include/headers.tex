@@ -1,0 +1,62 @@
+\documentclass[10pt,a5paper]{article}
+
+%define include folder
+\def \includeFolder{_include}
+
+%packages
+\usepackage[left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
+
+\usepackage[chorded]{\includeFolder/psalterio} %must check the licence to change the name of the sty file!!!
+%\usepackage[chorded]{resources/songs-old} %must check the licence to change the name of the sty file!!!
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{wallpaper}
+\usepackage{color}
+\usepackage{eso-pic} %for background pictures
+\usepackage[bookmarks]{hyperref} 
+%\usepackage{ifthen} %etoolbox is more up to date
+\usepackage{etoolbox}
+
+
+%\usepackage[xetex]{graphicx}
+%\usepackage{fontspec,xunicode}
+%\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+%\setmainfont[Scale=.95]{Times}
+%\setmonofont{Lucida Sans Typewriter}
+
+%\usepackage[portuguese]{babel}
+%\usepackage[latin1]{inputenc}
+%\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+%\usepackage[scaled]{uarial}
+%\usepackage{helvet}
+%\renewcommand{\familydefault}{\sfdefault}
+
+%this removes the page number
+\thispagestyle{empty}
+\pagestyle{empty}
+\songcolumns{1}
+
+\parindent 0pt
+
+%add background picture
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,
+keepaspectratio]{logo.png}%
+\vfill
+}}}
+
+\newcommand\BottomPic{
+\put(0,0){
+\includegraphics{_images/bkground_page_bottom.png}
+}}
+
+
+

@@ -1,0 +1,75 @@
+%
+%Font Sizes
+%
+%\tiny
+%\scriptsize
+%\footnotesize
+%\small
+%\normalsize
+%\large
+%\Large
+%\LARGE
+%\huge
+%\Huge
+
+
+%\renewcommand{\thesongnum}{A\arabic{songnum}}
+\renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\MakeUppercase#1}
+\setlength{\songnumwidth}{0cm} % box width
+%\setlength{\choruswidth}{3cm} % box width
+
+
+%\renewcommand{\snumbgcolor}{white}
+
+%change font for Title
+\renewcommand{\stitlefont}{\sffamily\bfseries\huge\MakeUppercase} %song title
+
+%remove verse numbers
+%\noversenumbers 
+\setlength{\versenumwidth}{0.0cm}
+
+%verse separations
+%\versesep=15pt
+%\afterpreludeskip=2pt
+%\beforepostludeskip=2pt
+%\baselineadj=10pt
+
+% separation between chords and lyrics
+\renewcommand{\clineparams}{ 
+\baselineskip=10pt 
+%\lineskiplimit=2pt 
+%\lineskip=5pt
+}
+
+% change font for lyrics
+%\renewcommand{\lyricfont}{\sffamily}
+%\renewcommand{\lyricfont}{\sffamily\small}
+\renewcommand{\lyricfont}{\sffamily\large}
+%\renewcommand{\chorusfont}{\sffamily}
+\renewcommand{\chorusfont}{\sffamily\large}
+
+%change the Chords formatting
+\renewcommand{\printchord}[1]{\sffamily\color{blue}\it\normalsize#1}
+
+%check http://www.tug.org/pracjourn/2006-1/schmidt/schmidt.pdf
+
+%\renewcommand{\sharpsymbol}{\ensuremath{^\sharp}}
+\renewcommand{\extendprelude}{
+\showrefs\showauthors {
+\bfseries\musicLyricsBy
+}
+}
+%\renewcommand{\songauthors}[1]{tete #1}
+
+%\renewcommand{\extendpostlude}
+%{ \songcopyright\ \songlicense\unskip \ Used with permission.}
+
+\setlength{\cbarwidth}{1pt} %chorus bar width
+\setlength{\sbarheight}{0pt} 
+
+% music anf lyrics by
+\newcommand{\musicLyricsBy}{} 
+\newsongkey{mlby} {\def\musicLyricsBy{}}
+							{\def\musicLyricsBy{\sffamily\it\small #1\par}}
+							
+\def \gtabsOn{1}

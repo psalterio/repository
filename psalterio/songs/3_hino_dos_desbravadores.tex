@@ -1,0 +1,50 @@
+% percentagem é comentário
+% 1 - \setcounter{songnum}{0} - numero da musica
+% 2 - \beginsong{Hino Desbravadores}[ - tÌtulo da m˙sica
+% 3 -  index={Hino Desbravadores}] - entrada do indice da musica
+% 4 - \beginverse , depois desta linha adicionar a letra
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{3}       % song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Hino dos Desbravadores}[            % song title ...
+    %mlby={},                           % music and lyric by
+    %sr={Revelation 5:13},        % bible verse
+    %cr={Public domain.},         % licence
+    %arr={my},                          % arrangement by
+    index={Hino dos Desbravadores}]               % index title ...	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+\[G]Nos som\[G7+]os os \[G75-]Desbrava\[G7dim]dore\[G]s,
+Os servos do \[G95+]Rei do\[G]s re\[C]is\[E7]!\[Am]
+Sempre av\[C]ante, as\[D7]sim \[G]mar\[Am7]cham\[D7]os,
+\[C/re]Fieis as s\[D7]uas le\[G]is.
+Deve\[G]mos \[G7+]ao mu\[G75-]ndo anu\[G7dim]nciar,\[G]
+As novas da \[G95+]salvaca\[C]o: 
+Que Cristo vi\[Eb7]ra em b\[G]reve d\[C]ar o \[G]gala\[D7]rda\[G]o
+\endverse                         % start verse
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifbool{gchords}{                 % if the guitar chords are to be printed
+\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+\gtabC
+\gtabF
+%\gtabGseven
+\gtabFsharpMinor
+\gtabBm
+}                                 % end if
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endsong                          % end song
+%\input{../_include/songLatexFooter}

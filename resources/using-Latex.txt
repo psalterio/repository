@@ -1,0 +1,11 @@
+on the Mac you may just want to download the MacTeXtras from the following link
+http://www.tug.org/mactex/2011/ (540MB instead of 1.8GB)
+
+More info
+http://tex.stackexchange.com/questions/974/why-is-the-mactex-distribution-so-large-is-there-anything-smaller-for-os-x
+
+
+
+Alternative to Texmaker >> TexStudio
+	
+	http://texstudio.sourceforge.net/

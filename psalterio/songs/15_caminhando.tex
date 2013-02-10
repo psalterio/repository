@@ -1,0 +1,104 @@
+% percentagem é comentário
+% 1 - \setcounter{songnum}{0} - numero da musica
+% 2 - \beginsong{Caminhando}[ - título da música
+% 3 -  index={Caminhando}] - entrada do indice da musica
+% 4 - \beginverse , depois desta linha adicionar a letra
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{15}       % song number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Caminhando}[            % song title ...
+    %mlby={},                           % music and lyric by
+    %sr={Revelation 5:13},        % bible verse
+    %cr={Public domain.},         % licence
+    %arr={my},                          % arrangement by
+    index={Caminhando}]               % index title ...	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+\[C]Com gozo eu ja vou para o lar celes\[G7]tial;
+                         
+Caminhando, ca\[C]minhando.
+                                                                
+Pois, nao me encanta mais o prazer te\[G7]rrenal,
+                                        
+Caminhando para aquele\[C] lar.
+
+\endverse                         % end verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+Caminhando, cami\[Dm]nhan\[G7]do para aquele lar,
+                    
+Onde esta Je\[C]sus.
+                            
+Caminhando, cami\[Dm]nhando,
+        
+Pela \[G7]mao divina de Je\[C]sus.
+
+\endverse                         % end verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+\[C]Eu quero pecadores comigo le\[G7]var;
+
+Caminhando, ca\[C]minhando.
+
+Que em Cristo possam eles saude en\[G7]contrar,
+
+Caminhando para aquele\[C] lar.
+
+\endverse                         % end verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #4
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+\[C]E entao com meu Jesus para sempre esta\[G7]rei;
+
+Caminhando, ca\[C]minhando.
+
+Seu nome eternamente entao lou\[G7]varei,
+
+Caminhando, sim, naquele\[C] lar.
+
+\endverse                         % start verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifbool{gchords}{                 % if the guitar chords are to be printed
+\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+
+\gtabC
+\gtabF
+%\gtabGseven
+\gtabFsharpMinor
+\gtabBm
+
+}                                 % end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endsong                          % end song
+%\input{../_include/songLatexFooter}

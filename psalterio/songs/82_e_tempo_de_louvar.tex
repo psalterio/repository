@@ -1,0 +1,79 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{82}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% song title
+\beginsong{É Tempo de Louvar}[
+% music and lyric by
+mlby={},
+% lyrics
+%lyrics={},
+% music by
+%music={},
+% bible verse
+%sr={},
+% licence/copyright
+%cr={Public domain.},
+% arrangement by
+%arr={},
+% index title
+index={É Tempo de Louvar}]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #1: verse 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse
+É \[D]tempo de cele\[A]lbrar, é \[Bm7]tempo de agra\[F#m]decer,
+O se\[G]nhor tem \[A]feito \[D]grandes coisas entre \[Em D A7 ou (A4-A)]nós.
+É \[D]tempo de então \[A]cantar, \[Bm7]louvores ao nosso \[F#m]Deus
+Pela \[G]voz, \[A]pela \[D]vida e por \[A4]bençãos \[A]que \[D]nos \[D7]deu
+\endverse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #2: chorus 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginchorus
+Por \[G]terra por \[A]céu e \[D]mar, a \[G]ordem é \[A]procla\[D]mar,
+Que \[Em]Jesus está vol\[D]tando, vem nos \[C]bus\[A7]car.
+Vem cum\[G]prir o \[A]que prome\[D]teu vem \[G]buscar os \[A]que já \[D]são Seus;
+Vem nas \[Em]nuvens com \[D]poder, sua \[A7]glória vamos \[D]ver.
+\endchorus
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #3: verse 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse
+\chordsoff
+É tempo de decidir, viver ao lado de Deus,
+E buscar a fé bendita que nos prometeu.
+É tempo de dedicar, mais tempo ao Salvador,
+Encontrar alegria que existe no louvor.
+\endverse
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% if the guitar chords are to be printed
+\ifbool{gchords}{
+% set a vertical space of 10 pt 
+\vspace{\gchordsVspace}
+} % end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song
+\endsong
+
+%include song latex footer
+%\input{../_include/songLatexFooter}

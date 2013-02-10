@@ -1,0 +1,63 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{119}         % song number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{P'ra Te Adorar}[              % song title ...
+    %mlby={},                     % music and lyric by
+    %sr={Revelation 5:13},        % bible verse
+    %cr={Public domain.},         % licence
+    %arr={my},                    % arrangement by
+    index={P'ra Te Adorar}]              % index title ...	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+Em es\[A]pírito e em \[A7+]verdade, Te a\[D]dora\[E]mos, Te a\[A]doramos. (repete)
+Reis dos \[F#m]reis e \[F#m7+]Senhor, Te en\[Bm7]tregamos \[Bm7/A]nosso \[E4]viver.\[E] (repete)
+
+\endverse                         % end verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% chorus
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginchorus                      % start chorus
+
+P’ra Te ado\[D]rar \[F#m]ó Rei dos \[E]reis, é que eu \[D]nasci \[F#m]ó Rei \[E]Jesus
+Meu \[C#7]prazer é Te \[F#m]louvar, meu \[E]prazer é \[D]estar, \[E]nos átrios do \[A]Senhor.
+Meu \[E/G#]prazer é \[F#m]viver, na \[C#m7]casa de \[D]Deus
+(1ª vez) onde \[E]tudo \[A]é bom!\[E] (repete côro)
+(no fim) onde reina\[E] o lou\[A]vor
+
+\endchorus                        % end chorus
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifbool{gchords}{                 % if the guitar chords are to be printed
+\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+
+\gtabD
+\gtabG
+\gtabA
+\gtabFsharpMinor
+\gtabGsharp
+\gtabE
+
+}                                 % end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endsong                          % end song
+%\input{../_include/songLatexFooter}

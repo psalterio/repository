@@ -1,0 +1,33 @@
+Psalterio Latex/HTML chords
+http://wellstyled.com/singlelang.php?lang=en&page=css-chords-formatting.html
+
+cool CSS
+http://pgwebdesign.net/blog/3d-css-shadow-text-tutorial
+
+http://line25.com/articles/using-css-text-shadow-to-create-cool-text-effects
+
+mk4ht mzlatex ./106single.tex "html"
+
+
+http://songs.sourceforge.net/docs.html
+
+
+Latex to HTML
+http://www.usenix.org/events/samples/conversion.html
+http://www.tug.org/applications/tex4ht/mn.html
+http://enc.com.au/docs/latexhtml/
+http://robfelty.com/2008/03/19/finally-a-better-latex-to-html-converter
+http://www.access2science.com/latex/tutorial_txht.xhtml
+http://bastian.rieck.ru/blog/posts/2011/converting_latex_to_html/
+
+http://www.aviz.fr/gliimpse/
+
+
+CSS chords
+http://stackoverflow.com/questions/12253228/markdown-for-guitar-chords-and-lyrics
+http://stackoverflow.com/questions/4154014/styling-text-to-make-it-appear-above-the-line-for-chords-above-the-lyrics
+
+http://nikos-web-development.netai.net/blog/sheet-music-and-tablature-with-html5-and-javascript/
+http://www.macprovideo.com/hub/web/the-future-of-the-web-is-here-using-jquery-html5-and-css3-to-market-your-music-online
+
+http://wellstyled.com/singlelang.php?lang=en&page=css-chords-formatting.html (old)

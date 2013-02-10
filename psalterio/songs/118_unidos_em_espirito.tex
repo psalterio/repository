@@ -1,0 +1,59 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{118}         % song number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Unidos em Espírito}[              % song title ...
+    %mlby={},                     % music and lyric by
+    %sr={Revelation 5:13},        % bible verse
+    %cr={Public domain.},         % licence
+    %arr={my},                    % arrangement by
+    index={Exemplo}]              % index title ...	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+\[E]Unidos em espírito, \[A/mi]unidos na \[E]verdade \[A]nós vimos \[E/sol#]até Ti \[C#m]Senhor
+Con\[A]fiando em Tua \[F#m]vonta\[B]de dá-nos \[A]hoje \[E/sol#]a paz e \[A]Teu a\[E/sol#]mor
+\[A]Grava Tua \[E/sol#]palavra \[C#m]em \[F#m]nossos \[A/si]corações.\[E] \[Bb/dó]
+\[F]Unidos em espírito, \[Bb]unidos na \[F]verdade nos \[Bb]move a \[F/lá]espe\[Dm]rança
+De \[Bb]ver-Te \[Gm7]regres\[C4]sar \[C]que a\[Bb2] Tua \[F/lá]voz, \[Bb2]seja a nossa \[F/lá]voz
+\[Bb]Para dar a \[F/lá]conhe\[Dm]cer ao \[Gm]mundo o \[C]Teu a\[Dm]mor...\[Dm/dó]
+\[Bb]Guia-nos \[F/A]até ao\[Dm] fim \[Gm7]contigo \[Bb/dó]nosso \[C7(b9)]Deus.\[F]
+
+\endverse                         % end verse
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ifbool{gchords}{                 % if the guitar chords are to be printed
+\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+
+\gtabD
+\gtabG
+\gtabA
+\gtabE
+\gtabBb
+\gtabC#m
+\gtabGm7
+\gtabF
+
+}                                 % end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endsong                          % end song
+%\input{../_include/songLatexFooter}

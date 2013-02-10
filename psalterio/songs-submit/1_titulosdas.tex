@@ -1,0 +1,81 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% song title
+\beginsong{Títulosdas}[
+        % music and lyric by
+        % mlby={},
+        % lyrics
+        lyrics={Autor da Letradsfds}, 
+        % music by
+        music={Autor da Músicadsfs},
+        % bible verse
+        %sr={},
+        % licence/copyright
+        %cr={Public domain.},
+        % arrangement by
+        %arr={},
+        % index title
+        index={Títulosdas}]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #1: verse 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse
+Exemplo Estrofe
+\[D]Lá es\[G]tá o meu tes\[D A]ouro,
+\[D]Lá onde \[G]não há \[D A]choro.
+Onde \[F#m Bm]todos cantaremos \[F#m Bm]juntos
+\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
+\endverse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #2: chorus 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginchorus
+Exemplo Estrofe
+\[D]Lá es\[G]tá o meu tes\[D A]ouro,
+\[D]Lá onde \[G]não há \[D A]choro.
+Onde \[F#m Bm]todos cantaremos \[F#m Bm]juntos
+\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
+\endchorus
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #3: verse 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse
+Exemplo Estrofesds
+\[D]Lá es\[G]tá o meu tes\[D A]ouro,
+\[D]Lá onde \[G]não há \[D A]choro.
+Onde \[F#m Bm]todos cantaremos \[F#m Bm]juntos
+\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
+\endverse
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% if the guitar chords are to be printed
+\ifbool{gchords}{
+% set a vertical space of 10 pt 
+\vspace{\gchordsVspace}
+} % end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song
+\endsong
+
+%include song latex footer
+%\input{../_include/songLatexFooter}
