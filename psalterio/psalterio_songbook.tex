@@ -1,35 +1,37 @@
-\def \includeFolder{_include}
+\def \rootFolder{.}
 
 % this has all the necessary packages and formatting for the document
-\input{_include/headers}
+
+%\input{_include/format_new}
+\input{_include/format_classic_a5}
+%\input{_include/format_songbook_letter}
 
 % this includes all the guitar tabs that may be needed
 \input{_include/guitarTabs}
 
 
-\newindex{titleidx}{cbtitle}
-%\newauthorindex{authidx}{cbauth}
-%\newscripindex{scripidx}{cbscrip}
-
 \providebool{gchords}
 \setbool{gchords}{false}
 
 % set guitar chords vertical space separation with lyrics
-\def \gchordsVspace{5 mm}
-
+%\def \gchordsVspace{5 mm}
 
 \begin{document}
 
 	%\showindex{Complete Index of Songs}{titleidx}
+	%\showindex{Index of Authors and Composers}{authidx}
+	%\showindex{Index of Scripture}{scripidx}
+
+	%\songsection{Psalterio} % with title
 	\songsection{} % no title
 
 	\AddToShipoutPicture{\BottomPic}
 	
-	% \begin{songs}{}
-	% \begin{songs}{titleidx,authidx,scripidx}
-	\begin{songs}{titleidx}
+	\begin{songs}{}
+	%\begin{songs}{titleidx,authidx,scripidx}
+	%\begin{songs}{titleidx}
 	
-	\input{_include/formatPsalterio}
+	%\input{songs/0_template.tex}
 	
 	\input{songs/2_hino_dos_ticoes.tex}
 	\input{songs/3_hino_dos_desbravadores.tex}
@@ -47,6 +49,9 @@
 	\input{songs/10_vencendo_vem_jesus.tex}
 
 	\input{songs/11_pescadores_de_homens.tex}
+	\input{songs/12_gozo_no_coracao.tex}
+	\input{songs/13_oh_prends_mon_ame.tex}
+	\input{songs/17_jai_choisi_de_suivre_jesus-christ.tex}	
 
 	%\input{songs/14/14.tex} %remove
 	\input{songs/14_cumbaya.tex}
@@ -55,17 +60,19 @@
 	\input{songs/16_viste_quando.tex}
 	
 	\input{songs/18_quando_penso_na_cruz.tex}
+	\input{songs/19_em_nada_ponho_a_minha_fe.tex}
+	\input{songs/20_estranha_graca_de_jesus.tex}
 
 	\input{songs/22_sal_da_terra.tex}
+	
+	\input{songs/27_oh_sorri_sempre.tex}
 	
 	\input{songs/50_meu_meu_meu.tex}
 	
 	\input{songs/64_jesus_te_ama.tex}
 	
-	\input{songs/70.tex}
-	\input{songs/71.tex}
-	\input{songs/72.tex}
-	
+	\input{songs/71_deus_esta_aqui.tex}
+	\input{songs/72_de_gloria.tex}
 	\input{songs/73_cristo_e_rei.tex}
 	
 	\input{songs/82_e_tempo_de_louvar.tex}
@@ -110,9 +117,7 @@
 	%\input{songs/_a_bandeira_do_ceu}
 	
 	 \end{songs}
-	 
-	 %\showindex{Index of Authors and Composers}{authidx}
-	 %\showindex{Index of Scripture}{scripidx}
+
 	 
 	
 \end{document}

@@ -25,8 +25,8 @@ using command line
 ###########################
 $ git init
 
-# add new files from the local folder
-$ git add .
+# add new files from the local folder, -A removes files and adds new files from 
+$ git add . -A
 $ git rm -r folder/.
 
 $ git commit -m "README file"

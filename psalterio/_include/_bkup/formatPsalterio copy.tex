@@ -1,0 +1,87 @@
+%
+%Font Sizes
+%
+%\tiny
+%\scriptsize
+%\footnotesize
+%\small
+%\normalsize
+%\large
+%\Large
+%\LARGE
+%\huge
+%\Huge
+
+
+%\renewcommand{\thesongnum}{A\arabic{songnum}}
+\renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\MakeUppercase#1}
+\setlength{\songnumwidth}{2cm} % box width
+%\renewcommand{\snumbgcolor}{white}
+
+%change font for Title
+\renewcommand{\stitlefont}{\sffamily\bfseries\huge\MakeUppercase} %song title
+
+%remove verse numbers
+%\noversenumbers 
+% make left separation
+\setlength{\versenumwidth}{2.0cm}
+
+%verse separations
+%\versesep=15pt
+%\afterpreludeskip=2pt
+%\beforepostludeskip=2pt
+%\baselineadj=10pt
+
+% separation between chords and lyrics
+\renewcommand{\clineparams}{ 
+\baselineskip=10pt 
+%\lineskiplimit=2pt 
+%\lineskip=5pt
+}
+
+% change font for lyrics
+%\renewcommand{\lyricfont}{\sffamily}
+%\renewcommand{\lyricfont}{\sffamily\small}
+\renewcommand{\lyricfont}{\sffamily\large}
+%\renewcommand{\chorusfont}{\sffamily}
+\renewcommand{\chorusfont}{\sffamily\large}
+
+%change the Chords formatting
+\renewcommand{\printchord}[1]{\sffamily\color{red}\it\normalsize#1}
+
+%check http://www.tug.org/pracjourn/2006-1/schmidt/schmidt.pdf
+
+
+%\renewcommand{\songauthors}[1]{tete #1}
+
+
+%\renewcommand{\extendpostlude}
+%{ \songcopyright\ \songlicense\unskip \ Used with permission.}
+
+\setlength{\cbarwidth}{0pt}
+\setlength{\sbarheight}{0pt}
+
+% music anf lyrics by
+\newcommand{\musicLyricsBy}{} 
+\newsongkey{mlby}{\def\musicLyricsBy{}}
+                 {\def\musicLyricsBy{\sffamily\it\small letra e música por #1\par}}
+
+% music anf lyrics by
+\newcommand{\musicby}{} 
+\newsongkey{music}{\def\musicby{}}
+                 {\def\musicby{\sffamily\it\small música: #1\par}}
+
+% music anf lyrics by
+\newcommand{\lyricsby}{} 
+\newsongkey{lyrics}{\def\lyricsby{}}
+                 {\def\lyricsby{\sffamily\it\small letra: #1\par}}
+
+%\renewcommand{\sharpsymbol}{\ensuremath{^\sharp}}
+\renewcommand{\extendprelude}{
+  \showrefs\showauthors 
+  %{\bfseries\musicLyricsBy}
+  {\bfseries\musicby}
+  {\bfseries\lyricsby}
+}
+
+\def \gtabsOn{1}

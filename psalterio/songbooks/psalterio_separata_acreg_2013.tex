@@ -1,0 +1,77 @@
+\def \rootFolder{../}
+
+% this has all the necessary packages and formatting for the document
+\input{\rootFolder/_include/format_classic_a5.tex}
+
+% this includes all the guitar tabs that may be needed
+%\input{../songs/_include/guitarTabs}
+
+
+\providebool{gchords}
+\setbool{gchords}{false}
+
+% set guitar chords vertical space separation with lyrics
+\def \gchordsVspace{5 mm}
+
+\begin{document}
+
+	%\showindex{Complete Index of Songs}{titleidx}
+	\songsection{} % no title
+
+	%\AddToShipoutPicture{\BottomPic}
+	
+	\begin{songs}{}
+	% \begin{songs}{titleidx,authidx,scripidx}
+	%\begin{songs}{titleidx}
+	
+	%\input{../songs/_include/formatPsalterio}
+	
+	% (ok)1.	A ALEGRIA
+	% 2.	BRILHANDO CADA VEZ MAIS
+	% (ok) 3.	A BANDEIRA DO CÉU
+	% 4.	BRILHAR POR JESUS
+	% 5.	COM TODO O MEU SER
+	% (ok)6.	DIGNO DE GLÓRIA
+	% (ok)7.	ESTAMOS JUNTOS
+	% (ok)8.	É TEMPO DE LOUVAR
+	% 9.	JESUS EM BREVE
+	% 10.	LEÃO DE JUDÁ
+	% 11.	MENSAGEIRO
+	% 12.	HINO TEMA 2013 - HÁ MAIS VIDA
+	% (ok)13.	NÃO TENHO MAIS QUE TEMER
+	% (ok)14.	O AMOR DE DEUS
+	% (ok)15.	O SENHOR MARCHANDO ESTÁ
+	% (ok)16.	O TIÇO TIÇÃO
+	% (ok)17.	P’RA TE ADORAR
+	% (ok)18.	QUEM O FARÁ
+	% (ok)19.	SILÊNCIO DENTRO DE MIM
+	% (ok)20.	SUPER-HERÓI
+	% (ok)21.	TUA PALAVRA
+	% 22.	UM GESTO DE AMOR
+	
+	\input{../songs/106_alegria}
+	
+	\input{../songs/_a_bandeira_do_ceu.tex}
+	
+	\input{../songs/_digno_de_gloria.tex}
+	\input{../songs/_estamos_juntos.tex}
+	\input{../songs/82_e_tempo_de_louvar.tex}
+	
+	\input{../songs/138_nao_tenho_mais_que_temer.tex}
+	\input{../songs/_o_amor_de_deus.tex}
+	\input{../songs/89_o_senhor_marchando_esta.tex}
+	\input{../songs/_o_tico_ticao.tex}
+	\input{../songs/119_pra_te_adorar.tex}
+	\input{../songs/_quem_o_fara.tex}
+	\input{../songs/_silencio_dentro_de_mim.tex}
+	\input{../songs/_super_heroi.tex}
+	\input{../songs/_tua_palavra.tex}
+	\input{../songs/115_um_gesto_de_amor.tex}
+
+	 \end{songs}
+	 
+	 %\showindex{Index of Authors and Composers}{authidx}
+	 %\showindex{Index of Scripture}{scripidx}
+	 
+	
+\end{document}
