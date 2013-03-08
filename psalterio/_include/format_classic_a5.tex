@@ -18,6 +18,10 @@
 %\usepackage{ifthen} %etoolbox is more up to date
 \usepackage{etoolbox}
 
+
+
+
+
 %\usepackage[xetex]{graphicx}
 %\usepackage{fontspec,xunicode}
 %\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
@@ -59,6 +63,10 @@ keepaspectratio]{logo.png}%
 
 
 
+
+
+
+
 %
 %Font Sizes
 %
@@ -73,24 +81,21 @@ keepaspectratio]{logo.png}%
 %\huge
 %\Huge
 
-%%% format song number
+
 %\renewcommand{\thesongnum}{A\arabic{songnum}}
 \renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\MakeUppercase#1}
-\setlength{\songnumwidth}{1.5cm} % box width
+\setlength{\songnumwidth}{1cm} % box width
 %\renewcommand{\snumbgcolor}{white}
 
-%%% format title
 %change font for Title
 %\renewcommand{\stitlefont}{\sffamily\bfseries\huge\MakeUppercase} 
 \renewcommand{\stitlefont}{\sffamily\bfseries\huge}
 %song title
 
-%%% format verse numbers
 %remove verse numbers
 %\noversenumbers 
 % make left separation
-\setlength{\versenumwidth}{.5cm}
-
+\setlength{\versenumwidth}{1.0cm}
 
 %verse separations
 %\versesep=15pt
@@ -100,13 +105,10 @@ keepaspectratio]{logo.png}%
 
 % separation between chords and lyrics
 \renewcommand{\clineparams}{ 
-\baselineskip=11pt 
+\baselineskip=10pt 
 %\lineskiplimit=2pt 
 %\lineskip=5pt
 }
-
-%\setlength{\oddsidemargin}{0in}
-%\setlength{\evensidemargin}{0in}
 
 % change font for lyrics
 %\renewcommand{\lyricfont}{\sffamily}
@@ -127,12 +129,7 @@ keepaspectratio]{logo.png}%
 %\renewcommand{\extendpostlude}
 %{ \songcopyright\ \songlicense\unskip \ Used with permission.}
 
-% chorus bar width
 \setlength{\cbarwidth}{0pt}
-
-%\renewcommand{\chorusjustify}{\justifyleft}
-
-
 \setlength{\sbarheight}{0pt}
 
 % music anf lyrics by
