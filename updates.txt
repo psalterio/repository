@@ -1,0 +1,6 @@
+1. Download 'songs-submit' from server (FTP)
+2. Confirm latex files and move to 'songs'
+3. submit changes to github
+4. ssh server
+5. $ git pull
+6. 
