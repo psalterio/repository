@@ -1,62 +1,61 @@
+% percentagem é comentário
+% 1 - \setcounter{songnum}{0} - numero da musica
+% 2 - \beginsong{Cum ba Ya}[ - título da música
+% 3 -  index={Cum ba Ya}] - entrada do indice da musica
+% 4 - \beginverse , depois desta linha adicionar a letra
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% include packages and formatting for the document
+% this has all the necessary packages and formatting for the document
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\input{../_include/songLatexHeader}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % set song number
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{0}
+\setcounter{songnum}{14}       % song number
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % begin song latex formating, set the title and other info
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Template}[            % song title ...
-% music and lyric by
-musiclyricsby={Arnaldo Ferreira},     
-% music and lyric by
-musicby={Joana Lantrinha},    
-% music and lyric by
-lyricsby={Joana Lantrinha},    
-% bible verse                      
-bible_verse={Revelation 5:13},%sr
-% licence
-credits={Public domain.},%cr
-% arrangement by
-%arrangementby={my},
-% index title ...	
-index={Template}]              
+\beginsong{Cum ba Yá}[            % song title ...
+    %mlby={},                           % music and lyric by
+    %sr={Revelation 5:13},        % bible verse
+    %cr={Public domain.},         % licence
+    %arr={my},                          % arrangement by
+    index={Cum ba Yá}]               % index title ...	
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % verse #1
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \beginverse                       % start verse
-\[D]Lá es\[G]tá o meu tes\[D A]ouro,
-\chordsoff                        % turn off chords
-Lá onde não há choro.
-\chordson                         % turn on chords
-Onde \[F#m Bm]{todos cantaremos} \[F#m Bm]juntos
-\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
+Cumba\[C]ya, Senhor, \[F]Cum\[C]baya!                              
+Cumbaya, Senhor,\[F] Cum\[G]baya!           
+Cumba\[C]ya, Senhor, \[F]Cum\[C]baya,
+\[F]Se\[C]nhor, \[G]Cumb\[C]aya!
 \endverse                         % end verse
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% chorus
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginchorus                      % start chorus
-\[F#m Bm]Aleluia, \[F#m Bm]Aleluia
-\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A]. 
-(canon com a estrofe)
-\endchorus                        % end chorus
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % verse #2
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \beginverse                       % start verse
-\chordsoff                        % chords formating off
-Exemplo.
-Exemplo.
-Exemplo.
-\chordson
+Chora al\[C]guem, Senhor, \[F]Cum\[C]baya!
+Chora alguem, Senhor, \[F] Cum\[G]baya!
+Chora al\[C]guem, Senhor, \[F]Cum\[C]baya,
+\[F]Se\[C]nhor, \[G]Cumb\[C]aya!
+\endverse                         % end verse
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% verse #3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse                       % start verse
+
+Canta al\[C]guem, Senhor, \[F]Cum\[C]baya!
+
+Canta alguem, Senhor, \[F] Cum\[G]baya!
+
+Canta al\[C]guem, Senhor, \[F]Cum\[C]baya,
+
+\[F]Se\[C]nhor, \[G]Cumb\[C]aya!
+
 \endverse                         % start verse
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -65,9 +64,9 @@ Exemplo.
 \ifbool{gchords}{                 % if the guitar chords are to be printed
 \vspace{\gchordsVspace}           % set a vertical space of 10 pt 
 
-\gtabD
-\gtabG
-\gtabA
+\gtabC
+\gtabF
+%\gtabGseven
 \gtabFsharpMinor
 \gtabBm
 

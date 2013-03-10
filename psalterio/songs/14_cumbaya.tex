@@ -1,89 +1,49 @@
-% percentagem é comentário
-% 1 - \setcounter{songnum}{0} - numero da musica
-% 2 - \beginsong{Cum ba Ya}[ - título da música
-% 3 -  index={Cum ba Ya}] - entrada do indice da musica
-% 4 - \beginverse , depois desta linha adicionar a letra
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% this has all the necessary packages and formatting for the document
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\input{../_include/songLatexHeader}
+\setcounter{songnum}{14}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{14}       % song number
+\beginsong{Cum ba Yá}[
+mlby={},
+%sr={Revelation 5:13},
+%cr={Public domain.},
+%arr={my},
+index={Cum ba Yá}]
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Cum ba Yá}[            % song title ...
-    %mlby={},                           % music and lyric by
-    %sr={Revelation 5:13},        % bible verse
-    %cr={Public domain.},         % licence
-    %arr={my},                          % arrangement by
-    index={Cum ba Yá}]               % index title ...	
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       % start verse
+% verso 1
+\beginverse
+\[C]Cumbayá, Senhor, \[F]Cumbay\[C]á! 
+Cumbayá, Senhor, \[F]Cumbay\[G]á!
+\[C]Cumbayá, Senhor, \[F]Cumbay\[C]á, 
+\[F]Senho\[C]r, \[G]Cumbay\[C]á!
+\endverse
+ 
+% verso 2
+\beginverse
+\[C]Chora alguém, Senhor, \[F]Cumbay\[C]á!
+Chora alguém, Senhor, \[F]Cumbay\[G]á!
+\[C]Chora alguém, Senhor, \[F]Cumbay\[C]á!
+\[F]Senho\[C]r, \[G]Cumbay\[C]á!
+\endverse
 
-Cumba\[C]ya, Senhor, \[F]Cum\[C]baya!
-                              
-Cumbaya, Senhor,\[F] Cum\[G]baya!
-           
-Cumba\[C]ya, Senhor, \[F]Cum\[C]baya,
-
-\[F]Se\[C]nhor, \[G]Cumb\[C]aya!
-
-\endverse                         % end verse
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       % start verse
-
-Chora al\[C]guem, Senhor, \[F]Cum\[C]baya!
-
-Chora alguem, Senhor, \[F] Cum\[G]baya!
-
-Chora al\[C]guem, Senhor, \[F]Cum\[C]baya,
-
-\[F]Se\[C]nhor, \[G]Cumb\[C]aya!
-
-\endverse                         % end verse
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #3
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       % start verse
-
-Canta al\[C]guem, Senhor, \[F]Cum\[C]baya!
-
-Canta alguem, Senhor, \[F] Cum\[G]baya!
-
-Canta al\[C]guem, Senhor, \[F]Cum\[C]baya,
-
-\[F]Se\[C]nhor, \[G]Cumb\[C]aya!
-
-\endverse                         % start verse
+\beginverse
+\[C]Canta alguém, Senhor, \[F]Cumbay\[C]á!
+Canta alguém, Senhor, \[F]Cumbay\[G]á!
+\[C]Canta alguém, Senhor, \[F]Cumbay\[C]á!
+\[F]Senho\[C]r, \[G]Cumbay\[C]á!
+\endverse
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % print guitar tabs used in this song
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+\ifbool{gchords}{																	% if the guitar chords are to be printed
+\vspace{\gchordsVspace}																		% set a vertical space of 10 pt 
 
 \gtabC
 \gtabF
-%\gtabGseven
-\gtabFsharpMinor
-\gtabBm
+\gtabG
 
-}                                 % end if
+}																							% end if
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % end song latex formating
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\endsong                          % end song
-%\input{../_include/songLatexFooter}
+\endsong	                                            								% end song
