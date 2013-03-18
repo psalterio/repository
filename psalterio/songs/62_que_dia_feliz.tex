@@ -1,0 +1,77 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% this has all the necessary packages and formatting for the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{../_include/songLatexHeader}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set song number
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{songnum}{62}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% begin song latex formating, set the title and other info
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% song title
+\beginsong{Que Dia Feliz}[
+        % music and lyric by
+        mlby={Luís Santos},
+        % lyrics
+        %lyricsby={Luís Santos}, 
+        % music by
+        %musicby={Luís Santos},
+        % bible verse
+        %sr={},
+        % licence/copyright
+        %cr={Public domain.},
+        % arrangement by
+        %arr={},
+        % index title
+        index={Que Dia Feliz}]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #1: verse 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse
+Ai nesse \[C]dia feliz
+Em que eu a \[F]Cristo conheci
+Jesus en\[C]trou-me no coração
+Abençoou-me co\[C]m a salvação
+Que dia fe\[C]liz.
+Jesus entr\[G]ou! Na minha vida en\[C]trou.
+Jesus entr\[G]ou! A minha vida mu\[C]dou.
+Jesus hab\[G]ita no meu cora\[C]ção 
+E desde ent\[G]ão minha vida mu\[C]dou
+E desde ent\[G]ão minha vida transfor\[C]mou!
+
+\endverse
+
+\chordsoff
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% section #2: verse 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginverse
+Ai meu Jesus vem aí
+Para me buscar vem aí
+E eu vou com Ele morar
+E para sempre vou cantar
+Este refrão.
+\endverse
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% print guitar tabs used in this song
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% if the guitar chords are to be printed
+\ifbool{gchords}{
+% set a vertical space of 10 pt 
+\vspace{\gchordsVspace}
+} % end if
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song latex formating
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% end song
+\endsong
+
+%include song latex footer
+%\input{../_include/songLatexFooter}
