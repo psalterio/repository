@@ -3,6 +3,9 @@
 % this has all the necessary packages and formatting for the document
 \input{format_regional_2013.tex}
 
+%index
+\newindex{titleidx}{titleidx}
+
 % this includes all the guitar tabs that may be needed
 %\input{../songs/_include/guitarTabs}
 
@@ -16,19 +19,19 @@
 
 \begin{titlepage}
 \AddToShipoutPicture{\titlepagepic}
-.
 \end{titlepage}
 
 	\AddToShipoutPicture{\BackgroundPic}
-	%\showindex{Complete Index of Songs}{titleidx}
-	\songsection{} % no title
-
 	%\AddToShipoutPicture{\BottomPic}
 	
+	%index
+	\showindex{Complete Index of Songs}{titleidx}
+	\songsection{Worship Songs} % no title
+
 	
-	\begin{songs}{}
+	%\begin{songs}{}
 	% \begin{songs}{titleidx,authidx,scripidx}
-	% \begin{songs}{titleidx}
+	\begin{songs}{titleidx}
 	
 	% \input{../songs/_include/formatPsalterio}
 	
@@ -62,22 +65,22 @@
 	\input{../../songs/143_a_bandeira_do_ceu.tex}
 	\input{../../songs/144_brilhar_por_jesus.tex}
 	\input{../../songs/145_com_todo_o_meu_ser.tex}
-	\input{../../songs/_digno_de_gloria.tex}
-	\input{../../songs/_estamos_juntos.tex}
+	\input{../../songs/149_digno_de_gloria.tex}
+	\input{../../songs/150_estamos_juntos.tex}
 	\input{../../songs/82_e_tempo_de_louvar.tex}
 	\input{../../songs/91_jesus_em_breve_vira.tex}
 	\input{../../songs/90_leao_de_juda.tex}
 	\input{../../songs/147_mensageiro.tex}
 	\input{../../songs/146_ha_mais_vida.tex}
 	\input{../../songs/138_nao_tenho_mais_que_temer.tex}
-	\input{../../songs/_o_amor_de_deus.tex}
+	\input{../../songs/151_o_amor_de_deus.tex}
 	\input{../../songs/89_o_senhor_marchando_esta.tex}
-	\input{../../songs/_o_tico_ticao.tex}
+	\input{../../songs/152_o_tico_ticao.tex}
 	\input{../../songs/119_pra_te_adorar.tex}
-	\input{../../songs/_quem_o_fara.tex}
-	\input{../../songs/_silencio_dentro_de_mim.tex}
-	\input{../../songs/_super_heroi.tex}
-	\input{../../songs/_tua_palavra.tex}
+	\input{../../songs/153_quem_o_fara.tex}
+	\input{../../songs/154_silencio_dentro_de_mim.tex}
+	\input{../../songs/155_super_heroi.tex}
+	\input{../../songs/156_tua_palavra.tex}
 	\input{../../songs/115_um_gesto_de_amor.tex}
 
 	 \end{songs}
