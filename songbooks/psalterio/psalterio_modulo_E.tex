@@ -1,0 +1,65 @@
+\def \rootFolder{.}
+
+
+\input{../_include/format_classic_a5}
+
+% this includes all the guitar tabs that may be needed
+\input{_include/guitarTabs}
+
+
+\newindex{titleidx}{cbtitle}
+%\newauthorindex{authidx}{cbauth}
+%\newscripindex{scripidx}{cbscrip}
+
+\providebool{gchords}
+\setbool{gchords}{false}
+
+% set guitar chords vertical space separation with lyrics
+\def \gchordsVspace{5 mm}
+
+\begin{document}
+
+	%\showindex{Complete Index of Songs}{titleidx}
+	\songsection{} % no title
+
+	\AddToShipoutPicture{\BottomPic}
+	
+	% \begin{songs}{}
+	% \begin{songs}{titleidx,authidx,scripidx}
+	\begin{songs}{titleidx}
+	
+	\input{_include/formatPsalterio}
+	
+	\input{songs/101_jerusalem.tex}
+	\input{songs/102_o_sol_revela_a_estrada.tex}
+	\input{songs/103_tu_es_o_unico_senhor_da_minha_vida.tex}
+	\input{songs/104_viver_e_agir.tex}
+	\input{songs/105_amar_e_fazer_amigos.tex}
+	\input{songs/106_alegria.tex}
+	\input{songs/107_jesus_e_o_caminho.tex}
+	\input{songs/108_nao_tenho_mais_que_temer.tex}
+	\input{songs/109_nao_me_esqueci_de_ti.tex}
+	\input{songs/110_cristo_vive_em_mim.tex}
+	\input{songs/111_a_minha_esperanca.tex}
+	\input{songs/112_vou_caminhando.tex}
+	\input{songs/113_reencontro_de_geracoes.tex}
+	\input{songs/114_influencia.tex}
+	\input{songs/115_um_gesto_de_amor.tex}
+	\input{songs/116_renascer.tex}
+	\input{songs/117_ja_falaste.tex}
+	\input{songs/118_unidos_em_espirito.tex}
+	\input{songs/119_pra_te_adorar.tex}
+	\input{songs/120_vaso_de_honra_renovame.tex}
+	\input{songs/121_ligando_a_terra_ao_ceu.tex}
+	\input{songs/122_nuvem_branca.tex}
+	\input{songs/123_louvai_a_deus.tex}
+	\input{songs/124_renova_a_tua_casa.tex}	
+	\input{songs/125_escolhido_por_deus.tex}
+
+	 \end{songs}
+	 
+	 %\showindex{Index of Authors and Composers}{authidx}
+	 %\showindex{Index of Scripture}{scripidx}
+	 
+	
+\end{document}

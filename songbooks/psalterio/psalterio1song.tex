@@ -1,0 +1,38 @@
+\def \includeFolder{_include}
+
+
+\input{_include/headers}
+
+% this includes all the guitar tabs that may be needed
+\input{_include/guitarTabs}
+
+%muda aqui o numero da musica em que estas a trabalhar
+%\def \selectSong{114}
+
+\providebool{gchords}
+\setbool{gchords}{false}
+
+% set guitar chords vertical space separation with lyrics
+\def \gchordsVspace{5 mm}
+
+\begin{document}
+	
+	
+	\AddToShipoutPicture*{\BottomPic}
+	
+	\begin{songs}{}
+	
+	%format file
+	\input{_include/formatPsalterio}
+	
+	%song file
+	%\input{\selectSong/\selectSong.tex}
+	\input{songs/seek_ye_first/lyrics.tex}
+	%\input{_include/chordsTable}
+	
+	 \end{songs}
+
+	 %lilypond-book --output=out --pdf  106single.tex
+	 %\lilypondfile[]{E_101.ly}
+	
+\end{document}
