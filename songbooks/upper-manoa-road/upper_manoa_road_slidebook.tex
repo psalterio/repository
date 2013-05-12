@@ -35,20 +35,25 @@
 
 %\doublespacing
 
-\setlength{\oddsidemargin}{-0.4in}
-%\setlength{\evensidemargin}{-0.5in}
-\setlength{\textwidth}{10in}
+\setlength{\oddsidemargin}{-0.5in}
+\setlength{\evensidemargin}{-0.5in}
+
 %\setlength{\topmargin}{-0.75in}
-\setlength{\topskip}{0in}
+%\setlength{\topmargin}{0in}
+%\setlength{\topskip}{1in}
 %\setlength{\headheight}{13.6pt}
-\setlength{\headsep}{0.5in}
-%\setlength{\textheight}{6.5in}
+%\setlength{\headsep}{0.1in}
+
+\setlength{\textheight}{6.5in}
+\setlength{\textwidth}{10in}
+
+%\centering
 
 % Don't number the verses:
-%\noversenumbers
+\noversenumbers
 
 % Put each verse and chorus on a separate slide:
-%\sepverses
+\sepverses
 
 % Use 28pt Adobe Helvetica font for the lyrics
 \renewcommand{\lyricfont}{%
@@ -66,25 +71,25 @@
 
 % Define some headers for each slide to help the projector-operator
 % find the correct slide.  We use the fancyhdr package for this.
-\IfFileExists{fancyhdr.sty}{
-  \usepackage{fancyhdr}
-  \usepackage{extramarks}
-  \pagestyle{fancy}
-  \fancyhf{}
-  \lhead{\sffamily\firstleftmark}
-  \rhead{\sffamily\firstrightmark}
-  \renewcommand{\headrulewidth}{0pt}
-
-  \renewcommand{\songmark}{\markboth{}{\thesongnum}}
-  \renewcommand{\versemark}{%
-    \ifvnumbered
-      \markboth{\thesongnum. \songtitle}{Verse \theversenum}%
-    \else
-      \markboth{\thesongnum. \songtitle}{}%
-    \fi
-  }
-  \renewcommand{\chorusmark}{\markboth{\thesongnum. \songtitle}{Chorus}}
-}{}
+%\IfFileExists{fancyhdr.sty}{
+%  \usepackage{fancyhdr}
+%  \usepackage{extramarks}
+%  \pagestyle{fancy}
+%  \fancyhf{}
+%  \lhead{\sffamily\firstleftmark}
+%  \rhead{\sffamily\firstrightmark}
+%  \renewcommand{\headrulewidth}{0pt}
+%
+%  \renewcommand{\songmark}{\markboth{}{\thesongnum}}
+%  \renewcommand{\versemark}{%
+%    \ifvnumbered
+%      \markboth{\thesongnum. \songtitle}{Verse \theversenum}%
+%    \else
+%      \markboth{\thesongnum. \songtitle}{}%
+%    \fi
+%  }
+%  \renewcommand{\chorusmark}{\markboth{\thesongnum. \songtitle}{Chorus}}
+%}{}
 
 \begin{document}
 
@@ -92,11 +97,14 @@
 %\input{songs.sbd}
 \begin{center}
 
-\input{songs/_seek_ye_first}
-%\input{songs/the_power_of_your_love}
-\input{songs/create_in_me}
-\input{songs/i_love_you_lord}
+%\input{../../songs.en/_seek_ye_first}
+%
+%\input{../../songs.en/create_in_me}
+%\input{../../songs.en/i_love_you_lord}
 
+\input{../../songs.en/here_i_am_to_worship}
+\input{../../songs.en/come_now_is_the_time_to_worship}
+\input{../../songs.en/the_power_of_your_love}
 
 \end{center}
 \end{songs}
