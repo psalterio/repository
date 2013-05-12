@@ -1,4 +1,4 @@
-1. Download 'songs-submit' from server (FTP)
+1. Download 'songs/submit' from server (FTP)
 2. Confirm latex files and move to 'songs'
 3. submit changes to github (commit and sync)
 4. ssh server
