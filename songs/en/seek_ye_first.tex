@@ -1,78 +1,39 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{101}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Exemplo}[            % song title ...
-    %mlby={},                           % music and lyric by
-    %sr={Revelation 5:13},        % bible verse
-    %cr={Public domain.},         % licence
-    %arr={my},                          % arrangement by
-    index={Exemplo}]               % index title ...	
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
-
-\[D]Lá es\[G]tá o meu tes\[D A]ouro,
-\chordsoff                        % turn off chords
-Lá onde não há choro.
-\chordson                         % turn on chords
-Onde \[F#m Bm]{todos cantaremos} \[F#m Bm]juntos
-\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
-
+%\setcounter{songnum}{0}
+\beginsong{Seek Ye First}[
+mlby={Karen Lafferty},
+%lyrics={Karen Lafferty},
+%music={Karen Lafferty},
+%cr={\copyright∼2011 someone},
+%li=\CCLI,
+index={Seek Ye First}]
+\beginverse	
+\[C]Seek ye \[G]first the \[Am]Kingdom of \[Em]God
+\[Dm7]And his \[C]righteous\[G]ness\[G7],
+\[C]And all these \[G]things will be \[Am]added unto \[Em]you.
+Singing \[Dm7]Alle\[C]lu, Alle\[G]lu\[C]ia.
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% chorus
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginchorus                      % start chorus
+\beginchorus
+\[C]Al - \[Em]le - \[F]lu - \[C]ia,  \[F]Al - \[C]le - \[G]lu - \[G7]ia
+\[C]Al - \[Em]le - \[F]lu - \[C]ia,  \[F]Alle - \[C]lu - Alle - \[G]lu - \[G7]ia
+\endchorus
 
-\[F#m Bm]Aleluia, \[F#m Bm]Aleluia
-\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A]. 
-(canon com a estrofe)
-
-\endchorus                        % end chorus
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
-
-\chordsoff                        
-
-Exemplo.
-Exemplo.
-Exemplo.
-
+\beginverse
+\chordsoff
+Ask and it shall be given unto you,
+Seek and ye shall find,
+Knock and the door shall be opened unto you.
+Singing Allelu, Alleluia.
 \chordson
+\endverse
 
-\endverse                         
+\beginverse
+\chordsoff
+Man shall not live by bread alone,
+But by every word
+That proceeds from the mouth of God.
+Singing Allelu, Alleluia.
+\chordson
+\endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
-
-\gtabD
-\gtabG
-\gtabA
-\gtabFsharpMinor
-\gtabBm
-
-}                                 % end if
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \endsong
