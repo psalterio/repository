@@ -1,27 +1,25 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{118}  
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Unidos em Espírito}[              % song title ...
-    %mlby={},                     % music and lyric by
-    %sr={Revelation 5:13},        % bible verse
-    %cr={Public domain.},         % licence
-    %arr={my},                    % arrangement by
-    index={Exemplo}]              % index title ...	
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+\beginsong{Unidos em Espírito}
+[
+    id                     = {118},
+    psalterio_number       = {118},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Exemplo},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+                       
 
 \[E]Unidos em espírito, \[A/mi]unidos na \[E]verdade \[A]nós vimos \[E/sol#]até Ti \[C#m]Senhor
 Con\[A]fiando em Tua \[F#m]vonta\[B]de dá-nos \[A]hoje \[E/sol#]a paz e \[A]Teu a\[E/sol#]mor
@@ -31,28 +29,13 @@ De \[Bb]ver-Te \[Gm7]regres\[C4]sar \[C]que a\[Bb2] Tua \[F/lá]voz, \[Bb2]seja 
 \[Bb]Para dar a \[F/lá]conhe\[Dm]cer ao \[Gm]mundo o \[C]Teu a\[Dm]mor...\[Dm/dó]
 \[Bb]Guia-nos \[F/A]até ao\[Dm] fim \[Gm7]contigo \[Bb/dó]nosso \[C7(b9)]Deus.\[F]
 
+
 \endverse
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
 
-\gtabD
-\gtabG
-\gtabA
-\gtabE
-\gtabBb
-\gtabC#m
-\gtabGm7
-\gtabF
+%----------------------------------------------------------
+% end song
 
-}                                 % end if
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \endsong

@@ -1,77 +1,59 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{100}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% song title
-\beginsong{Meu irmão}[
-        % music and lyric by
-        % mlby={},
-        % lyrics
-        %lyrics={}, 
-        % music by
-        %music={},
-        % bible verse
-        %sr={},
-        % licence/copyright
-        %cr={Public domain.},
-        % arrangement by
-        %arr={},
-        % index title
-        index={Meu irmão}]
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Meu irmão}
+[
+    id                     = {100},
+    psalterio_number       = {100},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Meu irmão},
+]
+
+%----------------------------------------------------------
 % section #1: verse 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginverse
+
 \[D]Mesmo que não \[Bm]te con\[C]heça és \[A]meu irmão, meu amigo
 \[D]Haste da mesm\[Bm]a sem\[G]ente, se\[A]mente do \[D]mesmo trigo.
 Tua água é minha água, tua fonte é minha fonte, 
 Teu regato é meu regato a saltar de monte em monte
+
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % section #2: chorus 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginchorus
+
 \[D]Meu irmão sou\[Bm] teu irm\[G]ão arbusto de u\[A]m só jardim
 Que me i\[D]mporta o tom\[Bm] da pele\[G] o cabelo a cor \[A]dos olhos
 \[D]Que me importa a voz e \[Bm]o gesto se és \[G]um \[A]ser igua\[D]l a mim
+
 \endchorus
 
-\chordsoff
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % section #3: verse 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginverse
+
 Meu irmão dá-me o teu braço quero ser teu companheiro
 Duas mós num só moinho moinho de um só outeiro.
 Só somos da mesma nascente bebemos da mesma bica 
 Pescadores das mesmas águas nossa amizade aqui fica
+
 \endverse
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% if the guitar chords are to be printed
-\ifbool{gchords}{
-% set a vertical space of 10 pt 
-\vspace{\gchordsVspace}
-} % end if
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
 % end song
-\endsong
 
-%include song latex footer
+\endsong

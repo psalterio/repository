@@ -1,17 +1,16 @@
-	\def \rootFolder{.}
+%must always define root folder to import correctly the format and the songs
+\def \rootFolder{../..}
 
-
-
+% choose the format
 %\input{_include/format_new}
-\input{_include/format_classic_a5}
+\input{../../format/psalterio_classic}
 %\input{_include/format_songbook_letter}
 
 % this includes all the guitar tabs that may be needed
-\input{_include/guitarTabs}
+%\input{_include/guitarTabs}
 
-
-\providebool{gchords}
-\setbool{gchords}{false}
+%\providebool{gchords}
+%\setbool{gchords}{false}
 
 % set guitar chords vertical space separation with lyrics
 %\def \gchordsVspace{5 mm}
@@ -25,7 +24,7 @@
 	%\songsection{Psalterio} % with title
 	\songsection{} % no title
 
-	\AddToShipoutPicture{\BottomPic}
+	%\AddToShipoutPicture{\BottomPic}
 	
 	\begin{songs}{}
 	%\begin{songs}{titleidx,authidx,scripidx}
@@ -34,170 +33,170 @@
 	%\input{songs/0_template.tex}
 	% numero 1 antigo agora passou ao 4, hino dos companheiros
 	% o hino primeiro sera o do psalterio?
-	\input{../../songs/pt/hino_dos_ticoes.tex}
-	\input{../../songs/pt/hino_dos_desbravadores.tex}
-	\input{../../songs/pt/hino_dos_companheiros.tex}
-	\input{../../songs/pt/hino_do_missionario_voluntario.tex}
-	\input{../../songs/pt/hino_do_projecto_70.tex}
-	\input{../../songs/pt/no_espirito_unidos.tex}
-	\input{../../songs/pt/liberdade.tex}
-	\input{../../songs/pt/old_time_religion}
-	\input{../../songs/pt/vencendo_vem_jesus.tex}
-	\input{../../songs/pt/pescadores_de_homens.tex}
-	\input{../../songs/pt/gozo_no_coracao.tex}
-	\input{../../songs/fr/oh_prends_mon_ame.tex}
-	\input{../../songs/pt/cumbaya.tex}	
-	\input{../../songs/pt/caminhando.tex}
-	\input{../../songs/pt/viste_quando.tex}
-	\input{../../songs/fr/jai_choisi_de_suivre_jesus-christ.tex}	
-	\input{../../songs/pt/quando_penso_na_cruz.tex}
-	\input{../../songs/pt/em_nada_ponho_a_minha_fe.tex}
-	\input{../../songs/pt/estranha_graca_de_jesus.tex}
-	\input{../../songs/en/amen.tex}
-	\input{../../songs/pt/sal_da_terra.tex}
-	\input{../../songs/pt/nao_desistir.tex}	
-	\input{../../songs/pt/hoje_sou_feliz.tex}
-	\input{../../songs/fr/lamour_du_sauveur.tex}
-	\input{../../songs/pt/canta_a_alegria.tex}
-	\input{../../songs/pt/oh_sorri_sempre.tex}
-	\input{../../songs/pt/seguindo_a_jesus.tex}
-	\input{../../songs/pt/jesus_e_o_caminho.tex}
-	\input{../../songs/pt/maos.tex}
-	\input{../../songs/pt/quero_andar_com_meu_jesus.tex}
-	\input{../../songs/pt/aleluia.tex}
-	\input{../../songs/pt/maravilhoso_jesus.tex}
-	\input{../../songs/fr/avec_des_cris_de_joie.tex}
-	\input{../../songs/pt/tenho_um_hino_no_meu_coracao.tex}
-	\input{../../songs/pt/pescador_de_homens.tex}
-	\input{../../songs/pt/esta_esperanca.tex}
-	\input{../../songs/pt/saudade.tex}
-	\input{../../songs/en/he_was_there_all_the_time.tex}
-	\input{../../songs/pt/a_paz_do_ceu.tex}
-	\input{../../songs/en/praise_the_lord.tex}	
-	\input{../../songs/pt/supremo_anelo.tex}
-	\input{../../songs/pt/satisfacao.tex}
-	\input{../../songs/pt/canta_hosana.tex}	
-	\input{../../songs/pt/alguem_perto_esta.tex}
-	\input{../../songs/en/a_different_house.tex}
-	\input{../../songs/pt/nao_me_esquecerei.tex}
-	\input{../../songs/pt/a_rocha_de_horeb.tex}
-	\input{../../songs/fr/louange.tex}
-	\input{../../songs/pt/meu_meu_meu.tex}
-	\input{../../songs/pt/amor_amor.tex}
-    \input{../../songs/pt/estamos_unidos.tex}
-	\input{../../songs/pt/chegou_o_tempo.tex}
-	\input{../../songs/pt/e_teu_sangue.tex}
-	\input{../../songs/pt/yeshua_mashea.tex}
-	\input{../../songs/en/hes_got_the_whole_world_in_his_hands.tex}
-	\input{../../songs/pt/ninguem_te_amou.tex}
-	\input{../../songs/pt/um_futuro_e_uma_esperanca.tex}
-	\input{../../songs/pt/reino_do_amor_oasis.tex}  % mudou titulo, de a montanha me disse
-	\input{../../songs/en/we_sing_hossana.tex}
-	\input{../../songs/pt/a_nossa_forca_e_o_cantar.tex}
-	\input{../../songs/pt/que_dia_feliz.tex}
-	\input{../../songs/pt/sei_o_que_nao_vai_tardar.tex}
-	\input{../../songs/pt/jesus_te_ama.tex}
-	\input{../../songs/pt/mao_na_mao.tex}
-	\input{../../songs/pt/mas_que_povo_e_este.tex}
-	\input{../../songs/pt/a_cruz.tex}
-	\input{../../songs/pt/cristo.tex}
-	\input{../../songs/pt/conhecer_jesus.tex}
-	\input{../../songs/pt/esta_minha_paz.tex}
-	\input{../../songs/pt/deus_esta_aqui.tex}
-	\input{../../songs/pt/de_gloria.tex}
-	\input{../../songs/pt/cristo_e_rei.tex}
-	\input{../../songs/pt/amigo_leal.tex}
-	\input{../../songs/pt/momentos_assim.tex}
-	\input{../../songs/pt/deus_tu_cuidas_do_meu_coracao.tex}
-	\input{../../songs/pt/em_breve_ele_vira.tex}
-	\input{../../songs/pt/conta_comigo.tex}
-	\input{../../songs/pt/queria_dizer.tex}
-	\input{../../songs/pt/jesus_meu_grande_amigo.tex}
-	\input{../../songs/pt/tu_es_soberano.tex}
-	\input{../../songs/pt/e_tempo_de_louvar.tex}
-	\input{../../songs/es/dios_es_mi_esperanza.tex}
-	\input{../../songs/pt/cristo_e_bom.tex}
-	\input{../../songs/fr/tu_es_bon.tex}
-	\input{../../songs/pt/vinde_vos_povos.tex}
-	\input{../../songs/pt/estou_contente.tex}
-	\input{../../songs/pt/jesus_o_unico.tex}
-	\input{../../songs/pt/o_guarda_da_minha_fe.tex}
-	\input{../../songs/pt/o_senhor_marchando_esta.tex}
-	\input{../../songs/pt/leao_de_juda.tex}
-	\input{../../songs/pt/jesus_em_breve_vira.tex}
-	\input{../../songs/pt/vem_connosco_para_cantar.tex}
-	\input{../../songs/pt/eu_so_confio_no_senhor.tex}
-	\input{../../songs/pt/sonho.tex}
-	\input{../../songs/pt/vem_viver_em_mim.tex}
-	\input{../../songs/pt/a_esperanca_e_jesus.tex}
-	\input{../../songs/pt/ha_momentos.tex}
-	\input{../../songs/pt/buscai_primeiro_o_reino_dos_ceus.tex}
-	\input{../../songs/en/im_gonna_sing.tex}
-	\input{../../songs/pt/meu_irmao.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/hino_dos_ticoes.tex}
+	\setcounter{songnum}{3}\input{../../songs/pt/hino_dos_desbravadores.tex}
+	\setcounter{songnum}{4}\input{../../songs/pt/hino_dos_companheiros.tex}
+	\setcounter{songnum}{5}\input{../../songs/pt/hino_do_missionario_voluntario.tex}
+	\setcounter{songnum}{6}\input{../../songs/pt/hino_do_projecto_70.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/no_espirito_unidos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/liberdade.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/old_time_religion}
+	\setcounter{songnum}{2}\input{../../songs/pt/vencendo_vem_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/pescadores_de_homens.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/gozo_no_coracao.tex}
+	\setcounter{songnum}{2}\input{../../songs/fr/oh_prends_mon_ame.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/cumbaya.tex}	
+	\setcounter{songnum}{2}\input{../../songs/pt/caminhando.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/viste_quando.tex}
+	\setcounter{songnum}{2}\input{../../songs/fr/jai_choisi_de_suivre_jesus-christ.tex}	
+	\setcounter{songnum}{2}\input{../../songs/pt/quando_penso_na_cruz.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/em_nada_ponho_a_minha_fe.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/estranha_graca_de_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/amen.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/sal_da_terra.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/nao_desistir.tex}	
+	\setcounter{songnum}{2}\input{../../songs/pt/hoje_sou_feliz.tex}
+	\setcounter{songnum}{2}\input{../../songs/fr/lamour_du_sauveur.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/canta_a_alegria.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/oh_sorri_sempre.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/seguindo_a_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/jesus_e_o_caminho.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/maos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/quero_andar_com_meu_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/aleluia.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/maravilhoso_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/fr/avec_des_cris_de_joie.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/tenho_um_hino_no_meu_coracao.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/pescador_de_homens.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/esta_esperanca.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/saudade.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/he_was_there_all_the_time.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/a_paz_do_ceu.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/praise_the_lord.tex}	
+	\setcounter{songnum}{2}\input{../../songs/pt/supremo_anelo.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/satisfacao.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/canta_hosana.tex}	
+	\setcounter{songnum}{2}\input{../../songs/pt/alguem_perto_esta.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/a_different_house.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/nao_me_esquecerei.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/a_rocha_de_horeb.tex}
+	\setcounter{songnum}{2}\input{../../songs/fr/louange.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/meu_meu_meu.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/amor_amor.tex}
+    \setcounter{songnum}{2}\input{../../songs/pt/estamos_unidos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/chegou_o_tempo.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/e_teu_sangue.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/yeshua_mashea.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/hes_got_the_whole_world_in_his_hands.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/ninguem_te_amou.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/um_futuro_e_uma_esperanca.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/reino_do_amor_oasis.tex}  % mudou titulo, de a montanha me disse
+	\setcounter{songnum}{2}\input{../../songs/en/we_sing_hossana.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/a_nossa_forca_e_o_cantar.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/que_dia_feliz.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/sei_o_que_nao_vai_tardar.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/jesus_te_ama.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/mao_na_mao.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/mas_que_povo_e_este.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/a_cruz.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/cristo.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/conhecer_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/esta_minha_paz.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/deus_esta_aqui.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/de_gloria.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/cristo_e_rei.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/amigo_leal.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/momentos_assim.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/deus_tu_cuidas_do_meu_coracao.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/em_breve_ele_vira.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/conta_comigo.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/queria_dizer.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/jesus_meu_grande_amigo.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/tu_es_soberano.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/e_tempo_de_louvar.tex}
+	\setcounter{songnum}{2}\input{../../songs/es/dios_es_mi_esperanza.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/cristo_e_bom.tex}
+	\setcounter{songnum}{2}\input{../../songs/fr/tu_es_bon.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/vinde_vos_povos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/estou_contente.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/jesus_o_unico.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_guarda_da_minha_fe.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_senhor_marchando_esta.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/leao_de_juda.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/jesus_em_breve_vira.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/vem_connosco_para_cantar.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/eu_so_confio_no_senhor.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/sonho.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/vem_viver_em_mim.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/a_esperanca_e_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/ha_momentos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/buscai_primeiro_o_reino_dos_ceus.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/im_gonna_sing.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/meu_irmao.tex}
 
 	%100
-	\input{../../songs/pt/jerusalem.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/jerusalem.tex}
 	% confirmar o sol_revela_a_estrada
-	\input{../../songs/pt/o_sol_revela_a_estrada.tex}
-	\input{../../songs/pt/tu_es_o_unico_senhor_da_minha_vida.tex}
-	\input{../../songs/pt/viver_e_agir.tex}
-	\input{../../songs/pt/amar_e_fazer_amigos.tex}
-	\input{../../songs/pt/alegria.tex}
-	\input{../../songs/pt/jesus_e_o_caminho.tex}
-	\input{../../songs/pt/nao_tenho_mais_que_temer.tex}
-	\input{../../songs/pt/nao_me_esqueci_de_ti.tex}
-	\input{../../songs/pt/cristo_vive_em_mim.tex}
-	\input{../../songs/pt/a_minha_esperanca.tex}
-	\input{../../songs/pt/vou_caminhando.tex}
-	\input{../../songs/pt/reencontro_de_geracoes.tex}
-	\input{../../songs/pt/influencia.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_sol_revela_a_estrada.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/tu_es_o_unico_senhor_da_minha_vida.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/viver_e_agir.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/amar_e_fazer_amigos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/alegria.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/jesus_e_o_caminho.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/nao_tenho_mais_que_temer.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/nao_me_esqueci_de_ti.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/cristo_vive_em_mim.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/a_minha_esperanca.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/vou_caminhando.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/reencontro_de_geracoes.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/influencia.tex}
 	% a confirmar um_gesto_de_amor_.tex, repetido!!!
-	\input{../../songs/pt/um_gesto_de_amor.tex} 
-	%\input{../../songs/pt/renascer.tex} %falta fazer
-	\input{../../songs/pt/ja_falaste.tex}
-	\input{../../songs/pt/unidos_em_espirito.tex}
-	\input{../../songs/pt/pra_te_adorar.tex}
-	\input{../../songs/pt/vaso_de_honra_renovame.tex}
-	\input{../../songs/pt/ligando_a_terra_ao_ceu.tex}
-	\input{../../songs/pt/nuvem_branca.tex}
-	%\input{../../songs/pt/louvai_a_deus_simples.tex}
-	\input{../../songs/pt/louvai_a_deus.tex}
-	\input{../../songs/pt/renova_a_tua_casa.tex}	
-	\input{../../songs/pt/escolhido_por_deus.tex}
-	\input{../../songs/pt/o_poder_do_amor.tex}
-	\input{../../songs/en/shine_jesus_shine.tex}
-	\input{../../songs/en/majesty.tex}
-	\input{../../songs/pt/no_iniciar_da_semana.tex}
-	\input{../../songs/pt/sonhos.tex}
-	\input{../../songs/pt/o_senhor_e_o_meu_pastor.tex}
-	\input{../../songs/pt/tornar_o_mundo_melhor.tex}
-	\input{../../songs/pt/as_criancas_de_deus_sao_obedientes.tex}
-	\input{../../songs/pt/o_sangue_da_cruz.tex}
-	\input{../../songs/en/he_is_exalted.tex}
-	\input{../../songs/pt/um_gesto_de_amor.tex}
-	\input{../../songs/en/before_there_was_time.tex}
-	\input{../../songs/pt/nao_tenho_mais_que_temer.tex}
-	\input{../../songs/pt/o_teu_poder.tex}
-	\input{../../songs/pt/viver_e_agir.tex}
-	\input{../../songs/pt/brilhando_cada_vez_mais.tex}
-	\input{../../songs/pt/fe_a_arder.tex}
-	\input{../../songs/pt/a_bandeira_do_ceu.tex}
-	\input{../../songs/pt/brilhar_por_jesus.tex}
-	\input{../../songs/pt/com_todo_o_meu_ser.tex}
-    \input{../../songs/pt/ha_mais_vida.tex}
-	\input{../../songs/pt/mensageiro.tex}
-	\input{../../songs/pt/o_sol_revela_a_estrada.tex}
-	\input{../../songs/pt/digno_de_gloria.tex}
-	\input{../../songs/pt/estamos_juntos.tex}
-	\input{../../songs/pt/o_amor_de_deus.tex}
-	\input{../../songs/pt/o_tico_ticao.tex}
-	\input{../../songs/pt/quem_o_fara.tex}
-	\input{../../songs/pt/silencio_dentro_de_mim.tex}
-	\input{../../songs/pt/super_heroi.tex}
-	\input{../../songs/pt/tua_palavra.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/um_gesto_de_amor.tex} 
+	%\setcounter{songnum}{2}\input{../../songs/pt/renascer.tex} %falta fazer
+	\setcounter{songnum}{2}\input{../../songs/pt/ja_falaste.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/unidos_em_espirito.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/pra_te_adorar.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/vaso_de_honra_renovame.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/ligando_a_terra_ao_ceu.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/nuvem_branca.tex}
+	%\setcounter{songnum}{2}\input{../../songs/pt/louvai_a_deus_simples.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/louvai_a_deus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/renova_a_tua_casa.tex}	
+	\setcounter{songnum}{2}\input{../../songs/pt/escolhido_por_deus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_poder_do_amor.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/shine_jesus_shine.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/majesty.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/no_iniciar_da_semana.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/sonhos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_senhor_e_o_meu_pastor.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/tornar_o_mundo_melhor.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/as_criancas_de_deus_sao_obedientes.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_sangue_da_cruz.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/he_is_exalted.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/um_gesto_de_amor.tex}
+	\setcounter{songnum}{2}\input{../../songs/en/before_there_was_time.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/nao_tenho_mais_que_temer.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_teu_poder.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/viver_e_agir.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/brilhando_cada_vez_mais.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/fe_a_arder.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/a_bandeira_do_ceu.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/brilhar_por_jesus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/com_todo_o_meu_ser.tex}
+    \setcounter{songnum}{2}\input{../../songs/pt/ha_mais_vida.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/mensageiro.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_sol_revela_a_estrada.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/digno_de_gloria.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/estamos_juntos.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_amor_de_deus.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/o_tico_ticao.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/quem_o_fara.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/silencio_dentro_de_mim.tex}
+	\setcounter{songnum}{2}\input{../../songs/pt/super_heroi.tex}
+%	\setcounter{songnum}{2}\input{../../songs/pt/tua_palavra.tex}
 	
 	% confirmar numeros
-	%\input{../../songs/pt/_a_bandeira_do_ceu}
+	%\setcounter{songnum}{2}\input{../../songs/pt/_a_bandeira_do_ceu}
 	
 	 \end{songs}
 

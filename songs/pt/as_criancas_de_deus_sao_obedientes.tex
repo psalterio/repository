@@ -1,76 +1,74 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{133} 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Quando a Mãe diz ...}[   % song title
-%mlby={},                     % music and lyric by
-%sr={Revelation 5:13},        % bible verse
-%cr={Public domain.},         % licence
-%arr={my},                    % arrangement by
-index={Quando a Mãe diz ...}]   % index title
-%Quando a Mãe Diz
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                                  
+
+\beginsong{Quando a Mãe diz ...}
+[
+    id                     = {133},
+    psalterio_number       = {133},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Quando a Mãe diz ...},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+                                  
 \[G]Quando a mãe diz \[D] ``au, au, au'';
 Quem é que corre, quem \[G]é que corre?
 Quando a mãe diz \[D] ``au, au, au'';
 \[C]Os cãezinhos vão cor\[G]ren\[D]do.\[G]
-\endverse	         
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% chorus
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginchorus                                % start chorus
-\[G]Quem os ensi\[D]nou foi Deus,
+\endverse
+
+%----------------------------------------------------------
+% section #2: chorus 
+
+\beginchorus
+                                \[G]Quem os ensi\[D]nou foi Deus,
 A correrem, \[G]a correrem....
 Quem os ensi\[D]nou foi Deus,
 \[C]A correrem quando a \[G]mãe \[D]cha\[G]mar
-\endchorus	                               % end chorus
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\endchorus
+
+%----------------------------------------------------------
+% section #3: verse 
+
 \beginverse
+
 \chordsoff
 Quando a mão diz “quá, quá, quá”,
 Quem é que corre, quem é que corre?
 Quando a mão diz “quá, quá, quá”,
 Os patinhos vão correndo.
-\chordson   					% chords formating on
-\endverse	                   
+\chordson   					
+\endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
-% verse #3
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
+% section #4: verse 
+
 \beginverse
+
 \chordsoff
 Quando a mãe diz “venham cá”,
 Quem é que corre, quem é que corre?
 Quando a mãe diz “venham cá”,
 Os meninos vão correndo.
-\chordson   					% chords formating on
+\chordson   					
 
-\endverse	                   
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{				% if the guitar chords are to be printed
-\vspace{\gchordsVspace}			% set a vertical space of 10 pt 
+\endverse
 
-}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\endsong	                    % end song
+
+
+%----------------------------------------------------------
+% end song
+
+\endsong

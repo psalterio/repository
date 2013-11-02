@@ -3,7 +3,7 @@
 %packages
 \usepackage[left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
 
-\usepackage[chorded]{\rootFolder/_include/psalterio} %must check the licence to change the name of the sty file!!!
+\usepackage[chorded]{\rootFolder/styles/psalterio} %must check the licence to change the name of the sty file!!!
 %\usepackage[chorded]{resources/songs-old} %must check the licence to change the name of the sty file!!!
 
 \usepackage[utf8]{inputenc}
@@ -142,18 +142,41 @@ keepaspectratio]{logo.png}%
 
 % music by
 \newcommand{\musicby}{} 
-\newsongkey{musicby}{\def\musicby{}}
+\newsongkey{music_by}{\def\musicby{}}
                  {\def\musicby{\sffamily\it\small música por #1\par}}
 
 % lyrics by
 \newcommand{\lyricsby}{} 
-\newsongkey{lyricsby}{\def\lyricsby{}}
+\newsongkey{lyrics_by}{\def\lyricsby{}}
                  {\def\lyricsby{\sffamily\it\small letra por #1\par}}
+
+% arranjement by
+\newcommand{\arrangementby}{} 
+\newsongkey{arrangement_by}{\def\arrangementby{}}
+                 {\def\arrangementby{\sffamily\it\small arranjo por #1\par}}
+
+% bible verse
+\newcommand{\bibleverse}{} 
+\newsongkey{bible_verse}{\def\bibleverse{}}
+                 {\def\bibleverse{\sffamily\it\small Verso Biblico #1\par}}
+
+% bible verse
+\newcommand{\licenceorcopyright}{} 
+\newsongkey{licence_or_copyright}{\def\licenceorcopyright{}}
+                 {\def\licenceorcopyright{\sffamily\it\small Copyright  #1\par}}
+
+% video url
+\newcommand{\videourl}{} 
+\newsongkey{video_url}{\def\videourl{}}
+                 {\def\videourl{\sffamily\it\small Video URL  #1\par}}
+
+
+
 
 % number
 \newcommand{\psalterionumber}{} 
-\newsongkey{psalterionumber}{\def\psalterionumber{}}
-                 {\def\psalterionumber{\sffamily\it\small Psaltério #1\par}}
+\newsongkey{psalterio_number}{\def\psalterio_number{}}
+                 {\def\psalterio_number{\sffamily\it\small Psaltério #1\par}}
 
 % extra
 \newcommand{\extra}{} 

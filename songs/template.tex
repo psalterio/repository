@@ -1,0 +1,109 @@
+% random notes about the template:
+%----------------------------------------------------------
+% set song number
+% not used by default, to use this command put it in another file that includes this latex 
+%\setcounter{songnum}{0}
+% not used anymore
+%  %music_lyrics_by={Arnaldo Ferreira},
+
+
+%----------------------------------------------------------
+% begin song latex formating, set the title and other info
+
+\beginsong{Titulo}
+[
+	id = {1},
+    psalterio_number = {143},
+	music_by = {Joana Lantrinha},    
+	lyrics_by = {Joana Lantrinha},
+	arrangement_by = {my},
+	bible_verse  = {Revelation 5:13},
+	licence_or_copyright = {Public domain.},
+	video_url = {http://www.youtube.com/watch?v=7km1-BSWgeg},
+	extra = {bla...bla...}
+	index = {Template}
+]
+
+% clean
+
+    psalterio_number = {46},
+	music_by = {},    
+	lyrics_by = {},
+	arrangement_by = {},
+	bible_verse  = {},
+	licence_or_copyright = {},
+	video_url = {},
+	extra = {}
+	index = {A different House}
+
+
+%----------------------------------------------------------
+% verse #1
+
+\beginverse
+
+\[D]Lá es\[G]tá o meu tes\[D A]ouro,
+\chordsoff                        % turn off chords
+Lá onde não há choro.
+\chordson                         % turn on chords
+Onde \[F#m Bm]{todos cantaremos} \[F#m Bm]juntos
+\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
+
+\endverse
+
+
+
+%----------------------------------------------------------
+% chorus
+
+\beginchorus
+
+\[F#m Bm]Aleluia, \[F#m Bm]Aleluia
+\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A]. 
+(canon com a estrofe)
+
+\endchorus
+
+
+
+%----------------------------------------------------------
+% verse #2
+
+\beginverse
+
+\chordsoff                        
+Exemplo.
+Exemplo.
+Exemplo.
+\chordson
+
+\endverse                         
+
+
+
+%----------------------------------------------------------
+% print guitar tabs used in this song
+
+ % if the guitar chords are set to be printed
+\ifbool{gchords}{
+
+ % set a vertical space of 10 pt         
+\vspace{\gchordsVspace}          
+
+\gtabD
+\gtabG
+\gtabA
+\gtabFsharpMinor
+\gtabBm
+
+% end if
+}
+
+
+
+
+
+%----------------------------------------------------------
+% end song
+
+\endsong

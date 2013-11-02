@@ -1,27 +1,25 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{120}  
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Vaso de Honra/Renova-me}[              % song title ...
-    %mlby={},                     % music and lyric by
-    %sr={Revelation 5:13},        % bible verse
-    %cr={Public domain.},         % licence
-    %arr={my},                    % arrangement by
-    index={Vaso de Honra/Renova-me}]              % index title ...	
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+\beginsong{Vaso de Honra/Renova-me}
+[
+    id                     = {120},
+    psalterio_number       = {120},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Vaso de Honra/Renova-me},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+                       
 
 \[C]Eu quero \[G]ser, um \[F]vaso de \[C]hon\[Dm7]ra Molda\[Dm7/C]do pelo \[G4-G]Senhor.
 \[C]Com a mensa\[G]gem de a\[F]mor e espe\[C]rança.\[F] Aos homens \[G]por \[C]onde for.
@@ -33,29 +31,13 @@ Porque \[C]tudo o que \[Em7]há \[Am]dentro \[Am/G]de mim \[Dm7]Necessita \[Dm7/
 Porque \[C]tudo o que \[Em7]há Dentro do \[Am]meu co\[Am/G]ração\[Dm7]
 Neces\[G]sita mais \[Am]de \[Am/G]ti. \[Dm7](2x)
 Neces\[G]sita mais \[F]de \[F/G]ti.\[F2(b5)]\[C]
+
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
 
-\gtabD
-\gtabDm7
-\gtabG
-\gtabG4
-\gtabGsharp
-\gtabF
-\gtabA
-\gtabAm
-\gtabE
-\gtabEminor
-\gtabC
-\gtabDminor
 
-}                                 % end if
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
+% end song
+
 \endsong

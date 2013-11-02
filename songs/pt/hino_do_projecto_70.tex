@@ -1,48 +1,48 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{6}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Hino do Projecto 70}[            % song title ...
-mlby={Redd Harper},                           % music and lyric by
-%sr={Revelation 5:13},        % bible verse
-%cr={Public domain.},         % licence
-%arr={my},                          % arrangement by
-index={Hino do Projecto 70}
-]               % index title ...	
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+
+\beginsong{Hino do Projecto 70}
+[
+    id                     = {6},
+    psalterio_number       = {6},
+    music_by               = {Redd Harper},
+    lyrics_by              = {Redd Harper},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Hino do Projecto 70},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+                       
 \[F]Olhando a Jesus, sigo passo a pa\[C7]sso,
 Vivendo o proje\[C7]cto \[C9]em seu\[C] gran\[G7]de \[C7]amor\[F].
 Afastar nao me pode, nem m\[F7]esmo o temo\[Bb]r,
 Olha\[Bm6]ndo a Jesu\[F]s, sig\[C7]o passo a pa\[F]sso.
+
 \endverse
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+
+%----------------------------------------------------------
+% section #2: verse 
+
+\beginverse
+                       
 \[F]Se o caminho e estreito, e duro a meu pa\[C7]sso,
 Eu vou caminhan\[C7]do\[C9], na\[C] for\[G7]ca do \[C7]amor\[F].\
 Afastar nao me pode, nem m\[F7]esmo o temo\[Bb]r,
 Olha\[Bm6]ndo a Jesu\[F]s, sig\[C7]o passo a pa\[F]sso.
-\endverse                         
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
-\gtabC
-\gtabF
-%\gtabGseven
-\gtabFsharpMinor
-\gtabBm
-}                                 % end if
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\endverse
+
+
+
+
+%----------------------------------------------------------
+% end song
+
 \endsong

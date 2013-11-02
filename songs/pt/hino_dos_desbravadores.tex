@@ -1,20 +1,25 @@
-% song number
-\setcounter{songnum}{3}
-% song title ...
-\beginsong{Hino dos Desbravadores}[
-id={15},
-%mlby={},                           % music and lyric by
-%sr={Revelation 5:13},        % bible verse
-%cr={Public domain.},         % licence
-%arr={my},                          % arrangement by
-extra={Alvo: A Mensagem Do Advento A Todo O Mundo Nesta Geração},
-% index title ...
-index={Hino dos Desbravadores}
-]               
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
+% begin song latex formating, set the title and other info
+
+\beginsong{Hino dos Desbravadores}
+[
+    id                     = {3},
+    psalterio_number       = {3},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {Alvo: A Mensagem Do Advento A Todo O Mundo Nesta Geração},
+    index                  = {Hino dos Desbravadores},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
 \beginverse
+
 Nós \[G]so\[G$^{7+}$]mos os \[G75- G7dim]Desbravado\[G]res,
 Os servos do \[G95+]Rei do\[G]s \[C E7 Am]reis!
 Sempre av\[C]ante, as\[D7]sim \[G]mar\[Am7]cham\[D7]os,
@@ -22,19 +27,13 @@ Sempre av\[C]ante, as\[D7]sim \[G]mar\[Am7]cham\[D7]os,
 Deve\[G]mos \[G7+]ao mu\[G75-]ndo \[G7dim]anun\[G]ciar,
 As novas da \[G95+]salvaçã\[C]o: 
 Que Cristo \[Eb7]virá em b\[G]reve d\[C]ar o \[G]ga\[D$^7$ G]lardão
+
 \endverse
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% if the guitar chords are to be printed
-\ifbool{gchords}{
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
-\gtabC
-\gtabF
-%\gtabGseven
-\gtabFsharpMinor
-\gtabBm
-% end if bool
-}
+
+
+
+
+%----------------------------------------------------------
 % end song
+
 \endsong

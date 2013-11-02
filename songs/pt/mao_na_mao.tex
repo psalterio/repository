@@ -1,58 +1,49 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{65}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% song title
-\beginsong{Mão na Mão}[
-        % music and lyric by
-        % mlby={},
-        % lyrics
-        %lyrics={}, 
-        % music by
-        %music={},
-        % bible verse
-        %sr={},
-        % licence/copyright
-        %cr={Public domain.},
-        % arrangement by
-        %arr={},
-        % index title
-        index={Mão na Mão}]
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Mão na Mão}
+[
+    id                     = {65},
+    psalterio_number       = {65},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Mão na Mão},
+]
+
+%----------------------------------------------------------
 % section #1: verse 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginverse
+
 Há um \[C]longo camin\[A]ho, que tu tens de as\[Dm]sumir\[G].
 P’ra bem do teu po\[C]rvir\[Am], que D\[Dm]eus meu Pai\[G], vai perguntar.
 Há um lon\[C]go caminh\[A]o, que tu tens de ap\[Dm]rende\[G]r, 
 Ainda que o sab\[C]er,\[Am] já habi\[Dm]te em ti\[G].
+
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % section #2: chorus 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginchorus
+
 Mão na \[F]mão, \[G]rumo ao \[Em]ven\[Am]to
 Com Je\[F]sus ensin\[G]ando ao \[C]cen\[C7]tro.
 Mão na \[F]mão,\[G] humil\[Em]dad\[Am]e 
 P’ra que \[F]não se \[G]faça \[C]tarde.
+
 \endchorus
 
-\chordsoff
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % section #3: verse 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginverse
+
 Há um longo caminho 
 Que às vezes não sabemos 
 Como explicar
@@ -60,22 +51,13 @@ No momento, gélido e escuro.
 Há um longo silêncio
 Maior que um trovão
 Que cerca a multidão, e a faz recuar...
+
 \endverse
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% if the guitar chords are to be printed
-\ifbool{gchords}{
-% set a vertical space of 10 pt 
-\vspace{\gchordsVspace}
-} % end if
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
 % end song
-\endsong
 
-%include song latex footer
+\endsong

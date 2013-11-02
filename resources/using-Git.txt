@@ -4,8 +4,12 @@ GIT HELP for Mac Os/Unix
 ###########################
 using gitX
 ###########################
-download the new gitX from 
-http://gitx.laullon.com/
+>> if you're doing this for the first time:
+
+0. download the new gitX from 
+http://rowanj.github.io/gitx/ , updated as of Sep. 2013
+
+(old gitx: http://gitx.laullon.com/)
 
 1. Create working folder e.g. psalterio-git
 2. Open GitX 
@@ -14,7 +18,15 @@ http://gitx.laullon.com/
 	- Remote name: psalterio
 	- Remote URL: http://code.google.com/p/psalterio/
 
-stage your changes and commit.
+>> for recurrent use:
+- open GitX
+- refresh
+- select the files changed/added
+- write commit message
+- stage your changes (Cmd+S)
+- É and press commit! (so far this only staged your changes in your local repository, now we must commit the changes to the remote repository.)
+- "push to remote"
+- 
 
 Finally push to remote
 
@@ -54,7 +66,7 @@ removes all untracked files in current directory
 ------
 add the following line to the ~/.netrc file
 
-machine code.google.com login manunes@gmail.com password <password>
+machine code.google.com login <username>@gmail.com password <password>
 ###########################
 git help
 ###########################
@@ -76,6 +88,7 @@ http://stackoverflow.com/questions/455698/best-visual-client-for-git-on-mac-os-x
 
 read more about Git clients
 http://harrywolff.com/2012/01/the-best-mac-git-gui/
+http://git-scm.com/downloads/guis
 
 client software
 http://gitx.laullon.com/ (preferred)
@@ -85,8 +98,8 @@ http://gitboxapp.com/
 If you use SourceTree
 
 Add default user details
-Miguel Nunes
-manunes@gmail.com
+
+------@gmail.com
 
 Add bookmark create working folder and and clone repository
 https://code.google.com/p/psalterio/

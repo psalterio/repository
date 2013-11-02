@@ -1,72 +1,79 @@
-% set song number
-\setcounter{songnum}{7}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{No Espírito Unidos}[            % song title ...
-    %mlby={},                           % music and lyric by
-    %sr={Revelation 5:13},        % bible verse
-    %cr={Public domain.},         % licence
-    %arr={my},                          % arrangement by
-    index={No Espírito Unidos}]               % index title ...	
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+\beginsong{No Espírito Unidos}
+[
+    id                     = {7},
+    psalterio_number       = {7},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {No Espírito Unidos},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+                       
 \[Fm]No Espírito unidos, somos um no Senhor,
 No Espí\[Bbm]rito unidos somos \[Fm]um no Senhor,   
 E implor\[Bbm]amos que um dia nos \[Fm]unamos no amor.
+
 \endverse
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginchorus                     
+
+%----------------------------------------------------------
+% section #2: chorus 
+
+\beginchorus
+                     
 Pelo a\[Db]mor conhecido e o \[Fm]cristão,          
 Pelo am\[Bbm]or,         
 Pelo a\[Fm]mor conhec\[Bbm]ido e o crist\[Fm]ão.
+
 \endchorus
 
-\chordsoff                        
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #3
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+                       
 \[Fm]De maos dadas iremos, somos todos irmãos,
 De mãos da\[Bbm]das iremos, somos\[Fm] todos irmãos,
 Pregare\[Bbm]mos as novas que Deus guia \[Fm]a nação.
+
 \endverse
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #4
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
+% section #4: verse 
+
 \beginverse
+
 \[Fm]Lado a lado haveremos todos de trabalhar,
 Lado a la\[Bbm]do haveremos todos \[Fm]de trabalhar,
 Uns aos ou\[Bbm]tros honrando vamos \[Fm]nos respeitar.
+
 \endverse
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #5
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+
+%----------------------------------------------------------
+% section #5: verse 
+
+\beginverse
+                       
 \[Fm]Glória a Deus entoemos nosso Pai, Criador,
 E louve\[Bbm]mos a Cristo que nos veio\[Fm] salvar,
 E ao Espí\[Bbm]rito Santo que nos vem\[Fm] consagrar.
+
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
-\gtabC
-\gtabF
-%\gtabGseven
-\gtabFsharpMinor
-\gtabBm
-}                                 % end if
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%----------------------------------------------------------
+% end song
+
 \endsong

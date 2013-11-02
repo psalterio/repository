@@ -1,70 +1,50 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% this has all the necessary packages and formatting for the document
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\input{../_include/songLatexHeader}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% song title
-\beginsong{Ven Espíritu ven}[
-        % music and lyric by
-        % mlby={},
-        % lyrics
-        lyrics={Marcos & Luis Barrientos}, 
-        % music by
-        music={Marcos & Luis Barrientos},
-        % bible verse
-        %sr={},
-        % licence/copyright
-        %cr={Public domain.},
-        % arrangement by
-        %arr={},
-        % index title
-        index={Ven Espíritu ven}]
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Ven Espíritu ven}
+[
+    id = {2000},
+    psalterio_number = {},
+    music_by = {},
+    lyrics_by = {},
+    arrangement_by = {},
+    bible_verse = {},
+    licence_or_copyright = {},
+    video_url = {},
+    extra = {},
+    index = {},
+]
+
+%----------------------------------------------------------
 % section #1: verse 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginverse
+
 \[G]Ven Es\[D/F#]píritu \[Em]ven
 \[G/D]Y lléname \[C]señor 
 con \[Am7]tu preciosa unción\[Dsus D]
 
+
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % section #2: chorus 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginchorus
+
 Puri\[G]fícame y lávame,\[D]
 \[Em]renuévame, res\[G]táurame, \[C]Señor 
 \[Am7]con tu po\[D]der.
 Puri\[G]fícame y \[D/F#]lávame,
 \[Em]renuévame, restáu\[G/D]rame, \[G]Señor,
 te \[D11]quiero \[D]conocer. \[D]
+
 \endchorus
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% if the guitar chords are to be printed
-\ifbool{gchords}{
-% set a vertical space of 10 pt 
-\vspace{\gchordsVspace}
-} % end if
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
 % end song
-\endsong
 
-%include song latex footer
-%\input{../_include/songLatexFooter}
+\endsong

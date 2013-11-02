@@ -1,52 +1,51 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{116}     
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Exemplo}[                  % song title ...
-    %mlby={},                                % music and lyric by
-    %sr={Revelation 5:13},        % bible verse
-    %cr={Public domain.},         % licence
-    %arr={my},                    % arrangement by
-    index={Exemplo}]              % index title ...	
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+\beginsong{Exemplo}
+[
+    id                     = {116},
+    psalterio_number       = {116},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Exemplo},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+                       
 
 \[D]Lá es\[G]tá o meu tes\[D A]ouro,
-\chordsoff                        % turn off chords
-Lá onde não há choro.
-\chordson                         % turn on chords
-Onde \[F#m Bm]{todos cantaremos} \[F#m Bm]juntos
+\chordsoff                        Lá onde não há choro.
+\chordson                         Onde \[F#m Bm]{todos cantaremos} \[F#m Bm]juntos
 \[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
+
 
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% chorus
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginchorus                      % start chorus
+%----------------------------------------------------------
+% section #2: chorus 
 
+\beginchorus
+                      
 \[F#m Bm]Aleluia, \[F#m Bm]Aleluia
 \[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A]. 
 (canon com a estrofe)
 
-\endchorus                        % end chorus
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       
+\endchorus
+
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+                       
 
 \chordsoff                        
 
@@ -56,23 +55,13 @@ Exemplo.
 
 \chordson
 
-\endverse                         
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+\endverse
 
-\gtabD
-\gtabG
-\gtabA
-\gtabFsharpMinor
-\gtabBm
 
-}                                 % end if
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
+% end song
+
 \endsong

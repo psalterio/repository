@@ -1,50 +1,50 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{89}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{O Senhor Marchando Está}[
-%mlby={},          	% music and lyric by ...	
-%sr={Revelation 5:13}, % bible verse  ...	
-%cr={Public domain.},    % licence  ...	
-%arr={my},                     % arrangement by  ...	
-psalterionumber=89,
-index={O Senhor Marchando Está}
+
+\beginsong{O Senhor Marchando Está}
+[
+    id                     = {89},
+    psalterio_number       = {89},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {O Senhor Marchando Está},
 ]
-            
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
+% section #1: verse 
+
 \beginverse
+
 O Se\[Am]nhor mar\[G]chando \[Am]está,
 E vem com o Seu e\[G]xérci\[Am]to
 Sua \[F]glória será\[G] vista em toda a \[Am]Terra.\[G]\[Am]
 Sim can\[Am]tai a \[G]Sua vi\[Am]tória,
 Exal\[Am]tai Aquele \[G]que ven\[Am]ceu,
 Nada \[F]contra nós po\[G]derá pros\[Am]perar.\[G]\[Am]
+
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% chorus
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
+% section #2: chorus 
+
 \beginchorus
+
 Pois o \[F]nosso capitão  \[C]Jesus,
 Se\[F]guimos as Suas pi\[C]sadas,
 Na\[F]da nos pode\[G]rá fazer pa\[Am]rar.\[G]\[Am]
+
 \endchorus
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
+% section #3: verse 
+
 \beginverse
+
 \chordsoff
 Nós marchamos com o Messias,
 A vitória está em Suas mãos, 
@@ -52,17 +52,13 @@ Marchemos possuindo a nossa terra.
 O Senhor marchando está,
 E vem com o Seu exército,
 Sua glória será vista em toda a Terra
-\chordson   																			% chords formating on
+\chordson   																			
 \endverse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{
-\vspace{\gchordsVspace}
-}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%----------------------------------------------------------
+% end song
+
 \endsong

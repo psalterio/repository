@@ -1,37 +1,25 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{049}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% song title
-\beginsong{Louange}[
-        % music and lyric by
-        % mlby={},
-        % lyrics
-        %lyrics={Autor da Letra}, 
-        % music by
-        %music={Autor da Música},
-        % bible verse
-        %sr={},
-        % licence/copyright
-        %cr={Public domain.},
-        % arrangement by
-        %arr={},
-        % index title
-        index={Louange}]
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\beginsong{Louange}
+[
+    id = {49},
+    psalterio_number = {49},
+    music_by = {},
+    lyrics_by = {},
+    arrangement_by = {},
+    bible_verse = {},
+    licence_or_copyright = {},
+    video_url = {},
+    extra = {},
+    index = {},
+]
+
+%----------------------------------------------------------
 % section #1: verse 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \beginverse
+
 Mon \[F]âme exal\[Dm]te le Sei\[GmC7]gneur,
 Et mon esp\[Gm]irit se \[C]réjouit en \[F]Dieu, mon \[Gm]Sauveur,
 \[C7]Parce qu’Il \[F]a jeté \[Dm]les yeux \[Dm C7]sur la basses\[Gm]se de sa \[C]servan\[F]te.
@@ -45,22 +33,19 @@ S’étend \[G]d’\[D]âge en \[G]âge sur ceu\[C]x qui \[C7]le craignent.
 Mon âm\[F]e exal\[Dm]te le Sei\[Gm C7]gneur,
 Et mon es\[Gm]pirit se \[C]réjouit en \[F]Dieu, mon \[Gm]Sauveur, 
 \[C7]Parce qu’\[F]Il a jeté \[Dm]les yeux \[Gm C7]sur la bassess \[Gm]e de sa \[C]servan\[F]te.
+
 \endverse
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% if the guitar chords are to be printed
-\ifbool{gchords}{
-% set a vertical space of 10 pt 
-\vspace{\gchordsVspace}
-} % end if
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
+% add any comments to this music/file here
+
+%\begincomments
+
+%\endcomments
+
+%----------------------------------------------------------
 % end song
-\endsong
 
-%include song latex footer
+\endsong

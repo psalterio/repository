@@ -1,33 +1,25 @@
-% percentagem é comentário
-% 1 - \setcounter{songnum}{0} - numero da musica
-% 2 - \beginsong{Quando penso na cruz}[ - título da música
-% 3 -  index={Quando penso na cruz}] - entrada do indice da musica
-% 4 - \beginverse , depois desta linha adicionar a letra
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% this has all the necessary packages and formatting for the document
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\input{../_include/songLatexHeader}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% set song number
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{songnum}{18}       % song number
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------------------------------------------------------
 % begin song latex formating, set the title and other info
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginsong{Quando Penso Na Cruz}[            % song title ...
-    %mlby={},                           % music and lyric by
-    %sr={Revelation 5:13},        % bible verse
-    %cr={Public domain.},         % licence
-    %arr={my},                          % arrangement by
-    index={Quando Penso Na Cruz}]               % index title ...	
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #1
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       % start verse
+\beginsong{Quando Penso Na Cruz}
+[
+    id                     = {18},
+    psalterio_number       = {18},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Quando Penso Na Cruz},
+]
 
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+                       
 \[Ab]Foi numa cruz e num \[Bbm]tempo sem fim,
 
 \[Eb7]Sons bem diferentes subiram aos \[Ab]ceus.
@@ -36,13 +28,14 @@ Um homem la sus\[Db]penso ficou,
         
 Sem \[Eb]culpa, inocente, por\[Db] mim pad\[Ab]eceu.
 
-\endverse                         % end verse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       % start verse
+\endverse
 
+%----------------------------------------------------------
+% section #2: verse 
+
+\beginverse
+                       
 \[C]Quando penso na cruz, \[Fm]tao cruel,
       
 Seu \[C]sangue a cair, es\[Fm]pinhos fel,
@@ -53,13 +46,14 @@ O \[Gb]seu grande \[Db]amor em \[Bb]estar junto a \[Eb]mim,
    
 As\[Ab]sim livre \[Bb]sou, livre \[Eb]sou, livre sou.
 
-\endverse                         % end verse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% verse #3
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\beginverse                       % start verse
+\endverse
 
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+                       
 \[Ab]Ele sarou minha cul\[Bbm]pa e dor,
 
 \[Eb7]Em vez de odio, doce paz e a\[Ab]mor.
@@ -68,24 +62,13 @@ Perdao e vida ao ho\[Db]mem quis dar,
 
 A\[Eb]fim de a vida eterna \[Db]encon\[Ab]trar.
 
-\endverse                         % start verse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% print guitar tabs used in this song
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifbool{gchords}{                 % if the guitar chords are to be printed
-\vspace{\gchordsVspace}           % set a vertical space of 10 pt 
+\endverse
 
-\gtabC
-\gtabF
-%\gtabGseven
-\gtabFsharpMinor
-\gtabBm
 
-}                                 % end if
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% end song latex formating
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\endsong                          % end song
-%\input{../_include/songLatexFooter}
+
+%----------------------------------------------------------
+% end song
+
+\endsong
