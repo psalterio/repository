@@ -1,109 +1,61 @@
-% random notes about the template:
-%----------------------------------------------------------
-% set song number
-% not used by default, to use this command put it in another file that includes this latex 
-%\setcounter{songnum}{0}
-% not used anymore
-%  %music_lyrics_by={Arnaldo Ferreira},
-
-
 %----------------------------------------------------------
 % begin song latex formating, set the title and other info
 
-\beginsong{Titulo}
+\beginsong{Esta Minha Paz}
 [
-	id = {1},
-    psalterio_number = {143},
-	music_by = {Joana Lantrinha},    
-	lyrics_by = {Joana Lantrinha},
-	arrangement_by = {my},
-	bible_verse  = {Revelation 5:13},
-	licence_or_copyright = {Public domain.},
-	video_url = {http://www.youtube.com/watch?v=7km1-BSWgeg},
-	extra = {bla...bla...}
-	index = {Template}
+	id 						= {70},
+	psalterio_number		= {70},
+	music_by				= {Rui Machado},
+	lyrics_by 				= {Rui Machado},
+	arrangement_by 			= {},
+	bible_verse 			= {},
+	licence_or_copyright 	= {},
+	video_url 				= {},
+	extra 					= {},
+	index  					= {Esta Minha Paz},
 ]
 
-% clean
-
-    psalterio_number = {46},
-	music_by = {},    
-	lyrics_by = {},
-	arrangement_by = {},
-	bible_verse  = {},
-	licence_or_copyright = {},
-	video_url = {},
-	extra = {}
-	index = {A different House}
-
-
 %----------------------------------------------------------
-% verse #1
+% section #1: verse 
 
 \beginverse
 
-\[D]Lá es\[G]tá o meu tes\[D A]ouro,
-\chordsoff                        % turn off chords
-Lá onde não há choro.
-\chordson                         % turn on chords
-Onde \[F#m Bm]{todos cantaremos} \[F#m Bm]juntos
-\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A].
+Esta \[C]Minha \[Em]paz Eu vos \[Dm]dou, \[G]
+Paz que o \[C]mundo \[Em]não pode\[Dm] dar, \[G]
+Paz que o \[F]mundo \[G]não pode\[Em] compre\[Am]ender,
+P’\[F]ra se \[G]dar, \[C]p’ra \[Am]viver
+Esta \[F]Minha \[G]paz Eu vos \[C]dou!
+
+\endverse
+
+%----------------------------------------------------------
+% section #2: verse 
+
+\beginverse
+
+Esta minha fé Eu vos dou,
+Fé que o mundo não pode dar,
+Fé que o mundo não pode compreender,
+P’ra se dar, p’ra viver
+Esta Minha fé Eu vos dou!
+
+\endverse
+
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+
+Este Meu amor Eu vos dou,
+Amor que o mundo não pode dar,
+Amor que o mundo não pode compreender,
+P’ra se dar, p’ra viver
+Este Meu amor Eu vos dou! \[F  Fm C]
 
 \endverse
 
 
 
-%----------------------------------------------------------
-% chorus
-
-\beginchorus
-
-\[F#m Bm]Aleluia, \[F#m Bm]Aleluia
-\[G]Hinos de lou\[A]vor... ao Se\[D]nhor\[G D A]. 
-(canon com a estrofe)
-
-\endchorus
-
-
 
 %----------------------------------------------------------
-% verse #2
-
-\beginverse
-
-\chordsoff                        
-Exemplo.
-Exemplo.
-Exemplo.
-\chordson
-
-\endverse                         
-
-
-
-%----------------------------------------------------------
-% print guitar tabs used in this song
-
- % if the guitar chords are set to be printed
-\ifbool{gchords}{
-
- % set a vertical space of 10 pt         
-\vspace{\gchordsVspace}          
-
-\gtabD
-\gtabG
-\gtabA
-\gtabFsharpMinor
-\gtabBm
-
-% end if
-}
-
-
-
-
-
-%----------------------------------------------------------
-% end song
-
 \endsong
