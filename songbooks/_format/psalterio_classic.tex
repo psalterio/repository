@@ -127,14 +127,23 @@ keepaspectratio]{logo.png}%
 %\renewcommand{\extendpostlude}
 %{ \songcopyright\ \songlicense\unskip \ Used with permission.}
 
+
+%----------------------------------------------------------
+% format for chorus section
+
 % chorus bar width
-\setlength{\cbarwidth}{0pt}
+\setlength{\cbarwidth}{1pt}
 
 %\renewcommand{\chorusjustify}{\justifyleft}
 
+\renewcommand{\chorusfont}{\it}
 
+%----------------------------------------------------------
+% 
 \setlength{\sbarheight}{0pt}
 
+%----------------------------------------------------------
+% define song info commands
 % music anf lyrics by
 \newcommand{\musicLyricsBy}{} 
 \newsongkey{mlby}{\def\musicLyricsBy{}}
@@ -171,6 +180,13 @@ keepaspectratio]{logo.png}%
                  {\def\videourl{\sffamily\it\small Video URL  #1\par}}
 
 
+% title_original
+\newcommand{\titleoriginal}{} 
+\newsongkey{title_original}{\def\titleoriginal{}}
+                 {\def\titleoriginal{\sffamily\it\small Título Original:  ``#1"\par}}
+
+
+
 
 
 % number
@@ -193,6 +209,7 @@ keepaspectratio]{logo.png}%
   {\bfseries\musicLyricsBy}
   {\bfseries\musicby}
   {\bfseries\lyricsby}
+  {\bfseries\titleoriginal}
   {\bfseries\extra}
 }
 
