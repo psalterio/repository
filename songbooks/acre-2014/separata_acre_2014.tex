@@ -1,0 +1,70 @@
+%must always define root folder to import correctly the format and the songs
+\def \rootFolder{../../}
+
+\input{format_acre_2014.tex}
+
+%index
+\newindex{titleidx}{titleidx}
+
+% this includes all the guitar tabs that may be needed
+%\input{../songs/_include/guitarTabs}
+
+%\providebool{gchords}
+%\setbool{gchords}{false}
+
+% set guitar chords vertical space separation with lyrics
+%\def \gchordsVspace{5 mm}
+
+\begin{document}
+
+%\begin{titlepage}
+%\AddToShipoutPicture{\titlepagepic}
+%\end{titlepage}
+
+%	\AddToShipoutPicture{\BackgroundPic}
+	%\AddToShipoutPicture{\BottomPic}
+	
+	%index
+%	\showindex{}{titleidx}
+	\songsection{ACRE 2014} % no title
+
+	
+	%\begin{songs}{}
+	% \begin{songs}{titleidx,authidx,scripidx}
+	\begin{songs}{titleidx}
+	
+	% \input{../songs/_include/formatPsalterio}
+	
+	 \nosongnumbers
+	 
+	\setcounter{songnum}{1}
+	\input{../../songs/pt/a_grande_esperanca.tex}
+	\input{../../songs/pt/digno_de_gloria.tex}
+	\input{../../songs/pt/pra_te_adorar.tex}
+	\input{../../songs/pt/unidos_em_espirito.tex}
+	\input{../../songs/pt/fe_a_arder.tex}
+	\input{../../songs/pt/tua_palavra.tex}
+	%\input{../../songs/pt/nao_vivo_mais_eu.tex}
+	\input{../../songs/pt/a_bandeira_do_ceu.tex}
+	\input{../../songs/pt/escolhido_por_deus.tex}
+	%\input{../../songs/pt/agracecer.tex}
+	\input{../../songs/pt/quem_o_fara.tex}
+	\input{../../songs/pt/seguindo_a_jesus.tex}
+	\input{../../songs/pt/vem_viver_em_mim.tex}
+	\input{../../songs/pt/mensageiro.tex}
+	\input{../../songs/pt/estamos_unidos.tex}
+	\input{../../songs/pt/vaso_de_honra_renovame.tex}
+	\input{../../songs/pt/louvai_a_deus.tex}
+	\input{../../songs/pt/jesus_tu_es_a_minha_vida.tex}
+	\input{../../songs/pt/mas_que_povo_e_este.tex}
+	\input{../../songs/pt/super_heroi.tex}
+	\input{../../songs/pt/soldado_de_jesus.tex}
+	\input{../../songs/pt/o_amor_de_deus.tex}
+
+	 \end{songs}
+	 
+	 %\showindex{Index of Authors and Composers}{authidx}
+	 %\showindex{Index of Scripture}{scripidx}
+	 
+	
+\end{document}

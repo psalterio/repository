@@ -1,7 +1,7 @@
-\documentclass[10pt,a5paper,landscape]{article}
+\documentclass[10pt,a5paper]{article}
 
 %packages
-\usepackage[left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
+\usepackage[left=2.5cm,right=1cm,top=2.0cm,bottom=1cm]{geometry}
 
 \usepackage[chorded]{\rootFolder/styles/psalterio} %must check the licence to change the name of the sty file!!!
 %\usepackage[chorded]{resources/songs-old} %must check the licence to change the name of the sty file!!!
@@ -12,11 +12,12 @@
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \usepackage{wallpaper}
-\usepackage{color}
-\usepackage{eso-pic} %for background pictures
+\usepackage{color} % for \color{....}
+\usepackage{eso-pic} %for background pictures, AddToShipoutPicture
 \usepackage[bookmarks]{hyperref} 
 %\usepackage{ifthen} %etoolbox is more up to date
 \usepackage{etoolbox}
+\usepackage{transparent}
 
 %\usepackage[xetex]{graphicx}
 %\usepackage{fontspec,xunicode}
@@ -32,24 +33,48 @@
 %\usepackage{helvet}
 %\renewcommand{\familydefault}{\sfdefault}
 
+\definecolor{orange}{rgb}{1,0.5,0}
+
 %this removes the page number
 \thispagestyle{empty}
 \pagestyle{empty}
-\songcolumns{2}
+\songcolumns{1}
 
 \parindent 0pt	
 
-
-%add background picture
+%% add background picture
+% eso-pic package
 \newcommand\BackgroundPic{
-\put(0,0){
-\parbox[b][\paperheight]{\paperwidth}{%
-\vfill
-\centering
-\includegraphics[width=\paperwidth,height=\paperheight,
-keepaspectratio]{logo.png}%
-\vfill
-}}}
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering{\includegraphics[width=\paperwidth,height=\paperheight]{old-paper.jpg}}%
+	\vfill
+		}
+	}
+}
+
+%title page
+\newcommand\titlepagepic{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering{\includegraphics[width=\paperwidth,height=\paperheight]{titlepage}}%
+	\vfill
+		}
+	}
+}
+
+%\AddToShipoutPicture*{
+%    \put(0,0){
+%        \parbox[b][\paperheight]{\paperwidth}{%
+%            \vfill
+%            \centering
+%            {\transparent{0.4}\includegraphics[width=0.5\textwidth]{old-paper.jpg}}%
+%            \vfill
+%        }
+%    }
+%}
 
 \newcommand\BottomPic{
 \put(0,0){
@@ -73,17 +98,21 @@ keepaspectratio]{logo.png}%
 %\huge
 %\Huge
 
-%%% format song number
-%\renewcommand{\thesongnum}{A\arabic{songnum}}
-\renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\MakeUppercase#1}
-\setlength{\songnumwidth}{1.5cm} % box width
-%\renewcommand{\snumbgcolor}{white}
 
 %%% format title
 %change font for Title
-%\renewcommand{\stitlefont}{\sffamily\bfseries\huge\MakeUppercase} 
-\renewcommand{\stitlefont}{\sffamily\bfseries\huge}
+\renewcommand{\stitlefont}{\sffamily\bfseries\huge\MakeUppercase} %\color{orange}
+%\renewcommand{\stitlefont}{\Large}
 %song title
+
+
+%%% format song number
+%\renewcommand{\thesongnum}{A\arabic{songnum}}
+\renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\vphantom{É}\MakeUppercase#1}
+%\renewcommand{\printsongnum}[1]{\sffamily\vphantom{E}#1}
+\setlength{\songnumwidth}{1.5cm} % box width
+%\renewcommand{\snumbgcolor}{white}
+
 
 %%% format verse numbers
 %remove verse numbers
@@ -127,19 +156,12 @@ keepaspectratio]{logo.png}%
 %\renewcommand{\extendpostlude}
 %{ \songcopyright\ \songlicense\unskip \ Used with permission.}
 
-
-%----------------------------------------------------------
-% format for chorus section
-
 % chorus bar width
-\setlength{\cbarwidth}{1pt}
+\setlength{\cbarwidth}{0pt}
 
 %\renewcommand{\chorusjustify}{\justifyleft}
 
-\renewcommand{\chorusfont}{\it}
 
-%----------------------------------------------------------
-% 
 \setlength{\sbarheight}{0pt}
 
 %----------------------------------------------------------
