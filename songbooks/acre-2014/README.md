@@ -8,7 +8,7 @@ as músicas listadas a "bold" ainda não existem no repositório.
 
 | Música                      | latex       | 
 | --------------------------- |-------------|
-| **1. A grande esperança**   |               | 
+| 1. A grande esperança   | [a_grande_esperanca.tex](../../songs/pt/a_grande_esperanca.tex)              | 
 | 2. Digno de Glória          | [digno_de_gloria.tex](../../songs/pt/digno_de_gloria.tex)             | 
 | 3. Pr’a Te adorar           | [pra_te_adorar.tex](../../songs/pt/pra_te_adorar.tex)                 |   
 | 4. Unidos em Espírito       | [unidos_em_espirito.tex](../../songs/pt/unidos_em_espirito.tex)             | 
