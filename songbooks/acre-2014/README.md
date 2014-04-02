@@ -24,3 +24,12 @@ SEPARATA ACRE 2014
 21. Soldado de Jesus
 22. O amor de Deus
 
+
+Progesso no Repositório
+
+
+| Musica                      | latex         | 
+| --------------------------- |:-------------:|
+| 1. A grande esperança       | ok            | 
+| 2. Digno de Glória          | ok            | 
+| 3. Pr’a Te adorar           | ok            | 
