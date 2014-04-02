@@ -4,6 +4,8 @@ SEPARATA ACRE 2014
 Progesso no Repositório
 -----------------------
 
+as músicas listadas a "bold" ainda não existem no repositório.
+
 | Música                      | latex       | 
 | --------------------------- |-------------|
 | **1. A grande esperança**   |               | 
