@@ -25,7 +25,7 @@ as músicas listadas a "bold" ainda não existem no repositório.
 | 15. Estamos Unidos          | [estamos_unidos.tex](../../songs/pt/estamos_unidos.tex)              | 
 | 16. Vaso de honra           | [vaso_de_honra_renovame.tex](../../songs/pt/vaso_de_honra_renovame.tex)              | 
 | 17. Louvai a Deus           | [louvai_a_deus.tex](../../songs/pt/louvai_a_deus.tex)             | 
-| **18. Jesus Tu És a minha vida** |                      | 
+| 18. Jesus Tu És a minha vida |  [jesus_tu_es_a_minha_vida.tex](../../songs/pt/jesus_tu_es_a_minha_vida.tex)                    | 
 | 19. Que povo é este         | [mas_que_povo_e_este.tex](../../songs/pt/mas_que_povo_e_este.tex)            | 
 | 20. Super-herói             | [super_heroi.tex](../../songs/pt/super_heroi.tex)               | 
 | 21. Soldado de Jesus        | [soldado_de_jesus.tex](../../songs/pt/soldado_de_jesus.tex)     | 
