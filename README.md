@@ -20,4 +20,11 @@ corrigidas (new format vs. old format)
 
 corrigidas (new format vs. scan format) 
 
----
+
+
+Links
+-----
+
+- site oficial: http://www.psalterio.net
+- wikipedia   : [http://pt.wikipedia.org/wiki/Psaltério](http://pt.wikipedia.org/wiki/Psalt%C3%A9rio)
+- youtube     : https://www.youtube.com/user/psalterio7
