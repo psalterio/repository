@@ -22,8 +22,8 @@ corrigidas (new format vs. scan format)
 
 
 
-Links
------
+Links do Projecto
+-----------------
 
 - site oficial: http://www.psalterio.net
 - wikipedia   : [http://pt.wikipedia.org/wiki/Psaltério](http://pt.wikipedia.org/wiki/Psalt%C3%A9rio)
