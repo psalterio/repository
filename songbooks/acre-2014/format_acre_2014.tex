@@ -107,8 +107,13 @@
 
 
 %%% format song number
-%\renewcommand{\thesongnum}{A\arabic{songnum}}
-\renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\vphantom{É}\MakeUppercase#1}
+\renewcommand{\thesongnum}{\arabic{songnum}}
+
+\renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\MakeUppercase#1}
+
+% para tentar corrigir o offset do numero nos titulos com acentos
+%\renewcommand{\printsongnum}[1]{\sffamily\bfseries\huge\vphantom{É}\MakeUppercase#1}
+%
 %\renewcommand{\printsongnum}[1]{\sffamily\vphantom{E}#1}
 \setlength{\songnumwidth}{1.5cm} % box width
 %\renewcommand{\snumbgcolor}{white}
