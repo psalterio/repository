@@ -17,7 +17,7 @@ as músicas listadas a "bold" ainda não existem no repositório.
 | **7. Não vivo mais eu**     |               | 
 | 8. A bandeira do céu        | [a_bandeira_do_ceu.tex](../../songs/pt/a_bandeira_do_ceu.tex)              | 
 | 9. Escolhidos por Deus      | [escolhido_por_deus.tex](../../songs/pt/escolhido_por_deus.tex)               | 
-| **10. Agradecer**           |               | 
+| 10. Agradecer               | [agradecer.tex](../../songs/pt/agradecer.tex)              | 
 | 11. Quem o fará]            | [quem_o_fara.tex](../../songs/pt/quem_o_fara.tex)              | 
 | 12. Estou seguindo a Jesus Cristo] |   [seguindo_a_jesus.tex](../../songs/pt/seguindo_a_jesus.tex) | 
 | 13. Vem viver em mim        | [vem_viver_em_mim.tex](../../songs/pt/vem_viver_em_mim.tex)               | 
