@@ -15,7 +15,7 @@ progresso das correcções
 
 corrigidas (new format vs. old format) 
 
-1,2,27,28,34,151,152,154
+1,2,27,28,34,51,122,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165
 
 
 corrigidas (new format vs. scan format) 
