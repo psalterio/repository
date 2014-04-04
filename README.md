@@ -11,11 +11,11 @@ Precisamos de corrigir as músicas que foram convertidas em latex (o novo format
 
 Esta é a lista do progresso das correções:
 
-**corrigidas com o scan**
+**corrigidas com o scan** (1-50)
 
 1,2,27,28,34
 
-**corrigidas com o site**
+**corrigidas com o site** (51-150)
 
 51,122,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165
 
