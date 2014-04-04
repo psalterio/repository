@@ -13,7 +13,7 @@ Esta é a lista do progresso das correções:
 
 **corrigidas com o scan** (1-50)
 
-1,2,27,28,34
+1,2,15,27,28,34
 
 **corrigidas com o site** (51-150)
 
