@@ -1,0 +1,7 @@
+Cores do psalterio
+
+azul
+#40a2df ou mesmo cyan puro #00aeef
+
+laranja 
+#efae38
