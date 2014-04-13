@@ -13,11 +13,11 @@ Esta é a lista do progresso das correções:
 
 **corrigidas com o scan** (1-50)
 
-1,2,3,4,7,8,9,10,
-11,15,20
+01,02,03,04,05,06,07,08,09,10,
+11,12,13,14,15,20
 21,22,23,24,25,26,27,28,29,30,
 31,32,33,34,35,36,37,38,39,40
-41,42,43,44,45,46,47,48,49,50
+41,42,43,44,45,46,47,48,49,50,
 
 **corrigidas com o site** (51-150)
 
@@ -31,7 +31,11 @@ Esta é a lista do progresso das correções:
 
 a fazer
 -------
-- converter todos os bemois ("b" em "&") e sustenidos ("#")
+- converter todos os bemois ("b" em "&") 
+- converter todos os acordes de setima, quarta, etc para os respectivos sobreescritos 
+-- exemplo em latex sobrescrito
+--- "D7" fica "D$^{7}$ 
+--- "D9 5+" fica "D$^{9 5+}$ 
 - corrigir a metrica e o alinhamento dos acordes
 - comparar com as musicas originais do psalterio > scan_psalterio_original
 
