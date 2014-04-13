@@ -22,7 +22,7 @@ depois nós recebemos uma notificação de que existem alterações a fazer e po
 
 
 **Tutorial para fazer correcções no teu PC**  
-(um pouco mais complicado mas é a longo termo é melhor para quem faz muitas correcções): https://www.youtube.com/watch?v=Eu-_wI-p-Hs
+um pouco mais complicado que o mini tutorial mas é melhor a longo termo para quem faz muitas correcções: https://www.youtube.com/watch?v=Eu-_wI-p-Hs
 
 
 
