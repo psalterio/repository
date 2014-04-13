@@ -1,13 +1,11 @@
 Psaltério
 =========
 Este é o repositório oficial das músicas do Psaltério (www.psalterio.net).
-Todas as músicas estão no formato latex que permite criar uma impressão de qualidade tipográfica, exemplo:  [Separata ACRE 2014](https://github.com/psalterio/repository/blob/master/songbooks/acre-2014/separata_acre_2014.pdf?raw=true) e também gera a base de dados automáticamente para o site do psaltério e as novas mobile Apps.
+Todas as músicas estão no formato latex que permite criar uma impressão de qualidade tipográfica, exemplo:  [Separata ACRE 2014](https://github.com/psalterio/repository/blob/master/songbooks/acre-2014/separata_acre_2014.pdf?raw=true) e também gera a base de dados automaticamente para o novo site do psaltério (http://novo.psalterio.net/) e as novas mobile Apps (iOS7 e [Android](https://play.google.com/store/apps/details?id=net.psalterio.psalterioandroid)).
 
 
-
-progresso das correcções
-------------------------
-
+Como ajudar
+-----------
 Precisamos de corrigir as músicas que foram convertidas em latex (o novo formato do Psaltério) para podermos lançar o novo site. Da música 1 à 50 temos o scan original do Psaltério e por isso usamos o original para corrigir (ver https://github.com/psalterio/repository/tree/master/songbooks/psalterio/scan_psalterio_original). Da música 51 à 150 temos que corrigir usando o formato temporário em http://novo.psalterio.net. As músicas que aparecem com duas colunas (verde do lado esquerdo e azul-cinzento do lado direito) são as múscas que ainda não estão corrigidas. 
 
 Esta é a lista do progresso das correções:
@@ -30,15 +28,15 @@ Esta é a lista do progresso das correções:
 161,162,163,164,165
 
 
-a fazer
--------
-- converter todos os bemois ("b" em "&") 
-- converter todos os acordes de setima, quarta, etc para os respectivos sobreescritos 
--- exemplo em latex sobrescrito
---- "D7" fica "D$^{7}$ 
---- "D9 5+" fica "D$^{9 5+}$ 
+outras coisas a fazer
+---------------------
+* converter todos os bemois ("b" em "&") 
+* converter todos os acordes de sétima (7), quarta (4), etc para os respectivos sobreescritos
+ * exemplo em latex sobrescrito (eu sei que parece complicado, mas depois de fazer uns quantos percebe-se melhor)
+  * "D7" fica "**D$^{7}$**"
+  * "D9 5+" fica "**D$^{9 5+}$**"
 - corrigir a metrica e o alinhamento dos acordes
-- comparar com as musicas originais do psalterio > scan_psalterio_original
+- comparar com as musicas originais do psalterio > scan_psalterio_original 
 
 Links do Projecto
 -----------------
