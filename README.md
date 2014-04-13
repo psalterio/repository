@@ -6,7 +6,7 @@ Todas as músicas estão no formato latex que permite criar uma impressão de qu
 
 Como ajudar
 -----------
-Precisamos de corrigir as músicas que foram convertidas em latex (o novo formato do Psaltério) para podermos lançar o novo site. Da música 1 à 50 temos o scan original do Psaltério e por isso usamos o original para corrigir (ver https://github.com/psalterio/repository/tree/master/songbooks/psalterio/scan_psalterio_original). Da música 51 à 165 temos que corrigir usando o formato temporário em http://novo.psalterio.net. As músicas que aparecem com duas colunas (verde do lado esquerdo e azul-cinzento do lado direito) são as múscas que ainda não estão corrigidas. 
+Precisamos de corrigir as músicas que foram convertidas em latex (o novo formato do Psaltério) para podermos lançar as novas mbile Apps e o novo site. Neste momento precisamos de ajuda para corrigir da música 51 à 165. Temos que corrigir usando o formato temporário em http://novo.psalterio.net. As músicas que aparecem com duas colunas (verde do lado esquerdo e azul-cinzento do lado direito) são as múscas que ainda não estão corrigidas. Cada música tem um "id" único, por exemplo a música 52 é a música "Estamos Unidos" e o link é http://novo.psalterio.net/52.
 
 
 **Mini Tutorial para fazer correcções directamente no GitHub**  
