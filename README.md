@@ -1,7 +1,8 @@
 Psaltério
 =========
 Este é o repositório oficial das músicas do Psaltério (www.psalterio.net).
-Todas as músicas estão no formato latex que permite criar uma impressão de qualidade tipográfica.
+Todas as músicas estão no formato latex que permite criar uma impressão de qualidade tipográfica, exemplo:  [Separata ACRE 2014](https://github.com/psalterio/repository/blob/master/songbooks/acre-2014/separata_acre_2014.pdf?raw=true) e também gera a base de dados automáticamente para o site do psaltério e as novas mobile Apps.
+
 
 
 progresso das correcções
