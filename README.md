@@ -8,11 +8,27 @@ Como ajudar
 -----------
 Precisamos de corrigir as músicas que foram convertidas em latex (o novo formato do Psaltério) para podermos lançar o novo site. Da música 1 à 50 temos o scan original do Psaltério e por isso usamos o original para corrigir (ver https://github.com/psalterio/repository/tree/master/songbooks/psalterio/scan_psalterio_original). Da música 51 à 165 temos que corrigir usando o formato temporário em http://novo.psalterio.net. As músicas que aparecem com duas colunas (verde do lado esquerdo e azul-cinzento do lado direito) são as múscas que ainda não estão corrigidas. 
 
-Esta é a lista do progresso das correções:
 
+**Mini Tutorial para fazer correcções directamente no GitHub**  
+(serve perfeitamente para fazer a maior parte das correcões):  
+1 - Abrir directamente o link da musica no github. Exemplo:  
+https://github.com/psalterio/repository/blob/master/songs/pt/agradecer.tex  
+2 - login no github (criar uma conta se ainda não tens). Qualquer pessoa com conta no github pode submeter alterações, que depois são revistas e autorizadas.   
+3 - carregar no botão “Edit” no canto superior direito  
+4 - fazer as correcções necessárias   
+5 - carregar no botão “Propose file change”  
+6 - carregar no botão “Send Pull request”. Done!  
+depois nós recebemos uma notificação de que existem alterações a fazer e podemos aprovar.
+
+
+**Tutorial para fazer correcções no teu PC**  
+(um pouco mais complicado mas é a longo termo é melhor para quem faz muitas correcções): https://www.youtube.com/watch?v=Eu-_wI-p-Hs
+
+
+
+Lista do progresso das correções:
+---------------------------------
 **corrigidas com o scan** (1-50)
-
-
 
 01,02,03,04,05,06,07,08,09,10,  
 11,12,13,14,15,20,  
@@ -21,6 +37,8 @@ Esta é a lista do progresso das correções:
 41,42,43,44,45,46,47,48,49,50,  
 
 **corrigidas com o site** (51-165)
+
+
 
 51,  
 85,  
