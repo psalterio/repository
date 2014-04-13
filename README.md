@@ -44,7 +44,8 @@ outras coisas a fazer
 Latex
 -----
 As músicas neste repositório estão em formato latex. Estas são algumas das regras mais importantes para a formatação correcta das músicas e acordes em latex:
-- acordes são sempre escritos no seguinte formato \[acorde aqui]
+- acordes são sempre escritos no seguinte formato \\[acorde aqui]
+ * exemplo \\[D]
 - acorde com numero sobrescrito
  * "D7" fica "**D$^{7}$**"
  * "D9 5+" fica "**D$^{9 5+}$**"
