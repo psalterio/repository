@@ -77,7 +77,7 @@ Resumo do standard usado:
 - Cm é um acorde de dó menor (dó, mi-b, sol)
 - C7+ é o acorde de sétima maior (dó, mi, sol, si). C7+ é o mesmo que Cmaj7 ou CM7 noutras notações.
 - C4 é um acorde suspenso de quarta (dó, fá, sol). É o mesmo que Csus4 ou Csus noutras notações.
-
+- C4(7) é um acorde de 4a suspensa com sétima menor (dó, fá, sol, si-b). Noutras notações aparece normalmente como C7sus4.
 
 O standard dos acordes no psaltério está nestes mapas de acordes:
 - [1](https://github.com/psalterio/repository/blob/master/songbooks/psalterio/scan_psalterio_original/0-3_mapa_acordes.jpg)
