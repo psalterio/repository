@@ -39,6 +39,7 @@ Lista do progresso das correções:
 **corrigidas com o site** (51-165)
 
 51,  
+64,
 85,  
 122,  
 143,144,145,146,147,148,149,150,  
