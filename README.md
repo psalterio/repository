@@ -67,6 +67,23 @@ As músicas neste repositório estão em formato latex. Estas são algumas das r
 - acorde com numero sobrescrito
  * "D7" fica "**D$^{7}$**"
  * "D9 5+" fica "**D$^{9 5+}$**"
+ * 
+ 
+Acordes no Psaltério
+--------------------
+
+Resumo do standard usado:
+- C é um acorde de dó maior (dó, mi, sol)
+- Cm é um acorde de dó menor (dó, mi-b, sol)
+- C7+ é o acorde de sétima maior (dó, mi, sol, si). C7+ é o mesmo que Cmaj7 ou CM7 noutras notações.
+- C4 é um acorde suspenso de quarta (dó, fá, sol). É o mesmo que Csus4 ou Csus noutras notações.
+
+
+O standard dos acordes no psaltério está nestes mapas de acordes:
+- [1](https://github.com/psalterio/repository/blob/master/songbooks/psalterio/scan_psalterio_original/0-3_mapa_acordes.jpg)
+- [2](https://github.com/psalterio/repository/blob/master/songbooks/psalterio/scan_psalterio_original/0-4_mapa_acordes.jpg)
+- [3](https://github.com/psalterio/repository/blob/master/songbooks/psalterio/scan_psalterio_original/0-5_mapa_acordes.jpg)
+- [4](https://github.com/psalterio/repository/blob/master/songbooks/psalterio/scan_psalterio_original/0-6_mapa_acordes.jpg)
 
 Links do Projecto
 -----------------
