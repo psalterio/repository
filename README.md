@@ -38,8 +38,8 @@ Lista do progresso das correções:
 
 **corrigidas com o site** (51-165)
 
-51,  
-64,
+51,52,53,54,55,56,57,58,59,60 
+61,62,63,64,65
 85,
 95,
 120,122,  
