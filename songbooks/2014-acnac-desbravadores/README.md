@@ -24,7 +24,7 @@ as músicas listadas a "bold" ainda não existem no repositório.
 | 14. O Teu Poder 					 	| [o_teu_poder.tex](../../songs/pt/o_teu_poder.tex)             			|
 | 15. Sei que não vai tardar			| [sei_que_nao_vai_tardar.tex](../../songs/pt/sei_que_nao_vai_tardar.tex)  	|
 | 16. Jerusalém 					 	| [jerusalem.tex](../../songs/pt/jerusalem.tex)             				|
-| 17. **MENSAGEIRO DOS CEUS **			| [mensageiro_dos_ceus.tex](../../songs/pt/mensageiro_dos_ceus.tex)         |
+| 17. **MENSAGEIRO DOS CEUS**			| [mensageiro_dos_ceus.tex](../../songs/pt/mensageiro_dos_ceus.tex)         |
 | 18. Tu És O Único Senhor da Minha Vida| [tu_es_o_unico_senhor_da_minha_vida.tex](../../songs/pt/tu_es_o_unico_senhor_da_minha_vida.tex) |
 | 19. Mensageiro 					 	| [mensageiro.tex](../../songs/pt/mensageiro.tex)             				|
 | 20. Quem o Fará 					 	| [quem_o_fara.tex](../../songs/pt/quem_o_fara.tex)             			|
