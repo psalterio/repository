@@ -6,7 +6,14 @@ Todas as músicas estão no formato latex que permite criar uma impressão de qu
 
 Como ajudar
 -----------
-Precisamos de corrigir as músicas que foram convertidas em latex (o novo formato do Psaltério) para podermos lançar as novas mbile Apps e o novo site. Neste momento precisamos de ajuda para corrigir da música 51 à 165. Temos que corrigir usando o formato temporário em http://novo.psalterio.net. As músicas que aparecem com duas colunas (verde do lado esquerdo e azul-cinzento do lado direito) são as múscas que ainda não estão corrigidas. Cada música tem um "id" único, por exemplo a música 52 é a música "Estamos Unidos" e o link é http://novo.psalterio.net/52.
+update de 19 de Julho 2014
+- precisamos de ajuda para corrigir as músicas dos ACNACs. Aqui está a lista para
+
+Acampamento de Tições
+https://github.com/psalterio/repository/tree/master/songbooks/2014-acnac-ticoes
+
+Acampamento de Desbravadores
+https://github.com/psalterio/repository/tree/master/songbooks/2014-acnac-desbravadores 
 
 
 **Mini Tutorial para fazer correcções directamente no GitHub**  
@@ -24,28 +31,6 @@ depois nós recebemos uma notificação de que existem alterações a fazer e po
 **Tutorial para fazer correcções no teu PC**  
 um pouco mais complicado que o mini tutorial mas é melhor a longo termo para quem faz muitas correcções: https://www.youtube.com/watch?v=Eu-_wI-p-Hs
 
-
-
-Lista do progresso das correções:
----------------------------------
-**corrigidas com o scan** (1-50)
-
-1,2,3,4,5,6,7,8,9,10,  
-11,12,13,14,15,16,17,18,19,20,  
-21,22,23,24,25,26,27,28,29,30,  
-31,32,33,34,35,36,37,38,39,40,  
-41,42,43,44,45,46,47,48,49,50,  
-
-**corrigidas com o site** (51-165)
-
-51,52,53,54,55,56,57,58,59,60 
-61,62,63,64,65
-85,
-95,
-120,122,  
-143,144,145,146,147,148,149,150,  
-151,152,153,154,155,156,157,158,159,160,  
-161,162,163,164,165  
 
 
 outras coisas a fazer
