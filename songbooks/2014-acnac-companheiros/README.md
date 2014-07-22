@@ -8,15 +8,15 @@ as músicas listadas a "bold" ainda não existem no repositório.
 
 | Música                             									| latex                                                                     | revisão feita por ... 		|
 | ----------------------------------------------------------------------| -----------------------------------------------------------------------   | ------------------------------|
-| 1. [A grande esperança](http://www.psalterio.net/158)					| [a_grande_esperanca.tex](../../songs/pt/a_grande_esperanca.tex)           | MN, confirmar acordes coro								|
+| 1. [A grande esperança](http://www.psalterio.net/158)					| [a_grande_esperanca.tex](../../songs/pt/a_grande_esperanca.tex)           | MN, confirmado com a separata mas acordes coro um pouco diff.								|
 | 2. [Amigo Leal](http://www.psalterio.net/74)				 			| [amigo_leal.tex](../../songs/pt/amigo_leal.tex)             				| 								|
-| 3. [**AMIZADE**](http://www.psalterio.net/158)					 	| [amizade.tex](../../songs/pt/amizade.tex)             					| 								|
-| 4. [Amor](http://www.psalterio.net/158)					 			| [amor.tex](../../songs/pt/amor.tex)             							| 								|
+| 3. [A Amizade](http://www.psalterio.net/158)					 		| [a_amizade.tex](../../songs/pt/amizade.tex)             					| 								|
+| 4. [**Amor**](http://www.psalterio.net/158)					 		| [amor.tex](../../songs/pt/amor.tex)             							| 								|
 | 5. [Chegou o Tempo](http://www.psalterio.net/158) 					| [chegou_o_tempo.tex](../../songs/pt/chegou_o_tempo.tex)             		| 								|
 | 6. [Cristo é Rei](http://www.psalterio.net/158)					 	| [cristo_e_rei.tex](../../songs/pt/cristo_e_rei.tex)             			| 								|
 | 7. [**CRISTO O No1**](http://www.psalterio.net/158) 					| [cristo_n_1.tex](../../songs/pt/cristo_n_1.tex)             				| 								|
 | 8. [Deus está aqui](http://www.psalterio.net/158) 					| [deus_esta_aqui.tex](../../songs/pt/deus_esta_aqui.tex)             		| 								|
-| 9. [**TEMPO DE CELEBRAR** >> É Tempo de Louvar](http://www.psalterio.net/158) | [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 	| 								|
+| 9. [É Tempo de Louvar](http://www.psalterio.net/158) 					| [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 	| 								|
 | 10. [**FALAR COM DEUS**](http://www.psalterio.net/158) 				| [falar_com_deus.tex](../../songs/pt/falar_com_deus.tex)             		| 								|
 | 11. [Fé a arder](http://www.psalterio.net/158)                      	| [fe_a_arder.tex](../../songs/pt/fe_a_arder.tex)                             	|								|
 | 12. [Jerusalém](http://www.psalterio.net/158) 					 	| [jerusalem.tex](../../songs/pt/jerusalem.tex)             				| 								|
