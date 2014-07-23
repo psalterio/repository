@@ -17,7 +17,7 @@ as músicas listadas a "bold" ainda não existem no repositório.
 | 7. [Cristo o Número Um](http://www.psalterio.net/166) 					| [cristo_o_numero_um.tex](../../songs/pt/cristo_o_numero_um.tex)             				| 								|
 | 8. [Deus está aqui](http://www.psalterio.net/71) 					| [deus_esta_aqui.tex](../../songs/pt/deus_esta_aqui.tex)             		| 								|
 | 9. [É Tempo de Louvar](http://www.psalterio.net/82) 					| [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 	| 								|
-| 10. [**FALAR COM DEUS**](http://www.psalterio.net/158) 				| [falar_com_deus.tex](../../songs/pt/falar_com_deus.tex)             		| 								|
+| 10. [Falar com Deus](http://www.psalterio.net/167) 				| [falar_com_deus.tex](../../songs/pt/falar_com_deus.tex)             		| 								|
 | 11. [Fé a arder](http://www.psalterio.net/142)                      	| [fe_a_arder.tex](../../songs/pt/fe_a_arder.tex)                             	|								|
 | 12. [Jerusalém](http://www.psalterio.net/101) 					 	| [jerusalem.tex](../../songs/pt/jerusalem.tex)             				| 								|
 | 13. [Jesus meu grande amigo](http://www.psalterio.net/80) 		 	| [jesus_meu_grande_amigo.tex](../../songs/pt/jesus_meu_grande_amigo.tex)   | 								|
