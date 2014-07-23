@@ -6,7 +6,7 @@ Progesso no Repositório
 
 as músicas listadas a "bold" ainda não existem no repositório.
 
-| Música                             									| latex                                                                     | revisão feita por ... 		|
+| Título Música (link site)            									| latex                                                                     | revisão feita por ... 		|
 | ----------------------------------------------------------------------| -----------------------------------------------------------------------   | ------------------------------|
 | 1. [A grande esperança](http://www.psalterio.net/158)					| [a_grande_esperanca.tex](../../songs/pt/a_grande_esperanca.tex)           | MN, confirmado com a separata mas acordes coro um pouco diff.								|
 | 2. [Amigo Leal](http://www.psalterio.net/74)				 			| [amigo_leal.tex](../../songs/pt/amigo_leal.tex)             				| 								|
