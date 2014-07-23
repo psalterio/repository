@@ -26,7 +26,7 @@ as músicas listadas a "bold" ainda não existem no repositório.
 | 16. [Mensageiro](http://www.psalterio.net/147) 					 	| [mensageiro.tex](../../songs/pt/mensageiro.tex)  ou [mensageiro_in_c.tex](../../songs/pt/mensageiro_in_c.tex)          				| 								|
 | 17. [Mensageiro dos Céus](http://www.psalterio.net/169)			| [mensageiro_dos_ceus.tex](../../songs/pt/mensageiro_dos_ceus.tex)         | 								|
 | 18. [Vaso de Honra / Renova-me](http://www.psalterio.net/120) 		| [vaso_de_honra_renovame.tex](../../songs/pt/vaso_de_honra_renovame.tex)   | 								|
-| 19. [O meu Deus é o Deus](http://www.psalterio.net/168)			| [o_meu_deus_e_o_deus.tex](../../songs/pt/o_meu_deus_e_o_deus.tex)         | 								|
+| 19. [O meu Deus é o Deus](http://www.psalterio.net/170)			| [o_meu_deus_e_o_deus.tex](../../songs/pt/o_meu_deus_e_o_deus.tex)         | 								|
 | 20. [O Senhor Marchando Está](http://www.psalterio.net/89) 			| [o_senhor_marchando_esta.tex](../../songs/pt/o_senhor_marchando_esta.tex)	| 								|
 | 21. [Pra Te Adorar](http://www.psalterio.net/119) 					| [pra_te_adorar.tex](../../songs/pt/pra_te_adorar.tex)             		| 								|
 | 22. [Quem o Fará](http://www.psalterio.net/153) 					 	| [quem_o_fara.tex](../../songs/pt/quem_o_fara.tex)             			| 								|
