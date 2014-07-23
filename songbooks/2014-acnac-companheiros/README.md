@@ -23,7 +23,7 @@ as músicas listadas a "bold" ainda não existem no repositório.
 | 13. [Jesus meu grande amigo](http://www.psalterio.net/80) 		 	| [jesus_meu_grande_amigo.tex](../../songs/pt/jesus_meu_grande_amigo.tex)   | 								|
 | 14. [Leão de Judá](http://www.psalterio.net/90) 					 	| [leao_de_juda.tex](../../songs/pt/leao_de_juda.tex)             			| 								|
 | 15. [Louvai a Deus](http://www.psalterio.net/123) 					| [louvai_a_deus.tex](../../songs/pt/louvai_a_deus.tex)             		| 								|
-| 16. [Mensageiro](http://www.psalterio.net/147) 					 	| [mensageiro.tex](../../songs/pt/mensageiro.tex)             				| 								|
+| 16. [Mensageiro](http://www.psalterio.net/147) 					 	| [mensageiro.tex](../../songs/pt/mensageiro.tex)  ou [mensageiro_in_c.tex](../../songs/pt/mensageiro_in_c.tex)          				| 								|
 | 17. [Mensageiro dos Céus](http://www.psalterio.net/169)			| [mensageiro_dos_ceus.tex](../../songs/pt/mensageiro_dos_ceus.tex)         | 								|
 | 18. [Vaso de Honra / Renova-me](http://www.psalterio.net/120) 		| [vaso_de_honra_renovame.tex](../../songs/pt/vaso_de_honra_renovame.tex)   | 								|
 | 19. [O meu Deus é o Deus](http://www.psalterio.net/168)			| [o_meu_deus_e_o_deus.tex](../../songs/pt/o_meu_deus_e_o_deus.tex)         | 								|
