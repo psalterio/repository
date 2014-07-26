@@ -1,11 +1,6 @@
 SEPARATA ACNAC DESBRAVADORES 2014
 =================================
 
-Progesso no Repositório
------------------------
-
-as músicas listadas a "bold" ainda não existem no repositório.
-
 | Título Música (link site)            											| latex                                                                     | revisão feita por ... 		|
 | ------------------------------------------------------------------------------| -----------------------------------------------------------------------   | ------------------------------|
 | 1. [A grande esperança (158)](http://www.psalterio.net/158)					| [a_grande_esperanca.tex](../../songs/pt/a_grande_esperanca.tex)           | MN: confirmado com a separata mas acordes coro um pouco diff.								|
