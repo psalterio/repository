@@ -30,7 +30,7 @@ SEPARATA ACNAC DESBRAVADORES 2014
 | 25. [Deus está aqui (71)](http://www.psalterio.net/71) 						| [deus_esta_aqui.tex](../../songs/pt/deus_esta_aqui.tex)             		| 								|
 | 26. [É Tempo de Louvar (82)](http://www.psalterio.net/82) 					| [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 			| MN: confirmar o titulo original com o autor								|
 | 27. [Vaso de Honra / Renova-me (120)](http://www.psalterio.net/120) 			| [vaso_de_honra_renovame.tex](../../songs/pt/vaso_de_honra_renovame.tex)   | 								|
-| 28. [Oh! Sorri sempre!](http://www.psalterio.net/27) 							| [oh_sorri_sempre.tex](../../songs/pt/oh_sorri_sempre.tex)   				| 								|
+| 28. [Oh! Sorri sempre! (27)](http://www.psalterio.net/27) 							| [oh_sorri_sempre.tex](../../songs/pt/oh_sorri_sempre.tex)   				| 								|
 | 29. [Eu só Confio no Senhor (93)](http://www.psalterio.net/93) 				| [eu_so_confio_no_senhor.tex](../../songs/pt/eu_so_confio_no_senhor.tex)   | 								|
 | 30. [Estamos Unidos (52)](http://www.psalterio.net/52) 						| [estamos_unidos.tex](../../songs/pt/estamos_unidos.tex)             		| 								|
 | 31. [Digno de Glória (161)](http://www.psalterio.net/161)  					| [digno_de_gloria_161.tex](../../songs/pt/digno_de_gloria_161.tex)         | 								|
