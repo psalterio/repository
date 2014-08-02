@@ -24,13 +24,13 @@ SEPARATA ACNAC DESBRAVADORES 2014
 | 19. [Mensageiro (168)](http://www.psalterio.net/147) 							| [mensageiro_168.tex](../../songs/pt/mensageiro_168.tex)   				| MN: existem 2 versões, uma em C outra em A que saiu noutra separata, era bom decidir só por uma				|
 | 20. [Quem o Fará (153)](http://www.psalterio.net/153) 						| [quem_o_fara.tex](../../songs/pt/quem_o_fara.tex)             			| MN: faltam alguns acordes								|
 | 21. [Cristo o Número Um (166)](http://www.psalterio.net/166) 					| [cristo_o_numero_um.tex](../../songs/pt/cristo_o_numero_um.tex)           | MN: faltam alguns acordes								|
-| 22. [Satisfação (43)](http://www.psalterio.net/43) 							| [satisfacao.tex](../../songs/pt/satisfacao.tex)             				| MN: faltam alguns acordes								|
+| 22. [Satisfação (43)](http://www.psalterio.net/43) 							| [satisfacao.tex](../../songs/pt/satisfacao.tex)             				| MN: 1a revisao ok,								|
 | 23. [Amor (165)](http://www.psalterio.net/165)					 			| [amor.tex](../../songs/pt/amor.tex)             							| MN: faltam alguns acordes								|
-| 24. [Chegou o Tempo (53)](http://www.psalterio.net/53) 						| [chegou_o_tempo.tex](../../songs/pt/chegou_o_tempo.tex)             		| MN: faltam alguns acordes								|
+| 24. [Chegou o Tempo (53)](http://www.psalterio.net/53) 						| [chegou_o_tempo.tex](../../songs/pt/chegou_o_tempo.tex)             		| MN: 1a revisao ok,								|
 | 25. [Deus está aqui (71)](http://www.psalterio.net/71) 						| [deus_esta_aqui.tex](../../songs/pt/deus_esta_aqui.tex)             		| MN: 1a revisao ok,								|
-| 26. [É Tempo de Louvar (82)](http://www.psalterio.net/82) 					| [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 			| MN: faltam acordes, confirmar o titulo original com o autor								|
+| 26. [É Tempo de Louvar (82)](http://www.psalterio.net/82) 					| [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 			| MN: 1a revisao ok,								|
 | 27. [Vaso de Honra / Renova-me (120)](http://www.psalterio.net/120) 			| [vaso_de_honra_renovame.tex](../../songs/pt/vaso_de_honra_renovame.tex)   | MN: 1a revisao ok,								|
-| 28. [Oh! Sorri sempre! (27)](http://www.psalterio.net/27) 							| [oh_sorri_sempre.tex](../../songs/pt/oh_sorri_sempre.tex)   		| MN: faltam acordes,								|
+| 28. [Oh! Sorri sempre! (27)](http://www.psalterio.net/27) 							| [oh_sorri_sempre.tex](../../songs/pt/oh_sorri_sempre.tex)   		| MN: 1a revisao ok,								|
 | 29. [Eu só Confio no Senhor (93)](http://www.psalterio.net/93) 				| [eu_so_confio_no_senhor.tex](../../songs/pt/eu_so_confio_no_senhor.tex)   | MN: 1a revisao ok,								|
 | 30. [Estamos Unidos (52)](http://www.psalterio.net/52) 						| [estamos_unidos.tex](../../songs/pt/estamos_unidos.tex)             		| MN: 1a revisao ok,								|
 | 31. [Digno de Glória (161)](http://www.psalterio.net/161)  					| [digno_de_gloria_161.tex](../../songs/pt/digno_de_gloria_161.tex)         | MN: 1a revisao ok,								|
