@@ -10,17 +10,17 @@ SEPARATA ACNAC DESBRAVADORES 2014
 | 5. [A Amizade (164)](http://www.psalterio.net/164)							| [a_amizade.tex](../../songs/pt/a_amizade.tex)             				| MN: 1a revisao ok,								|
 | 6. [Amigo Leal (74)](http://www.psalterio.net/74)				 				| [amigo_leal.tex](../../songs/pt/amigo_leal.tex)             				| MN: 1a revisao ok,								|
 | 7. [Cristo é Rei (73)](http://www.psalterio.net/73)							| [cristo_e_rei.tex](../../songs/pt/cristo_e_rei.tex)             			| MN: 1a revisao ok,								|
-| 8. [Falar com Deus (167)](http://www.psalterio.net/167) 						| [falar_com_deus.tex](../../songs/pt/falar_com_deus.tex)             		| MN: acrescentar acordes ultima estrofe,								|
+| 8. [Falar com Deus (167)](http://www.psalterio.net/167) 						| [falar_com_deus.tex](../../songs/pt/falar_com_deus.tex)             		| MN: 1a revisao ok,								|
 | 9. [Louvai a Deus (123)](http://www.psalterio.net/123) 						| [louvai_a_deus.tex](../../songs/pt/louvai_a_deus.tex)             		| MN: 1a revisao ok,								|
-| 10. [Leão de Judá (90)](http://www.psalterio.net/90) 							| [leao_de_juda.tex](../../songs/pt/leao_de_juda.tex)             			| MN: faltam alguns acordes								|
-| 11. [O Senhor Marchando Está (89)](http://www.psalterio.net/89) 				| [o_senhor_marchando_esta.tex](../../songs/pt/o_senhor_marchando_esta.tex)	| MN: faltam alguns acordes								|
+| 10. [Leão de Judá (90)](http://www.psalterio.net/90) 							| [leao_de_juda.tex](../../songs/pt/leao_de_juda.tex)             			| MN: 1a revisao ok,							|
+| 11. [O Senhor Marchando Está (89)](http://www.psalterio.net/89) 				| [o_senhor_marchando_esta.tex](../../songs/pt/o_senhor_marchando_esta.tex)	| MN: 1a revisao ok,								|
 | 12. [Pra Te Adorar (119)](http://www.psalterio.net/119) 						| [pra_te_adorar.tex](../../songs/pt/pra_te_adorar.tex)             		| MN: 1a revisao ok,								|
 | 13. [Não vivo mais eu (162)](http://www.psalterio.net/162) 					| [nao_vivo_mais_eu.tex](../../songs/pt/nao_vivo_mais_eu.tex)             	| MN: 1a revisao ok,								|
 | 14. [O Teu Poder (139)](http://www.psalterio.net/139) 						| [o_teu_poder.tex](../../songs/pt/o_teu_poder.tex)             			| MN: 1a revisao ok,								|
-| 15. [Sei que não vai tardar (63)](http://www.psalterio.net/63)				| [sei_que_nao_vai_tardar.tex](../../songs/pt/sei_que_nao_vai_tardar.tex)  	| MN: faltam alguns acordes								|
+| 15. [Sei que não vai tardar (63)](http://www.psalterio.net/63)				| [sei_que_nao_vai_tardar.tex](../../songs/pt/sei_que_nao_vai_tardar.tex)  	| MN: 1a revisao ok,								|
 | 16. [Jerusalém (101)](http://www.psalterio.net/101) 							| [jerusalem.tex](../../songs/pt/jerusalem.tex)             				| MN: 1a revisao ok,								|
 | 17. [A rocha de Horeb (48)](http://www.psalterio.net/48) 						| [a_rocha_de_horeb.tex](../../songs/pt/a_rocha_de_horeb.tex)          		| MN: 1a revisao ok,								|
-| 18. [Tu És O Único Senhor da Minha Vida (103)](http://www.psalterio.net/103)	| [tu_es_o_unico_senhor_da_minha_vida.tex](../../songs/pt/tu_es_o_unico_senhor_da_minha_vida.tex) | MN: faltam alguns acordes								|
+| 18. [Tu És O Único Senhor da Minha Vida (103)](http://www.psalterio.net/103)	| [tu_es_o_unico_senhor_da_minha_vida.tex](../../songs/pt/tu_es_o_unico_senhor_da_minha_vida.tex) | MN: 1a revisao ok,								|
 | 19. [Mensageiro (168)](http://www.psalterio.net/147) 							| [mensageiro_168.tex](../../songs/pt/mensageiro_168.tex)   				| MN: existem 2 versões, uma em C outra em A que saiu noutra separata, era bom decidir só por uma				|
 | 20. [Quem o Fará (153)](http://www.psalterio.net/153) 						| [quem_o_fara.tex](../../songs/pt/quem_o_fara.tex)             			| MN: faltam alguns acordes								|
 | 21. [Cristo o Número Um (166)](http://www.psalterio.net/166) 					| [cristo_o_numero_um.tex](../../songs/pt/cristo_o_numero_um.tex)           | MN: faltam alguns acordes								|
