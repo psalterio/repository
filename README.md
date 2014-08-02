@@ -22,8 +22,10 @@ https://github.com/psalterio/repository/blob/master/songs/pt/agradecer.tex
 4 - fazer as correcções necessárias   
 5 - carregar no botão “Propose file change”  
 6 - carregar no botão “Send Pull request”. Done!  
-depois nós recebemos uma notificação de que existem alterações a fazer e podemos aprovar.
+(depois nós recebemos uma notificação de que existem alterações a fazer e podemos aprovar.)
 
+7 - finalmente para propagar as actualizações do github para a base de dados do psalterio é preciso correr este script
+http://www.psalterio.net/workshop/tools/db/update_table_songs.php
 
 **Tutorial para fazer correcções no teu PC**  
 um pouco mais complicado que o mini tutorial mas é melhor a longo termo para quem faz muitas correcções: https://www.youtube.com/watch?v=Eu-_wI-p-Hs
