@@ -25,13 +25,13 @@ as músicas listadas a "bold" ainda não existem no repositório.
 
 
 
-*Melhor lugar do mundo (ministério jovem 2003)*
+**Melhor lugar do mundo (ministério jovem 2003)**
 
 Meu respirar (psaltério 1007)
 
-*Deus de Israel (ministério está escrito)*
+**Deus de Israel (ministério está escrito)**
 
-*Nasce em mim (ministério jovem)*
+**Nasce em mim (ministério jovem)**
 
 Se confessarmos os nossos pecados (psaltério 1010)
 
@@ -47,7 +47,7 @@ Jesus é o caminho (psalterio)
 
 Satisfação (psalterio)
 
-*Ele é (louvor jovem PT 2013)*
+**Ele é (louvor jovem PT 2013)**
 
 Aleluia (psalterio)
 
@@ -71,12 +71,12 @@ Meu tudo (cd jovem pt 2014)
 
 Restaura (cd jovem pt 2014)
 
-*Te agradeço (ministério jovem - https://www.youtube.com/watch?v=BxQ7pHK9n80&index=4...)*
+**Te agradeço (ministério jovem - https://www.youtube.com/watch?v=BxQ7pHK9n80&index=4...)**
 
-*Minha vida está em Ti Senhor (ministério jovem - https://www.youtube.com/watch?v=uRduIFG6ltQ...)*
+**Minha vida está em Ti Senhor (ministério jovem - https://www.youtube.com/watch?v=uRduIFG6ltQ...)**
 
-*Meu abrigo (ministério jovem - https://www.youtube.com/watch?v=S23NIVvCP7A...)*
+**Meu abrigo (ministério jovem - https://www.youtube.com/watch?v=S23NIVvCP7A...)**
 
-*Eu só quero estar onde estás (Ministério jovem- https://www.youtube.com/watch?v=OmORmW6VRvU...)*
+**Eu só quero estar onde estás (Ministério jovem- https://www.youtube.com/watch?v=OmORmW6VRvU...)**
 
 Conhecer Jesus
