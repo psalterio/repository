@@ -9,39 +9,48 @@ as músicas listadas a "bold" ainda não existem no repositório.
 | Título Música (link site)            									| latex                                                                     | revisão feita por ... 		|
 | ----------------------------------------------------------------------| -----------------------------------------------------------------------   | ------------------------------|
 | 1. [A grande esperança](http://www.psalterio.net/158)					| [a_grande_esperanca.tex](../../songs/pt/a_grande_esperanca.tex)           | MN, confirmado com a separata mas acordes coro um pouco diff.										| 								|
+| 10. [Falar com Deus (167)](http://www.psalterio.net/167) 						| [falar_com_deus.tex](../../songs/pt/falar_com_deus.tex)             		| MN: 1a revisao ok, faltam acordes ultima estrofe								|
+| 21. [Pra Te Adorar (119)](http://www.psalterio.net/119) 						| [pra_te_adorar.tex](../../songs/pt/pra_te_adorar.tex)             		| MN: 1a revisao ok,								|
+| 18. [Vaso de Honra / Renova-me (120)](http://www.psalterio.net/120) 			| [vaso_de_honra_renovame.tex](../../songs/pt/vaso_de_honra_renovame.tex)   | MN: 1a revisao ok,								|
+| 12. [Jerusalém (101)](http://www.psalterio.net/101) 					 		| [jerusalem.tex](../../songs/pt/jerusalem.tex)             				| MN: 1a revisao ok,								|
+| 24. [O Teu Poder (139)](http://www.psalterio.net/139) 					 	| [o_teu_poder.tex](../../songs/pt/o_teu_poder.tex)             			| MN: falta acordes								|
+| 23. [Sei que não vai tardar (63)](http://www.psalterio.net/63)				| [sei_que_nao_vai_tardar.tex](../../songs/pt/sei_que_nao_vai_tardar.tex)  	| MN: falt acordes ultimas estrofes								|
+| 8. [Deus está aqui (71)](http://www.psalterio.net/71) 						| [deus_esta_aqui.tex](../../songs/pt/deus_esta_aqui.tex)             		| MN: 1a revisao ok,								|
+| 9. [É Tempo de Louvar (82)](http://www.psalterio.net/82) 						| [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 	        | MN: 1a revisao ok, faltam acordes 2a estrofe								|
+| 19. [O meu Deus é o Deus (170)](http://www.psalterio.net/170)					| [o_meu_deus_e_o_deus.tex](../../songs/pt/o_meu_deus_e_o_deus.tex)         | MN: falta acordes								|
+| 9. [É Tempo de Louvar (82)](http://www.psalterio.net/82) 						| [e_tempo_de_louvar.tex](../../songs/pt/e_tempo_de_louvar.tex) 	        | MN: 1a revisao ok, faltam acordes 2a estrofe								|
+| 25. [Tu És O Único Senhor da Minha Vida (103)](http://www.psalterio.net/103)	| [tu_es_o_unico_senhor_da_minha_vida.tex](../../songs/pt/tu_es_o_unico_senhor_da_minha_vida.tex) | MN: 1a revisao ok,								|
+| 16. [Mensageiro (168)](http://www.psalterio.net/168) 					 		| [mensageiro_168.tex](../../songs/pt/mensageiro.tex)          				| MN: falta acordes, existem 2 versoes, uma em A outra em C, devia-se so escolher 1, alternativa [Mensageiro (168)](http://www.psalterio.net/168) 									|
+
+
 
 
 Melhor lugar do mundo (ministério jovem 2003)
-· Falar com Deus (psaltério)
-· Meu respirar (psaltério)
-· Deus de Israel (ministério está escrito)
+Meu respirar (psaltério)
+Deus de Israel (ministério está escrito)
 · Nasce em mim (ministério jovem)
 · Se confessarmos os nossos pecados (psaltério)
 · Digno de glória (psálterio)
-· Pra te adorar (psálterio)
 · Silêncio dentro de mim (psalterio)
 · Tua Palavra (psalterio)
 · Perto de Jesus (psalterio)
-· Vaso de honra/renova-me (psalterio)
+
 · Jesus é o caminho (psalterio)
 · Satisfação (psalterio)
 · Ele é (louvor jovem PT 2013)
-· O meu Deus é o Deus (psalterio/louvor jovem pt 2013)
+
 · Aleluia (psalterio)
-· Jerusalém (psalterio)
+
 · Eu te amo ó Deus (hinário)
 · Canção da Vida (hinário)
 · Satisfação (psaltério)
 · Um futuro, uma esperança (psalterio)
-· Sei que não vai tardar (psalterio)
-· Deus está aqui (psalterio)
-· É tempo de louvar (psalterio)
-· Tu és o único Senhor (psalterio)
+
 · A minha esperança (psalterio)
 · Gesto de amor (psalterio)
-· O Teu poder (psalterio)
+
 · Há mais vida (psalterio)
-· Mensageiro (psalterio)
+
 · Agradecer (psalterio/louvor jovem pt 2013)
 · Meu tudo (cd jovem pt 2014)
 · Restaura (cd jovem pt 2014)
