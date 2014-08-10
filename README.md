@@ -6,11 +6,9 @@ Todas as músicas estão no formato latex que permite criar uma impressão de qu
 
 Como ajudar
 -----------
-update de 19 de Julho 2014
-- precisamos de ajuda para corrigir as músicas dos ACNACs. Aqui está a lista para
- * Acampamento de Tições: https://github.com/psalterio/repository/tree/master/songbooks/2014-acnac-ticoes
- * Acampamento de Desbravadores: https://github.com/psalterio/repository/tree/master/songbooks/2014-acnac-desbravadores 
-- também precisamos de ajuda para introduzir os acordes que faltam nas estrofes destas músicas. 
+update de 10 de Agosto 2014
+- precisamos de ajuda para corrigir as músicas do Impacto. Aqui está a lista para
+ * https://github.com/psalterio/repository/tree/master/songbooks/2014-impacto
 
 
 **Mini Tutorial para fazer correcções directamente no GitHub**  
