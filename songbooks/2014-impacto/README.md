@@ -1,7 +1,7 @@
 SEPARATA IMPACTO 2014
 =================================
 
-Usa um destes tutorial para te ajudar a corrigir as músicas:
+Usa um tutorial para te ajudar a corrigir as músicas:
 - [Tutorial #3 - corrigir músicas no GitHub (mais comum)](https://www.youtube.com/watch?v=GfHCkO5RC34)
 - [Tutorial #2 - corrigir músicas no GitHub (com permissões de admin)](https://www.youtube.com/watch?v=RwlqlnfbnZk)
 - [Tutorial #1 - corrigir músicas no teu computador (mais elaborado)](https://www.youtube.com/watch?v=Eu-_wI-p-Hs)
