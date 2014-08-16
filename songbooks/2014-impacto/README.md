@@ -45,6 +45,6 @@ as músicas listadas a "bold" precisam de ser criadas.
 | 1. [**Restaura (cd jovem pt 2014) (180)**](http://www.psalterio.net/)	                    | [restaura_180.tex](../../songs/pt/restaura_180.tex) | 
 | 1. [**Te agradeço** (181)](http://www.psalterio.net/181)									| [te_agradeco_181.tex](../../songs/pt/te_agradeco_181.tex) | 
 | 1. [**Minha vida está em Ti Senhor** (182)](http://www.psalterio.net/182)					| [minha_vida_esta_em_ti_senhor_182.tex](../../songs/pt/minha_vida_esta_em_ti_senhor_182.tex) | 
-| 1. [**Meu abrigo ** (183)](http://www.psalterio.net/183)									| [meu_abrigo_183.tex](../../songs/pt/meu_abrigo_183.tex) | 
+| 1. [**Meu abrigo** (183)](http://www.psalterio.net/183)									| [meu_abrigo_183.tex](../../songs/pt/meu_abrigo_183.tex) | 
 | 1. [**Eu só quero estar onde estás** (184)](http://www.psalterio.net/184)					| [eu_so_quero_estar_onde_estas_184.tex](../../songs/pt/eu_so_quero_estar_onde_estas_184.tex) | 
 | 1. [Conhecer Jesus (69)](http://www.psalterio.net/69)	                                    | [conhecer_jesus.tex](../../songs/pt/conhecer_jesus.tex) | 
