@@ -26,18 +26,18 @@ as músicas listadas a "bold" precisam de ser criadas.
 | 1. [Melhor lugar do mundo (172)](http://www.psalterio.net/172)	                        | [melhor_lugar_do_mundo.tex](../../songs/pt/melhor_lugar_do_mundo.tex)     | MN: faltam acordes												|
 | 1. [Deus de Israel (173)](http://www.psalterio.net/173)	                                | [deus_de_israel.tex](../../songs/pt/deus_de_israel.tex)                   | MN: faltam acordes												|
 | 1. [O Meu respirar (1007)](http://www.psalterio.net/1007)	                                | [o_meu_respirar.tex](../../songs/pt/o_meu_respirar.tex)                   | 								                    				|
-| 1. [**Nasce em mim (ministério jovem) (174)**](http://www.psalterio.net/174)	            | [nasce_em_mim_174.tex](../../songs/pt/nasce_em_mim_174.tex)                       |                                                   				| 
+| 1. [Nasce em mim (174)](http://www.psalterio.net/174)	                                    | [nasce_em_mim_174.tex](../../songs/pt/nasce_em_mim_174.tex)                       |                                                   				| 
 | 1. [Se confessarmos os nossos pecados (1010)](http://www.psalterio.net/1010)	            | [se_confessarmos_os_nossos_pecados.tex](../../songs/pt/se_confessarmos_os_nossos_pecados.tex) |                               				| 
 | 1. [Digno de glória (149)](http://www.psalterio.net/149) ou [Digno de glória (161)](http://www.psalterio.net/161)	   | [digno_de_gloria_149.tex](../../songs/pt/digno_de_gloria_149.tex) ou [digno_de_gloria_161.tex](../../songs/pt/digno_de_gloria_161.tex)|    |
 | 1. [Silêncio dentro de mim (154)](http://www.psalterio.net/154)	                        | [silencio_dentro_de_mim.tex](../../songs/pt/silencio_dentro_de_mim.tex) | 
 | 1. [Tua Palavra (156)](http://www.psalterio.net/156)	                                    | [tua_palavra.tex](../../songs/pt/tua_palavra.tex) | 
-| 1. [**Perto de Jesus (175)**](http://www.psalterio.net/175)	                            | [perto_de_jesus_175.tex](../../songs/pt/perto_de_jesus_175.tex) | 
+| 1. [Perto de Jesus (175)](http://www.psalterio.net/175)	                            | [perto_de_jesus_175.tex](../../songs/pt/perto_de_jesus_175.tex) | 
 | 1. [Jesus é o caminho (107)](http://www.psalterio.net/107) ou [Jesus é o caminho (29)](http://www.psalterio.net/29)                            | [jesus_e_o_caminho_107.tex](../../songs/pt/jesus_e_o_caminho_107.tex) ou [jesus_e_o_caminho_29.tex](../../songs/pt/jesus_e_o_caminho_29.tex) | 
 | 1. [Satisfação (43)](http://www.psalterio.net/43)	                                        | [satisfacao.tex](../../songs/pt/satisfacao.tex) | 
-| 1. [**Ele é (louvor jovem PT 2013) (176)**](http://www.psalterio.net/176)	                | [ele_e_176.tex](../../songs/pt/ele_e_176.tex) | 
+| 1. [Ele é Deus (176)](http://www.psalterio.net/176)	                                    | [ele_e_176.tex](../../songs/pt/ele_e_176.tex) | 
 | 1. [Aleluia (32)](http://www.psalterio.net/32)	                                        | [aleluia.tex](../../songs/pt/aleluia.tex) | 
-| 1. [**Eu te amo ó Deus (hinário) (177)**](http://www.psalterio.net/177)	                | [eu_te_amo_o_deus_177.tex](../../songs/pt/eu_te_amo_o_deus_177.tex) | 
-| 1. [**Canção da Vida (hinário) (178)**](http://www.psalterio.net/178)	                    | [cancao_da_vida_178.tex](../../songs/pt/cancao_da_vida_178.tex) | 
+| 1. [Eu te amo ó Deus (177)](http://www.psalterio.net/177)	                                | [eu_te_amo_o_deus_177.tex](../../songs/pt/eu_te_amo_o_deus_177.tex) | 
+| 1. [Canção da Vida (178)](http://www.psalterio.net/178)	                                | [cancao_da_vida_178.tex](../../songs/pt/cancao_da_vida_178.tex) | 
 | 1. [Um futuro e uma esperança (58)](http://www.psalterio.net/58)	                        | [um_futuro_e_uma_esperanca.tex](../../songs/pt/um_futuro_e_uma_esperanca.tex) | 
 | 1. [A minha esperança (111)](http://www.psalterio.net/111)	                            | [a_minha_esperanca.tex](../../songs/pt/a_minha_esperanca.tex) | 
 | 1. [Gesto de amor (115)](http://www.psalterio.net/115)	                                | [gesto_de_amor.tex](../../songs/pt/gesto_de_amor.tex) | 
@@ -46,7 +46,7 @@ as músicas listadas a "bold" precisam de ser criadas.
 | 1. [**Meu tudo (cd jovem pt 2014) (179)**](http://www.psalterio.net/179)	                | [meu_tudo_179.tex](../../songs/pt/meu_tudo_179.tex) | 
 | 1. [**Restaura (cd jovem pt 2014) (180)**](http://www.psalterio.net/)	                    | [restaura_180.tex](../../songs/pt/restaura_180.tex) | 
 | 1. [**Te agradeço** (181)](http://www.psalterio.net/181)									| [te_agradeco_181.tex](../../songs/pt/te_agradeco_181.tex) | 
-| 1. [**Minha vida está em Ti Senhor** (182)](http://www.psalterio.net/182)					| [minha_vida_esta_em_ti_senhor_182.tex](../../songs/pt/minha_vida_esta_em_ti_senhor_182.tex) | 
-| 1. [**Meu abrigo** (183)](http://www.psalterio.net/183)									| [meu_abrigo_183.tex](../../songs/pt/meu_abrigo_183.tex) | 
+| 1. [Minha vida está em Ti Senhor (182)](http://www.psalterio.net/182)					    | [minha_vida_esta_em_ti_senhor_182.tex](../../songs/pt/minha_vida_esta_em_ti_senhor_182.tex) | 
+| 1. [Meu abrigo (183)](http://www.psalterio.net/183)									    | [meu_abrigo_183.tex](../../songs/pt/meu_abrigo_183.tex) | 
 | 1. [**Eu só quero estar onde estás** (184)](http://www.psalterio.net/184)					| [eu_so_quero_estar_onde_estas_184.tex](../../songs/pt/eu_so_quero_estar_onde_estas_184.tex) | 
 | 1. [Conhecer Jesus (69)](http://www.psalterio.net/69)	                                    | [conhecer_jesus.tex](../../songs/pt/conhecer_jesus.tex) | 
