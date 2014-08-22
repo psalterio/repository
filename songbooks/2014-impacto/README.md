@@ -43,10 +43,10 @@ as músicas listadas a "bold" precisam de ser criadas.
 | 1. [Gesto de amor (115)](http://www.psalterio.net/115)	                                | [gesto_de_amor.tex](../../songs/pt/gesto_de_amor.tex) | 
 | 1. [Há mais vida (146)](http://www.psalterio.net/146)	                                    | [ha_mais_vida.tex](../../songs/pt/ha_mais_vida.tex) | 
 | 1. [Agradecer (psalterio/louvor jovem pt 2013) (160)](http://www.psalterio.net/160)	    | [agradecer.tex](../../songs/pt/agradecer.tex) | 
-| 1. [**Meu tudo (cd jovem pt 2014) (179)**](http://www.psalterio.net/179)	                | [meu_tudo_179.tex](../../songs/pt/meu_tudo_179.tex) | 
-| 1. [**Restaura (cd jovem pt 2014) (180)**](http://www.psalterio.net/)	                    | [restaura_180.tex](../../songs/pt/restaura_180.tex) | 
-| 1. [**Te agradeço** (181)](http://www.psalterio.net/181)									| [te_agradeco_181.tex](../../songs/pt/te_agradeco_181.tex) | 
+| 1. [Meu tudo (179)](http://www.psalterio.net/179)	                | [meu_tudo_179.tex](../../songs/pt/meu_tudo_179.tex) | 
+| 1. [Restaura (180)](http://www.psalterio.net/)	                    | [restaura_180.tex](../../songs/pt/restaura_180.tex) | 
+| 1. [Te agradeço (181)](http://www.psalterio.net/181)									| [te_agradeco_181.tex](../../songs/pt/te_agradeco_181.tex) | 
 | 1. [Minha vida está em Ti Senhor (182)](http://www.psalterio.net/182)					    | [minha_vida_esta_em_ti_senhor_182.tex](../../songs/pt/minha_vida_esta_em_ti_senhor_182.tex) | 
 | 1. [Meu abrigo (183)](http://www.psalterio.net/183)									    | [meu_abrigo_183.tex](../../songs/pt/meu_abrigo_183.tex) | 
-| 1. [**Eu só quero estar onde estás** (184)](http://www.psalterio.net/184)					| [eu_so_quero_estar_onde_estas_184.tex](../../songs/pt/eu_so_quero_estar_onde_estas_184.tex) | 
+| 1. [Eu só quero estar onde estás (184)](http://www.psalterio.net/184)					| [eu_so_quero_estar_onde_estas_184.tex](../../songs/pt/eu_so_quero_estar_onde_estas_184.tex) | 
 | 1. [Conhecer Jesus (69)](http://www.psalterio.net/69)	                                    | [conhecer_jesus.tex](../../songs/pt/conhecer_jesus.tex) | 
