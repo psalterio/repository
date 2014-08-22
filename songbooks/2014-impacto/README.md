@@ -8,7 +8,7 @@ Usa um tutorial para te ajudar a corrigir as músicas:
 
 as músicas listadas a "bold" precisam de ser criadas.
 
-| Título Música (link site)            									                    |   latex                                                                                           | revisão feita por ... 		                                    |
+| Título Música (link site)            									                    |   latex                                                                                           | por fazer ... 		                                    |
 | ----------------------------------------------------------------------                    | ------------------------------------------------------------------------------------------------  | ------------------------------                                    |
 | 1. [A grande esperança](http://www.psalterio.net/158)					                    | [a_grande_esperanca.tex](../../songs/pt/a_grande_esperanca.tex)                                   | confirmado com a separata mas acordes coro um pouco diff.		|
 | 1. [Falar com Deus (167)](http://www.psalterio.net/167) 						            | [falar_com_deus.tex](../../songs/pt/falar_com_deus.tex)             		                        |                       faltam acordes ultima estrofe					|
