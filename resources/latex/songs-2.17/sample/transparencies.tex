@@ -1,0 +1,66 @@
+% Copyright (C) 2013 Kevin W. Hamlen
+%
+% This program is free software; you can redistribute it and/or
+% modify it under the terms of the GNU General Public License
+% as published by the Free Software Foundation; either version 2
+% of the License, or (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+% MA  02110-1301, USA.
+%
+% The latest version of this program can be obtained from
+% http://songs.sourceforge.net.
+
+\documentclass[letterpaper,oneside]{article}
+\usepackage[bookmarks]{hyperref}
+\usepackage[slides]{songs}
+% \includeonlysongs{2}
+
+\setlength{\oddsidemargin}{-0.5in}
+\setlength{\evensidemargin}{-0.5in}
+\setlength{\textwidth}{7.5in}
+\setlength{\topmargin}{-0.75in}
+\setlength{\topskip}{0in}
+\setlength{\headheight}{13.6pt}
+\setlength{\headsep}{0.5in}
+\setlength{\textheight}{9in}
+
+% Repeat the chorus on subsequent pages of a song so that the projector-
+% operator won't have to flip back to the first page for each chorus.
+% This feature is only supported for eTeX-compatible versions of LaTeX.
+\ifx\eTeXversion\undefined\else
+  \ifx\eTeXversion\relax\else
+    \repchoruses
+  \fi
+\fi
+
+% Define some headers for each slide to help the projector-operator
+% find the correct slide.  We use the fancyhdr package for this.
+\IfFileExists{fancyhdr.sty}{
+  \usepackage{fancyhdr}
+  \usepackage{extramarks}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \rhead{\sffamily\firstrightmark}
+  \renewcommand{\headrulewidth}{0pt}
+
+  \renewcommand{\songmark}{\markboth{}{\thesongnum}}
+  \renewcommand{\versemark}{\markboth{}{\thesongnum. \songtitle}}
+  \renewcommand{\chorusmark}{\markboth{}{\thesongnum. \songtitle}}
+}{}
+
+\begin{document}
+
+\begin{songs}{}
+\input{songs.sbd}
+\end{songs}
+
+\end{document}
+
