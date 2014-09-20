@@ -6,10 +6,8 @@ Todas as músicas estão no formato latex que permite criar uma impressão de qu
 
 Como ajudar
 -----------
-update de 10 de Agosto 2014
-- precisamos de ajuda para corrigir as músicas do Impacto. Aqui está a lista para
- * https://github.com/psalterio/repository/tree/master/songbooks/2014-impacto
-
+update de 19 de Setembro 2014
+- temos vários mini projetos, um dos mais ambiciosos é o de criar partituras para todas as músicas. Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
 
 **Mini Tutorial para fazer correcções directamente no GitHub**  
 (serve perfeitamente para fazer a maior parte das correcões):  
