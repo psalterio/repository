@@ -1,5 +1,6 @@
 %----------------------------------------------------------
-% begin song latex formating, set the title and other info
+% refer to template.tex to see how to edit this file 
+
 
 % general rules
 
@@ -58,50 +59,41 @@
 
 % Example song
 
-\beginsong{Title Here \\ second title here}
-[
+\beginsong{Title Here \\ second title here}[
     id                     = {999},
     psalterio_number       = {},
-    music_by               = {Author Music},
-    lyrics_by              = {Author Lyrics},
+    by               	   = {Author Music and Lyrics},
     arrangement_by         = {},
     bible_verse            = {},
-    licence_or_copyright   = {},
+	licence   			   = {},
+    cr   				   = {\copyright~1987 Who did it}, %copyright info
     video_url              = {},
     extra                  = {},
-    index                  = {Title Here},
+    index                  = {Index Title},
 ]
 
 %----------------------------------------------------------
-% section #1: verse 
-
 \beginverse
-
 Example \[C]test \[Em]always put the chords before sila\[Dm]bles, \[G]
 ...
-
 \endverse
 
 %----------------------------------------------------------
-% section #2: chorus 
-
 \beginchorus
-
 This is the Chorus
-
 \endchorus
 
 %----------------------------------------------------------
-% section #3: verse 
-
 \beginverse
-
 Another verse. Always add \[G]chords in each verse. 
 Thank you!
-
 \endverse
 
 
+%----------------------------------------------------------
+% add any comments to this music/file here
+%\begincomments
+%\endcomments
 
 %----------------------------------------------------------
 \endsong

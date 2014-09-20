@@ -1,0 +1,73 @@
+% these are the format options for your songbooks
+\documentclass[a4paper]{article}
+\usepackage[bookmarks]{hyperref}
+\usepackage[chorded]{../_styles/songs}
+\usepackage[utf8]{inputenc}
+%\usepackage[utf8,latin1]{inputenc}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{wallpaper}
+\usepackage{color} % for \color{....}
+\usepackage{eso-pic} %for background pictures, AddToShipoutPicture
+%\usepackage{ifthen} %etoolbox is more up to date
+\usepackage{etoolbox}
+\usepackage{transparent}
+%\usepackage{ifthen} %etoolbox is more up to date
+
+
+
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{0in}
+\setlength{\topskip}{0in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{9.1in}
+\settowidth{\versenumwidth}{1.\ }
+\pagestyle{empty}
+
+
+
+%title page
+\newcommand\titlepagepic{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering{\includegraphics[width=\paperwidth,height=\paperheight]{titlepage.pdf}}%
+	\vfill
+		}
+	}
+}
+
+%% add background picture
+% eso-pic package
+\newcommand\BackgroundPic{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering{\includegraphics[width=\paperwidth,height=\paperheight]{old-paper.jpg}}%
+	\vfill
+		}
+	}
+}
+
+\newcommand\BottomPic{
+\put(0,0){
+\includegraphics{bkground_page_bottom.png}
+}}
+
+% load the generic song commands 
+\input{../_format/song_commands.tex}
+
+%\renewcommand{\sharpsymbol}{\ensuremath{^\sharp}}
+\renewcommand{\extendprelude}{
+  \showrefs\showauthors 
+  {\bfseries\musicLyricsBy}
+  {\bfseries\musicby}
+  {\bfseries\lyricsby}
+  {\bfseries\titleoriginal}
+  {\bfseries\extra}
+}
+
+\def \gtabsOn{1}

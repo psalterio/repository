@@ -1,34 +1,28 @@
-
-\input{./_include/headers}
-
-% this includes all the guitar tabs that may be needed
-%\input{\includeFolder/guitarTabs}
-
+\input{format_songbook.tex}
 
 \newindex{titleidx}{cbtitle}
 %\newauthorindex{authidx}{cbauth}
 %\newscripindex{scripidx}{cbscrip}
 
-\providebool{gchords}
-\setbool{gchords}{false}
-
-% set guitar chords vertical space separation with lyrics
-\def \gchordsVspace{5 mm}
 
 \begin{document}
 
 	%\showindex{Complete Index of Songs}{titleidx}
 	\songsection{} % no title
 
-	\AddToShipoutPicture{\BottomPic}
+	%\AddToShipoutPicture{\BottomPic}
 	
 	% \begin{songs}{}
 	% \begin{songs}{titleidx,authidx,scripidx}
 	\begin{songs}{titleidx}
 	
-	\input{\includeFolder/formatPsalterio}
+	%\input{\includeFolder/formatPsalterio}
 	
-	\input{../../songs.en/_seek_ye_first.tex}
+	%\input{../../songs/en/seek_ye_first_185.tex}
+	\input{../../songs/en/seek_ye_first_189.tex}
+	\input{../../songs/en/i_love_you_lord.tex}
+	\input{../../songs/en/in_moments_like_these.tex}
+	\input{../../songs/en/shine_jesus_shine.tex}
 	
 	 \end{songs}
 	 

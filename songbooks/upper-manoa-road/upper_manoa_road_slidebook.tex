@@ -1,112 +1,21 @@
-% Copyright (C) 2011 Kevin W. Hamlen
-%
-% This program is free software; you can redistribute it and/or
-% modify it under the terms of the GNU General Public License
-% as published by the Free Software Foundation; either version 2
-% of the License, or (at your option) any later version.
-%
-% This program \is distributed in the hope that it will be useful,
-% but WITHOUT ANY WARRANTY; without even the implied warranty of
-% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-% GNU General Public License for more details.
-%
-% You should have received a copy of the GNU General Public License
-% along with this program; if not, write to the Free Software
-% Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
-% MA  02110-1301, USA.
-%
-% The latest version of this program can be obtained from
-% http://songs.sourceforge.net.
-
-\documentclass[letterpaper,oneside,landscape]{article}
-\usepackage[pdfpagemode=UseThumbs]{hyperref}
-\usepackage{color}
-\usepackage[slides]{_include/psalterio}
-% \includeonlysongs{2}
-
-\usepackage{setspace}
-\usepackage[utf8]{inputenc}
-\usepackage{etoolbox}
-\providebool{gchords}
-\setbool{gchords}{false}
-
-\newsongkey{mlby} {\def\musicLyricsBy{}}
-							{\def\musicLyricsBy{\sffamily\it\small letra e música por #1\par}}
-
-%\doublespacing
-
-\setlength{\oddsidemargin}{-0.5in}
-\setlength{\evensidemargin}{-0.5in}
-
-%\setlength{\topmargin}{-0.75in}
-%\setlength{\topmargin}{0in}
-%\setlength{\topskip}{1in}
-%\setlength{\headheight}{13.6pt}
-%\setlength{\headsep}{0.1in}
-
-\setlength{\textheight}{6.5in}
-\setlength{\textwidth}{10in}
-
-%\centering
-
-% Don't number the verses:
-\noversenumbers
-
-% Put each verse and chorus on a separate slide:
-\sepverses
-
-% Use 28pt Adobe Helvetica font for the lyrics
-\renewcommand{\lyricfont}{%
-  \fontfamily{phv}\fontseries{b}\fontsize{38pt}{38pt}\selectfont%
-}
-
-% If background colors are supported on this machine, then slides
-% will have white lettering on a blue background.
-\csname @ifundefined\endcsname{set@page@color}{}{
-  \definecolor{SlideBG}{rgb}{0,0,0.13} %0.43
-  \pagecolor{SlideBG}
-  \color{white}
-  \definecolor{SongbookShade}{rgb}{0,0,0.2}
-}
-
-% Define some headers for each slide to help the projector-operator
-% find the correct slide.  We use the fancyhdr package for this.
-%\IfFileExists{fancyhdr.sty}{
-%  \usepackage{fancyhdr}
-%  \usepackage{extramarks}
-%  \pagestyle{fancy}
-%  \fancyhf{}
-%  \lhead{\sffamily\firstleftmark}
-%  \rhead{\sffamily\firstrightmark}
-%  \renewcommand{\headrulewidth}{0pt}
-%
-%  \renewcommand{\songmark}{\markboth{}{\thesongnum}}
-%  \renewcommand{\versemark}{%
-%    \ifvnumbered
-%      \markboth{\thesongnum. \songtitle}{Verse \theversenum}%
-%    \else
-%      \markboth{\thesongnum. \songtitle}{}%
-%    \fi
-%  }
-%  \renewcommand{\chorusmark}{\markboth{\thesongnum. \songtitle}{Chorus}}
-%}{}
+\input{format_slidebook.tex}
 
 \begin{document}
 
 \begin{songs}{}
-%\input{songs.sbd}
-\begin{center}
 
-%\input{../../songs.en/_seek_ye_first}
-%
-%\input{../../songs.en/create_in_me}
-%\input{../../songs.en/i_love_you_lord}
+%\begin{center}
 
-\input{../../songs.en/here_i_am_to_worship}
-\input{../../songs.en/come_now_is_the_time_to_worship}
-\input{../../songs.en/the_power_of_your_love}
+\input{../../songs/en/seek_ye_first_189}
+%\input{../../songs/en/create_in_me}
+\input{../../songs/en/i_love_you_lord}
+\input{../../songs/en/in_moments_like_these}
+\input{../../songs/en/shine_jesus_shine}
+%\input{../../songs/en/here_i_am_to_worship}
+%\input{../../songs/en/come_now_is_the_time_to_worship}
+%\input{../../songs/en/the_power_of_your_love}
 
-\end{center}
+%\end{center}
 \end{songs}
 
 \end{document}
