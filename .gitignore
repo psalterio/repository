@@ -1,9 +1,9 @@
 .DS_Store
 .synctex.gz
 .aux
-.log
-.out
-
+*.log
+*.out
+*.gz
 *.aux
 
 songbooks/acre-2014/separata_acre_2014.log
