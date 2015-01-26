@@ -3,7 +3,7 @@ GIT HELP for Mac Os/Unix
 
 
 using gitX
-ÑÑÑÑÑ
+----------
 >> if you're doing this for the first time:
 
 0. download the new gitX from 
@@ -32,9 +32,28 @@ Finally push to remote
 
 first dialog is username and not password as it appears
 
-###########################
-using command line
-###########################
+
+using the command line
+----------------------
+(good tutorial on git using the command line: http://alistapart.com/article/get-started-with-git)
+
+most common features
+
+# check the status
+$ git status
+
+# add and commit to the staging area
+$ git commit -am "your message here"
+
+# update your local branch
+$ git pull
+
+#  commit changes to server
+$ git push 
+
+
+other features
+
 $ git init
 
 # add new files from the local folder, -A removes files and adds new files from 
