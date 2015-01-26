@@ -45,12 +45,11 @@ $ git status
 # add and commit to the staging area
 $ git commit -am "your message here"
 
-# update your local branch
-$ git pull
-
 #  commit changes to server
 $ git push 
 
+# update your local branch
+$ git pull
 
 other features
 
@@ -124,9 +123,8 @@ Add bookmark create working folder and and clone repository
 https://code.google.com/p/psalterio/
 
 
-###########################
 other versions of gitX
-###########################
+----------------------
 other options for gitX (not recommended, older)
 https://github.com/brotherbard/gitx/downloads (take the experimental downloads)
 
