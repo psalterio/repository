@@ -1,0 +1,75 @@
+\beginsong{A Pomba do Amor}
+[
+    id                     = {189},
+    music_by               = {Gerson Ferreira},
+    lyrics_by              = {Eunice Ferreira},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {https://www.youtube.com/watch?v=3jxUCL9GmoI},
+    extra                  = {},
+    index                  = {},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+Não somos de nós mesmos 
+Pertencemos a Jesus
+O nosso Criador e Redentor
+No princípio deu-nos vida
+E voltou a dá-la na cruz
+Que respota daremos
+A este amor?
+\endverse
+
+%----------------------------------------------------------
+% section #2: chorus 
+
+\beginchorus
+Somos cheios de vida
+De louvor e gratidão 
+Pois escolhemos fazer 
+O teu querer
+Para amar e servir
+Eis o nosso coração 
+Entregamos tudo 
+Tudo a Ti
+\endchorus
+
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+Somos filhos da Luz
+Eleitos de Jesus
+Somos cartas abertas
+Templos do Senhor
+Jesus És a verdade (homens) 
+Jesus nosso caminho (mulheres)
+Em Ti há vida abundante
+Oh, oh, oh
+Jesus És a verdade
+Jesus nosso caminho
+Em Ti há vida 
+\endverse
+
+%----------------------------------------------------------
+% section #4: chorus 
+
+\beginchorus
+Somos cheios de vida
+De louvor e gratidão 
+Pois escolhemos fazer 
+O teu querer
+Para amar e servir
+Eis o nosso coração 
+Entregamos tudo 
+Tudo a Ti
+Entregamos tudo 
+Tudo a Ti
+\endchorus
+
+%----------------------------------------------------------
+\endsong
