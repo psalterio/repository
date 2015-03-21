@@ -72,5 +72,5 @@ Links do Projecto
 - wikipedia   : [http://pt.wikipedia.org/wiki/Psaltério](http://pt.wikipedia.org/wiki/Psalt%C3%A9rio)
 - youtube     : https://www.youtube.com/user/psalterio7
 - twitter : https://twitter.com/psalterio
-- facebook: https://www.facebook.com/psalterio.pt
+- facebook: https://www.facebook.com/psalterio.net
 - [Android App](https://play.google.com/store/apps/details?id=net.psalterio.psalterioandroid)
