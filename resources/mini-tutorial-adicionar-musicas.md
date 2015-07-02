@@ -16,7 +16,7 @@ http://www.psalterio.net/list-num-desc e usa um número nas centenas
 9. depois só falta adicionar a letra e os acordes em cada secção correspondente (\beginverse ...
 \endverseç \beginchorus ... \endchorus). Não faz mal se não tiveres os acordes, podemos sempre adicionar depois. 
 10. carregar no botão “Commit new file”
-11. - finalmente para propagar as actualizações do github para a base de dados do 
+11. finalmente para propagar as actualizações do github para a base de dados do 
 psalterio é preciso correr este script http://www.psalterio.net/workshop/tools/db/update_table_songs.php
 
 done!
