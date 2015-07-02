@@ -36,4 +36,7 @@ As músicas neste repositório estão em formato latex. Estas são algumas das r
  * "D9 5+" fica "**D$^{9 5+}$**"
  * 
  
+## Partituras
+- um dos mini projectos mais ambiciosos é o de criar partituras para todas as músicas. Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
+
  
