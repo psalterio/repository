@@ -1,0 +1,57 @@
+
+\beginsong{Nesta Batalha}
+[
+    id                     = {198},
+    psalterio_number       = {198},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {Hino Tema do ACNAC de Tições 2006},
+    index                  = {Nesta Batalha},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+
+\[A]Deus sempre \[E]cumpre, \[F#m]Deus nunca \[C#m]falha,
+\[D]Suas pro\[A]messas de am\[Esus4]or\[E],
+\[A]Mas tua \[E]parte te\[F#m]rás que faz\[C#m]er
+\[D]Esforça-te e a\[A]nima-te, \[D]podes ven\[E]cer!
+
+\endverse
+
+%----------------------------------------------------------
+% section #2: chorus 
+
+\beginchorus
+
+\[F#m]Nesta ba\[C#m]talha o Se\[D]nhor é con\[A]tigo
+\[D]Vai sempre à \[A]frente, Ele \[Bm7]é teu a\[Esus4]brigo\[E],
+\[F#m]Não tenhas \[C#m]medo, faz \[D]como Jo\[A]sué,
+\[D]Para ven\[E]ceres pre\[D]cisas ter \[A]fé.
+
+
+\endchorus
+
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+
+\[A]Vê o e\[E]xemplo, lá \[F#m]em Jeri\[C#m]có
+\[D]Deus Sua pro\[A]messa, cump\[Esus4]riu\[E]
+Ao \[A]som das trom\[E]betas os \[F#m]muros no ch\[C#m]ão
+\[D]Esforça-te e a\[A]nima-te,\[D]sê bom cris\[E]tão!
+
+
+\endverse
+
+%----------------------------------------------------------
+% end song
+
+\endsong
