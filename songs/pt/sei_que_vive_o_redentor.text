@@ -17,34 +17,34 @@
 % section #1: verse 
 
 \beginverse
-/[C]Quão doce é o /[G]meu viver
-Que /[Am]paz experimento /[C]no meu ser
-Se/[F]reno cora/[G]ção ao dei/[C]tar e acor/[G]dar
-/[C]Nunca o temor da/[G]rá lugar
-À /[Am]calma quem em mim vei/[C]o morar
-Tran/[F]quilo como o /[G]mar eu hei-de /[C]viver /[G]
+\[C]Quão doce é o \[G]meu viver
+Que \[Am]paz experimento \[C]no meu ser
+Se\[F]reno cora\[G]ção ao dei\[C]tar e acor\[G]dar
+\[C]Nunca o temor da\[G]rá lugar
+À \[Am]calma quem em mim vei\[C]o morar
+Tran\[F]quilo como o \[G]mar eu hei-de \[C]viver \[G]
 \endverse
 
 %----------------------------------------------------------
 % section #2: verse 
 
 \beginverse
-Su/[C]ave será o meu /[G]caminhar
-Cer/[Am]to de meu pé não /[C]tropeçar
-Se/[F]guro de ob/[G]ter no fi/[C]nal um novo /[G]lar
-/[C]Sossego há em /[G]meu agir
-Seus /[Am]passos do perigo /[C]eu ouvi
-Na/[F]da me pode/[G]rá fazer rec/[C]ear  /[G]
+Su\[C]ave será o meu \[G]caminhar
+Cer\[Am]to de meu pé não \[C]tropeçar
+Se\[F]guro de ob\[G]ter no fi\[C]nal um novo \[G]lar
+\[C]Sossego há em \[G]meu agir
+Seus \[Am]passos do perigo \[C]eu ouvi
+Na\[F]da me pode\[G]rá fazer rec\[C]ear  \[G]
 \endverse
 
 %----------------------------------------------------------
 % section #3: chorus 
 
 \beginchorus
-Porque eu /[Am]sei que vive o /[Em]Redentor
-Que /[F]olha desde o /[C]céu com amor
-Minha /[Am]vida sustém /[D]sempre
-/[F]Junto ao regaço s/[C]eu
+Porque eu \[Am]sei que vive o \[Em]Redentor
+Que \[F]olha desde o \[C]céu com amor
+Minha \[Am]vida sustém \[D]sempre
+\[F]Junto ao regaço s\[C]eu
 (Refrão 2 vezes)
 \endchorus
 
@@ -52,12 +52,12 @@ Minha /[Am]vida sustém /[D]sempre
 % section #4: verse 
 
 \beginverse
-/[C]Quão doce é o /[G]meu viver
-Que /[Am]paz experimento /[C]no meu ser
-Se/[F]reno cora/[G]ção ao dei/[C]tar e acor/[G]dar
-/[C]Nunca o temor da/[G]rá lugar
-À /[Am]calma quem em mim vei/[C]o morar
-Tran/[F]quilo como o /[G]mar eu hei-de /[C]viver /[G]
+\[C]Quão doce é o \[G]meu viver
+Que \[Am]paz experimento \[C]no meu ser
+Se\[F]reno cora\[G]ção ao dei\[C]tar e acor\[G]dar
+\[C]Nunca o temor da\[G]rá lugar
+À \[Am]calma quem em mim vei\[C]o morar
+Tran\[F]quilo como o \[G]mar eu hei-de \[C]viver \[G]
 \endverse
 
 %----------------------------------------------------------
@@ -65,10 +65,10 @@ Tran/[F]quilo como o /[G]mar eu hei-de /[C]viver /[G]
 
 \beginchorus
 
-Porque eu /[Am]sei que vive o /[Em]Redentor
-Que /[F]olha desde o /[C]céu com amor
-Minha /[Am]vida sustém /[D]sempre
-/[F]Junto ao regaço s/[C]eu
+Porque eu \[Am]sei que vive o \[Em]Redentor
+Que \[F]olha desde o \[C]céu com amor
+Minha \[Am]vida sustém \[D]sempre
+\[F]Junto ao regaço s\[C]eu
 (Refrão 2 vezes)
 \endchorus
 
