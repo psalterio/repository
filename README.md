@@ -1,7 +1,7 @@
 Repositorio de músicas no Psaltério
 ================================
 Este é o repositório oficial das músicas do Psaltério (www.psalterio.net).
-Todas as músicas estão no formato latex que permite criar uma impressão de qualidade tipográfica, exemplo:  [Separata IMPACTO 2014](https://raw.githubusercontent.com/psalterio/repository/master/songbooks/2014-impacto/separata_impacto_2014_chords.pdf) e também gera a base de dados automaticamente para o novo site do psaltério (http://novo.psalterio.net/) e as novas mobile Apps (iOS7 e [Android](https://play.google.com/store/apps/details?id=net.psalterio.psalterioandroid)). É um verdadeiro 3 em 1 :)
+Todas as músicas estão no formato latex que permite criar uma impressão de qualidade tipográfica, exemplo:  [Separata IMPACTO 2014](https://raw.githubusercontent.com/psalterio/repository/master/songbooks/2014-impacto/separata_impacto_2014_chords.pdf) e também gera a base de dados automaticamente para o novo site do psaltério (http://novo.psalterio.net/) e as novas mobile Apps ([iOS](https://itunes.apple.com/pt/app/psalterio/id858825872) e [Android](https://play.google.com/store/apps/details?id=net.psalterio.psalterioandroid)). É um verdadeiro 3 em 1 :)
 
 
 Como ajudar
