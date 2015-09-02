@@ -1,0 +1,74 @@
+%----------------------------------------------------------
+% begin song latex formating, set the title and other info
+
+\beginsong{Quão Grande é o Meu Deus}
+[
+    id                     = {168},
+    psalterio_number       = {168},
+    music_by               = {Chris Tomlin},
+    lyrics_by              = {Chris Tomlin},
+    arrangement_by         = {Gerson Coelho},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Quão Grande é o Meu Deus},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+\[C]O esplendor do Rei ves\[Am]tido em majestade
+a terra canta\[F]rá em Deus se alegra\[G]rá
+\[C]Ele é a própria luz e as \[Am]trevas fugirão
+ao som de Sua \[F]voz, ao som da sua \[G]voz
+\endverse
+
+%----------------------------------------------------------
+% section #2: verse 
+
+\beginchorus
+\[C]Quão grande é o meu Deus 
+cantarei \[Am]quão grande é o meu Deus 
+e todos hão-de \[F]ver quão \[G]grande é o meu \[C]Deus
+\endchorus
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+\[C]Por gerações Ele tem o \[Am]tempo em Suas mãos o princípio e o \[F]fim, princípio e o \[G]fim.
+\[C]Deus trino é o Senhor, Pai, Fi\[Am]lho , Espírito Cordeiro e Le\[F]ão, Cordeiro e Le\[G]ão.
+\endverse
+
+%----------------------------------------------------------
+% section #4: verse 
+
+\beginchorus
+\[C]Quão grande é o meu Deus 
+cantarei \[Am]quão grande é o meu Deus 
+e todos hão-de \[F]ver quão \[G]grande é o meu \[C]Deus
+\endchorus
+
+%----------------------------------------------------------
+% section #5: verse 
+
+\beginverse
+\[C]Sobre todo o nome é o Seu
+\[Am]Ele digno de louvor
+Eu can\[F]tarei quão gra\[G]nde é o meu De\[C]us
+\endverse
+
+%----------------------------------------------------------
+% section #6: verse 
+
+\beginchorus
+\[C]Quão grande é o meu Deus 
+cantarei \[Am]quão grande é o meu Deus 
+e todos hão-de \[F]ver quão \[G]grande é o meu \[C]Deus
+\endchorus
+
+%----------------------------------------------------------
+% endsong
+
+\endsong
