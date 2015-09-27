@@ -9,6 +9,14 @@ Como ajudar
 - adicionar novas múscas: precisamos de ajuda para adicionar músicas que ainda não estão no psalterio. Podes ver este mini tutorial para ver como criar novas músicas: https://github.com/psalterio/repository/blob/master/resources/mini-tutorial-adicionar-musicas.md
 - Clicka neste link para ver outras formas de ajudar: https://github.com/psalterio/repository/blob/master/resources/como-ajudar.md
 
+Coisas a fazer
+--------------
+Podes ver aqui a lista de tarefas que exitem de momento:
+- [Lista de Tarefas (TODO.md)](https://github.com/psalterio/repository/blob/master/TODO.md)
+- ["Issues" nas músicas](https://github.com/psalterio/repository/issues)
+- Trello?
+- gDoc?
+
 Acordes no Psaltério
 --------------------
 
