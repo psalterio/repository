@@ -24,3 +24,7 @@ Músicas a Gravar audio (2015)
 - Teu poder
 - Tua Palavra
 - Vem connosco para cantar
+
+Web
+- oficina do Psaltério (para adicionar, editar músicas e criar separatas)
+- mudar o sistema de latex para Markdown (ou equivalente). O latex será gerado automaticamente mas usando Markdown simplifica-se grandemente o processo de edição/criação das músicas.
