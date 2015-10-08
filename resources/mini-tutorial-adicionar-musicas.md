@@ -1,4 +1,4 @@
-## Mini Tutorial para adicionar musicas no GitHub
+## Mini Tutorial para adicionar ou corrigir musicas no GitHub
 
 Antes de introduzires uma nova música verifica que a música não existe no repositorio. 
 Talvez a maneira mais fácil de verificar é ver a lista das músicas directamente aqui no gihub na 
