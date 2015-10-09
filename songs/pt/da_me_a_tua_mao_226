@@ -1,0 +1,52 @@
+%----------------------------------------------------------
+% refer to template.tex to see how to edit this file 
+\beginsong{Dá-me a Tua Mão}
+[
+    id    = {226},
+    by    = {},
+    sr    = {},
+    cr    = {},
+    video = {},
+    extra = {},
+]
+
+%----------------------------------------------------------
+\beginverse
+Es\[D]tava o faraó sosse\[A]gado a reinar
+Moi\[G]sés deu-lhe a ordem: para o \[A]povo libertar 
+O \[G]faraó tentou em \[A]vão contrariar,
+Mas \[G]aprendeu a li\[D/F#]ção, não pode a \[Em]Deus desa\[A4-A]fiar
+\endverse
+
+%----------------------------------------------------------
+\beginverse
+Pa\[D]ssaram o Mar Vermelho de uma \[A]forma milagrosa
+Be\[G]beram em Horeb, uma \[A]água saborosa
+Se\[G]guiram no deserto uma \[A]nuvem protetora
+Á \[G]noite os aque\[D/F#]cia, uma co\[Em]luna abrasa\[A4-A]dora
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+\[D]Dá-me a tua mão, vem co\[A]migo caminhar
+Je\[Bm]sus é o capitão, desta \[F#m]marcha singular
+Vive\[G]remos pela \[D/F#]fé, canta\[Em]remos o a\[A]mor do Salva\[D]dor
+\endchorus
+
+%----------------------------------------------------------
+\beginverse
+\[D]Juntos tu e eu vamos \[A]também começar
+\[G]A andar nesse caminho que Je\[A]sus veio mostrar
+De mãos \[G]dadas andaremos como \[A]irmãos a valer
+\[G]Traz mais outro a\[D/F#]migo e vai \[Em]ser bom de vi\[A4-A]ver	
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+\[D]Dá-me a tua mão, vem co\[A]migo vem agora
+\[Bm]Juntos mão na mão anda\[F#m]remos estrada fora
+Chega\[G]remos a esse \[D/F#]lar, onde habi\[Em]taremos \[A]com o Salva\[A]dor
+\endchorus
+
+%----------------------------------------------------------
+\endsong
