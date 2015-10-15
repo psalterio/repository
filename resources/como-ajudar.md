@@ -2,7 +2,7 @@
 - uma das grandes tarefas (constante) é de verificar e corrigir as músicas já existentes e adicionar novas músicas para os acampamentos, etc. [Segue este tutorial para ajudar](https://github.com/psalterio/repository/blob/master/resources/mini-tutorial-adicionar-musicas.md)
 
 ## Partituras
-- um dos mini projectos mais ambiciosos é o de criar partituras para todas as músicas. Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
+- um dos projectos mais ambiciosos é o de criar partituras para todas as músicas. Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
 
 ## Website
 - precisamos de ajuda para várias tarefas no webste mas em especial programação (php, ruby on rails) edesign (html/css). Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
