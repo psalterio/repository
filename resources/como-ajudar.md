@@ -5,7 +5,7 @@
 - um dos projectos mais ambiciosos é o de criar partituras para todas as músicas. Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
 
 ## Website
-- precisamos de ajuda para várias tarefas no webste mas em especial programação (php, ruby on rails) edesign (html/css). Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
+- precisamos de ajuda para várias tarefas no website (www.psalterio.net) mas em especial programação (php, ruby on rails) edesign (html/css). Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
 
 ## Gravações das músicas
 - precisamos de gravar as várias músicas existentes no Psaltério para que as pessoas que não conhecem bem as músicas possam aprender. Este é um mega-projeto mas que vai fazer uma grande diferença. Se achas que podes ajudar envia-nos um email para psalterio.net@gmail.com.
