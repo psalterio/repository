@@ -3,7 +3,7 @@
 ### Para corrigir uma música
 1. vai à pasta das [músicas no github](https://github.com/psalterio/repository/tree/master/songs/)
 e abre a pasta "pt" para as musicas em Portugues, "en" em Ingles, etc.
-2. faz as correcções necessárias na música. Confirma que estás a usar o formato appropriado comparando com outras músicas já introduzidas ou através do [template](https://github.com/psalterio/repository/blob/master/songs/template_simple.tex)
+2. faz as correcções necessárias na música (confirma que estás a usar o formato appropriado comparando com outras músicas já introduzidas ou através do [template](https://github.com/psalterio/repository/blob/master/songs/template_simple.tex))
 3. finalmente para propagar as actualizações do github para a base de dados do 
 psalterio é preciso correr este script http://www.psalterio.net/update
 
