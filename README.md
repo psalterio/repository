@@ -6,7 +6,7 @@ Todas as músicas estão no formato latex que permite criar uma impressão de qu
 
 Como ajudar?
 ------------
-- [mini tutorial para adicionar e corrigir músicas](https://github.com/psalterio/repository/blob/master/resources/mini-tutorial-adicionar-musicas.md)
+- [adicionar e corrigir músicas](https://github.com/psalterio/repository/blob/master/resources/mini-tutorial-adicionar-musicas.md)
 - [lista de tarefas](https://github.com/psalterio/repository/milestones)
 - [outras formas de ajudar](https://github.com/psalterio/repository/blob/master/resources/como-ajudar.md)
 
