@@ -1,6 +1,6 @@
 ## Mini Tutorial para adicionar ou corrigir musicas
 
-### Para corrigir uma música no github - sem acesso directo ao repositorio (pull request)
+### corrigir uma música no github - sem acesso directo ao repositorio (pull request)
 este metodo serve perfeitamente para fazer a maior parte das correcões
 
 1. Abrir directamente o link da musica no github. Exemplo:  
@@ -13,7 +13,7 @@ https://github.com/psalterio/repository/blob/master/songs/pt/agradecer.tex
 
 depois nós recebemos uma notificação de que existem alterações a fazer e podemos aprovar.
 
-### Para corrigir uma música no github - com acesso directo ao repositorio
+### corrigir uma música no github - com acesso directo ao repositorio
 1. vai à pasta das [músicas no github](https://github.com/psalterio/repository/tree/master/songs/)
 e abre a pasta "pt" para as musicas em Portugues, "en" em Ingles, etc.
 2. faz as correcções necessárias na música (confirma que estás a usar o formato appropriado comparando com outras músicas já introduzidas ou através do [template](https://github.com/psalterio/repository/blob/master/songs/template_simple.tex))
@@ -21,7 +21,7 @@ e abre a pasta "pt" para as musicas em Portugues, "en" em Ingles, etc.
 psalterio é preciso correr este script http://www.psalterio.net/update
 
 
-### Para introduzir uma nova música no github - com acesso directo ao repositorio
+### introduzir uma nova música no github - com acesso directo ao repositorio
 Para introduzir uma nova música verifica que a música não existe no repositorio. 
 Talvez a maneira mais fácil de verificar é ver a lista das músicas directamente aqui no gihub na 
 pasta das músicas em Português: https://github.com/psalterio/repository/tree/master/songs/pt
@@ -59,7 +59,7 @@ http://www.psalterio.net/workshop/tools/db/update_table_songs.php
 exemplo: http://www.psalterio.net/198
 
 
-## Tutorial para fazer correcções no teu PC
+## fazer correcções no teu PC (sem ser no github)
 um pouco mais complicado que o mini tutorial mas é melhor a longo termo para quem faz muitas correcções: https://www.youtube.com/watch?v=Eu-_wI-p-Hs
 
 
