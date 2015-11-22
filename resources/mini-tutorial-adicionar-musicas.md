@@ -1,6 +1,6 @@
 ## Mini Tutorial para adicionar ou corrigir musicas
 
-### corrigir uma música no github - sem acesso directo ao repositorio (pull request)
+### 1) corrigir uma música no github - sem acesso directo ao repositorio (pull request)
 este metodo serve perfeitamente para fazer a maior parte das correcões
 
 1. Abrir directamente o link da musica no github. Exemplo:  
@@ -13,7 +13,7 @@ https://github.com/psalterio/repository/blob/master/songs/pt/agradecer.tex
 
 depois nós recebemos uma notificação de que existem alterações a fazer e podemos aprovar.
 
-### corrigir uma música no github - com acesso directo ao repositorio
+### 2) corrigir uma música no github - com acesso directo ao repositorio
 1. vai à pasta das [músicas no github](https://github.com/psalterio/repository/tree/master/songs/)
 e abre a pasta "pt" para as musicas em Portugues, "en" em Ingles, etc.
 2. faz as correcções necessárias na música (confirma que estás a usar o formato appropriado comparando com outras músicas já introduzidas ou através do [template](https://github.com/psalterio/repository/blob/master/songs/template_simple.tex))
@@ -21,7 +21,7 @@ e abre a pasta "pt" para as musicas em Portugues, "en" em Ingles, etc.
 psalterio é preciso correr este script http://www.psalterio.net/update
 
 
-### introduzir uma nova música no github - com acesso directo ao repositorio
+### 3) introduzir uma nova música no github - com acesso directo ao repositorio
 Para introduzir uma nova música verifica que a música não existe no repositorio. 
 Talvez a maneira mais fácil de verificar é ver a lista das músicas directamente aqui no gihub na 
 pasta das músicas em Português: https://github.com/psalterio/repository/tree/master/songs/pt
@@ -49,7 +49,7 @@ done!
 
 Se estiveres a corrigir várias musicas o melhor para ver os resultados quase imediatamente é abrir 3 “tabs” no browser: 
 
-1. o github para editar a música online exemplo:
+1. o link do github para editar a música online exemplo:
 https://github.com/psalterio/repository/edit/master/songs/pt/hino_dos_rebentos_198.tex
 
 2. o link para actualizar a base de dados
