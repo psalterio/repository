@@ -1,6 +1,6 @@
-## Mini Tutorial para adicionar ou corrigir musicas
+## Mini Tutorial
 
-### 1) corrigir uma música no github
+### 1) corrigir uma música
 
 1. faz login no github (cria uma conta se ainda não tens). Qualquer pessoa com conta no github pode submeter alterações, que depois são revistas e autorizadas.
 2. vai à pasta das [músicas no github](https://github.com/psalterio/repository/tree/master/songs/)
@@ -14,7 +14,7 @@ https://github.com/psalterio/repository/blob/master/songs/pt/agradecer.tex
 psalterio é preciso correr este script http://www.psalterio.net/update
 
 
-### 2) introduzir uma nova música no github 
+### 2) introduzir uma nova música
 Primeiro verifica que a música não existe no repositorio. 
 A forma mais fácil é ver a lista das músicas directamente aqui no gihub. Por exemplo vai à
 pasta das músicas em Português: https://github.com/psalterio/repository/tree/master/songs/pt
