@@ -2,14 +2,14 @@
 
 ### 1) corrigir uma música no github
 
-1. faz login no github (criar uma conta se ainda não tens). Qualquer pessoa com conta no github pode submeter alterações, que depois são revistas e autorizadas.
+1. faz login no github (cria uma conta se ainda não tens). Qualquer pessoa com conta no github pode submeter alterações, que depois são revistas e autorizadas.
 2. vai à pasta das [músicas no github](https://github.com/psalterio/repository/tree/master/songs/)
 e abre a pasta "pt" para as musicas em Portugues, "en" em Ingles, etc.
 3. Selectiona a música que pretendes corrigir. Exemplo:  
 https://github.com/psalterio/repository/blob/master/songs/pt/agradecer.tex  
 3. carregar no botão “Edit” no canto superior direito  
 4. faz as correcções necessárias na música (confirma que estás a usar o formato appropriado comparando com outras músicas já introduzidas ou através do [template](https://github.com/psalterio/repository/blob/master/songs/template_simple.tex))
-5. carrega no botão “Commit new file” se fores um colborador directo (podes ver a lista dos colaborares directos neste link https://github.com/psalterio/repository/network/members). Se não estás na lista dos colaboradores directos basta carregares no botão "Propose file change". Agora basta esperar que um dos colaboradores directos aprove o teu ficheiro. Se gostarias de ser um colaborador directo envia-nos um email com o teu github user para te adicionarmos à lista.
+5. carrega no botão “Commit changes” se fores um colborador directo (podes ver a lista dos colaborares directos neste link https://github.com/psalterio/repository/network/members). Se não estás na lista dos colaboradores directos basta carregares no botão "Propose file change" e depois "Pull Request". Agora basta esperar que um dos colaboradores directos aprove o teu ficheiro. Se gostarias de ser um colaborador directo envia-nos um email com o teu github user para te adicionarmos à lista.
 6. finalmente para propagar as actualizações do github para a base de dados do 
 psalterio é preciso correr este script http://www.psalterio.net/update
 
@@ -33,7 +33,7 @@ e seleciona a lingua da música que vais adicionar. "pt" para Portugues, "en" pa
 8. adiciona o nome do autor by = {Autor da musica}, se nao souberes o nome do autor deixa em branco
 9. depois só falta adicionar a letra e os acordes em cada secção correspondente (\beginverse ...
 \endverse, \beginchorus ... \endchorus). Não faz mal se não tiveres os acordes agora, podemos sempre adicionar depois. 
-10. carrega no botão “Commit new file” se fores um colborador directo (podes ver a lista dos colaborares directos neste link https://github.com/psalterio/repository/network/members). Se não estás na lista dos colaboradores directos basta carregares no botão "Propose new file". Agora basta esperar que um dos colaboradores directos aprove o teu ficheiro. Se gostarias de ser um colaborador directo envia-nos um email com o teu github user para te adicionarmos à lista.
+10. carrega no botão “Commit new file” se fores um colborador directo (podes ver a lista dos colaborares directos neste link https://github.com/psalterio/repository/network/members). Se não estás na lista dos colaboradores directos basta carregares no botão "Propose new file" e depois "Pull Request". Agora basta esperar que um dos colaboradores directos aprove o teu ficheiro. Se gostarias de ser um colaborador directo envia-nos um email com o teu github user para te adicionarmos à lista.
 11. finalmente para propagar as actualizações do github para a base de dados é preciso correr este script http://www.psalterio.net/update
 
 done!
