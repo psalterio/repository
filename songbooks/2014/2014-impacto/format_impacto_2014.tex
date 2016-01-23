@@ -1,0 +1,131 @@
+\documentclass[a4paper]{article}
+\usepackage[bookmarks]{hyperref}
+\usepackage[chorded]{songs}
+\usepackage[utf8]{inputenc}
+%\usepackage[utf8,latin1]{inputenc}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{wallpaper}
+\usepackage{color} % for \color{....}
+\usepackage{eso-pic} %for background pictures, AddToShipoutPicture
+%\usepackage{ifthen} %etoolbox is more up to date
+\usepackage{etoolbox}
+\usepackage{transparent}
+%\usepackage{ifthen} %etoolbox is more up to date
+
+
+
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{0in}
+\setlength{\topskip}{0in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{9.1in}
+\settowidth{\versenumwidth}{1.\ }
+\pagestyle{empty}
+
+
+
+%title page
+\newcommand\titlepagepic{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering{\includegraphics[width=\paperwidth,height=\paperheight]{titlepage.pdf}}%
+	\vfill
+		}
+	}
+}
+
+%% add background picture
+% eso-pic package
+\newcommand\BackgroundPic{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering{\includegraphics[width=\paperwidth,height=\paperheight]{old-paper.jpg}}%
+	\vfill
+		}
+	}
+}
+
+\newcommand\BottomPic{
+\put(0,0){
+\includegraphics{bkground_page_bottom.png}
+}}
+
+
+
+
+%----------------------------------------------------------
+% define song info commands
+% music anf lyrics by
+\newcommand{\musicLyricsBy}{} 
+\newsongkey{mlby}{\def\musicLyricsBy{}}
+                 {\def\musicLyricsBy{\sffamily\it\small letra e música por #1\par}}
+
+% music by
+\newcommand{\musicby}{} 
+\newsongkey{music_by}{\def\musicby{}}
+                 {\def\musicby{\sffamily\it\small música por #1\par}}
+
+% lyrics by
+\newcommand{\lyricsby}{} 
+\newsongkey{lyrics_by}{\def\lyricsby{}}
+                 {\def\lyricsby{\sffamily\it\small letra por #1\par}}
+
+% arranjement by
+\newcommand{\arrangementby}{} 
+\newsongkey{arrangement_by}{\def\arrangementby{}}
+                 {\def\arrangementby{\sffamily\it\small arranjo por #1\par}}
+
+% bible verse
+\newcommand{\bibleverse}{} 
+\newsongkey{bible_verse}{\def\bibleverse{}}
+                 {\def\bibleverse{\sffamily\it\small Verso Biblico #1\par}}
+
+% bible verse
+\newcommand{\licenceorcopyright}{} 
+\newsongkey{licence_or_copyright}{\def\licenceorcopyright{}}
+                 {\def\licenceorcopyright{\sffamily\it\small Copyright  #1\par}}
+
+% video url
+\newcommand{\videourl}{} 
+\newsongkey{video_url}{\def\videourl{}}
+                 {\def\videourl{\sffamily\it\small Video URL  #1\par}}
+
+
+% title_original
+\newcommand{\titleoriginal}{} 
+\newsongkey{title_original}{\def\titleoriginal{}}
+                 {\def\titleoriginal{\sffamily\it\small Título Original:  ``#1"\par}}
+
+
+
+% number
+\newcommand{\psalterionumber}{} 
+\newsongkey{psalterio_number}{\def\psalterio_number{}}
+                 {\def\psalterio_number{\sffamily\it\small Psaltério #1\par}}
+
+% extra
+\newcommand{\extra}{} 
+\newsongkey{extra}{\def\extra{}}
+                 {\def\extra{\sffamily\it\small #1\par}}
+
+% id
+\newcommand{\id}{} 
+\newsongkey{id}{}{}
+
+%\renewcommand{\sharpsymbol}{\ensuremath{^\sharp}}
+\renewcommand{\extendprelude}{
+  \showrefs\showauthors 
+  {\bfseries\musicLyricsBy}
+  {\bfseries\musicby}
+  {\bfseries\lyricsby}
+  {\bfseries\titleoriginal}
+  {\bfseries\extra}
+}
+
+\def \gtabsOn{1}

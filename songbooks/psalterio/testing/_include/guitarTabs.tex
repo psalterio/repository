@@ -1,0 +1,81 @@
+% must complete all the chords used in psalterio
+
+% Cb chords
+
+% C chords
+\def \gtabCb{\gtab{Cb}{X32010:X32010}}
+\def \gtabC{\gtab{C}{X32010:032010}}
+\def \gtabCm{\gtab{Cm}{3:113321:004320}}
+
+\def \gtabCsharpSusFour{\gtab{C\#sus4}{4:XX3341:XX2341}}
+
+% Db chords
+
+% D chords
+\def \gtabD{\gtab{D}{X00232:000132}}
+\def \gtabDm{\gtab{Dm}{X00231:000231}}
+\def \gtabDfour{\gtab{D4}{X00233:000134}}
+\def \gtabDseven{\gtab{D7}{X00212:000213}}
+\def \gtabDsevenPlus{\gtab{D7+}{X00222:000111}}
+
+% D#/Eb chords
+\def \gtabDsharp{\gtab{D\#}{2:XX0232:000132}}
+
+% E chords
+\def \gtabE{\gtab{E}{022100:023100}}
+\def \gtabEseven{\gtab{E}{020100:020100}}
+
+\def \gtabEm{\gtab{Em}{022000:012000}}
+\def \gtabEmSeven{\gtab{Em7}{022030:012040}}
+
+% Gb chords
+
+% F chords
+\def \gtabF{\gtab{F}{1:133211:034200}}
+\def \gtabFm{\gtab{Fm}{1:133111:034000}}
+
+
+% F# chords
+\def \gtabFsharpMinor{\gtab{F\#m}{2:133111:034000}}
+\def \gtabFsharpMinorSeven{\gtab{F\#m7}{2:131131:030040}}
+
+% Gb chords
+
+% G chords
+\def \gtabG{\gtab{G}{320033:210034}}
+\def \gtabGseven{\gtab{G7}{320001:320001}}
+\def \gtabGfret{\gtab{(G)}{3:133211:034200}}
+\def \gtabGm{\gtab{Gm}{3:133111:034000}}
+
+
+% G# / Ab chords
+
+% A chords
+\def \gtabA{\gtab{A}{X02220:001230}}
+\def \gtabAm{\gtab{Am}{X02210:002310}}
+\def \gtabAmSeven{\gtab{Am7}{X02010:002010}}
+\def \gtabAfour{\gtab{A4}{X02230:001230}}
+\def \gtabAseven{\gtab{A7}{X02020:001030}}
+
+% Bb chords
+\def \gtabBb{\gtab{Bb}{X13331}}
+
+% B chords
+\def \gtabB{\gtab{B}{X13331:003210}}
+\def \gtabBm{\gtab{Bm}{X13321:003420}}
+\def \gtabBmSeven{\gtab{Bm7}{X13121:003020}}
+
+
+
+% after any { or } at the end of a line inside the macro definition add %, otherwise you'll get an extra space
+\newcommand{\guitarTab}[1]{%
+\ifstrequal{#1}{Cb}      {\gtab{Cb}{X32010:X32010}      }{}%
+\ifstrequal{#1}{C}        { \gtab{C}{X32010:032010}       }{}%
+%
+%G
+%
+\ifstrequal{#1}{G}       { \gtab{G}{320033:210034}       }{}%
+\ifstrequal{#1}{G7}     { \gtab{G7}{320001:320001}     }{}%
+\ifstrequal{#1}{Gfret}  { \gtab{G}{3:133211:034200}    }{}%
+\ifstrequal{#1}{Gm}    { \gtab{Gm}{3:133111:034000}  }{}%
+} %end \newcommand{\gtab}
