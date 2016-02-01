@@ -1,0 +1,31 @@
+%----------------------------------------------------------
+% begin song latex formating, set the title and other info
+
+\beginsong{Pai Abraão}
+[
+    id                     = {232},
+    psalterio_number       = {232},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {},
+    licence_or_copyright   = {},
+    video_url              = {},
+    extra                  = {},
+    index                  = {Pai Abraão},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+\[C]O Pai Abraão, tem muitos filhos, 
+Tem muitos filhos tem
+O Pai Abraão\[G]
+Eu sou um deles, 
+E tu também o és,
+Louvemos ao Senhor\[G]
+\endverse
+
+%----------------------------------------------------------
+\endsong
