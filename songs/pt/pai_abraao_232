@@ -1,6 +1,3 @@
-%----------------------------------------------------------
-% begin song latex formating, set the title and other info
-
 \beginsong{Pai Abraão}
 [
     id                     = {232},
@@ -25,6 +22,7 @@ O Pai Abraão\[G]
 Eu sou um deles, 
 E tu também o és,
 Louvemos ao Senhor\[G]
+
 \endverse
 
 %----------------------------------------------------------
