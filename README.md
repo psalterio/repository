@@ -36,3 +36,8 @@ Links do Projecto
 - facebook: https://www.facebook.com/psalterio.net
 - [Android App](https://play.google.com/store/apps/details?id=net.psalterio.psalterioandroid)
 - [iOS App](https://itunes.apple.com/pt/app/psalterio/id858825872)
+
+Links Relevantes
+-----------------
+
+- Músicas ACNAC Tições: http://acnac-ticoes.blogspot.pt
