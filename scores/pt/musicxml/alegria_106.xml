@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding='UTF-8' standalone='no' ?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="2.0">
+ <work>
+  <work-title>SONG_014             </work-title>
+ </work>
+ <identification>
+  <encoding>
+   <encoding-date>2016-03-04</encoding-date>
+   <encoder>Miguel Nunes</encoder>
+   <software>Sibelius 7.0.0</software>
+   <software>Direct export, not from Dolet</software>
+   <encoding-description>Sibelius / MusicXML 2.0</encoding-description>
+   <supports element="print" type="yes" value="yes" attribute="new-system" />
+   <supports element="print" type="yes" value="yes" attribute="new-page" />
+   <supports element="accidental" type="yes" />
+   <supports element="beam" type="yes" />
+   <supports element="stem" type="yes" />
+  </encoding>
+ </identification>
+ <defaults>
+  <scaling>
+   <millimeters>210</millimeters>
+   <tenths>1866</tenths>
+  </scaling>
+  <page-layout>
+   <page-height>1324</page-height>
+   <page-width>1866</page-width>
+   <page-margins type="both">
+    <left-margin>133</left-margin>
+    <right-margin>133</right-margin>
+    <top-margin>88</top-margin>
+    <bottom-margin>44</bottom-margin>
+   </page-margins>
+  </page-layout>
+  <system-layout>
+   <system-margins>
+    <left-margin>21</left-margin>
+    <right-margin>0</right-margin>
+   </system-margins>
+   <system-distance>92</system-distance>
+  </system-layout>
+  <appearance>
+   <line-width type="stem">0.9375</line-width>
+   <line-width type="beam">5</line-width>
+   <line-width type="staff">0.9375</line-width>
+   <line-width type="light barline">1.5625</line-width>
+   <line-width type="heavy barline">5</line-width>
+   <line-width type="leger">1.5625</line-width>
+   <line-width type="ending">1.5625</line-width>
+   <line-width type="wedge">1.25</line-width>
+   <line-width type="enclosure">0.9375</line-width>
+   <line-width type="tuplet bracket">1.25</line-width>
+   <line-width type="bracket">5</line-width>
+   <line-width type="dashes">1.5625</line-width>
+   <line-width type="extend">0.9375</line-width>
+   <line-width type="octave shift">1.5625</line-width>
+   <line-width type="pedal">1.5625</line-width>
+   <line-width type="slur middle">1.5625</line-width>
+   <line-width type="slur tip">0.625</line-width>
+   <line-width type="tie middle">1.5625</line-width>
+   <line-width type="tie tip">0.625</line-width>
+   <note-size type="cue">75</note-size>
+   <note-size type="grace">60</note-size>
+  </appearance>
+  <music-font font-family="Helsinki Std" font-size="12.7559" />
+  <lyric-font font-family="Georgia" font-size="6.7766" />
+  <lyric-language xml:lang="en" />
+ </defaults>
+ <part-list>
+  <part-group type="start" number="1">
+   <group-symbol>brace</group-symbol>
+  </part-group>
+  <score-part id="P1">
+   <part-name>P1</part-name>
+   <score-instrument id="P1-I1">
+    <instrument-name>Piano (2)</instrument-name>
+   </score-instrument>
+  </score-part>
+  <part-group type="stop" number="1" />
+ </part-list>
+ <part id="P1">
+  <measure number="1" width="316">
+   <print new-page="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>22</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+     <top-system-distance>77</top-system-distance>
+    </system-layout>
+   </print>
+   <attributes>
+    <divisions>256</divisions>
+    <key color="#000000">
+     <fifths>1</fifths>
+     <mode>major</mode>
+    </key>
+    <time color="#000000">
+     <beats>4</beats>
+     <beat-type>4</beat-type>
+    </time>
+    <staves>1</staves>
+    <clef number="1" color="#000000">
+     <sign>G</sign>
+     <line>2</line>
+    </clef>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="215" default-y="64" justify="left" valign="middle" font-family="Georgia" font-size="7.6735">Intro: G, G7, C, Cm, G, D, G, D, (G)</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="307" default-y="8" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <metronome color="#000000" font-family="Georgia" font-size="7.0755">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>140</per-minute>
+     </metronome>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="89">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>A</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="134">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>a</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="166">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>le</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="199">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>gri</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="239">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>a&apos;es</text>
+    </lyric>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="502" default-y="8" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G7</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="284">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>tá</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="2" width="314">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="47">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>no</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="103">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>co</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="156">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>ra</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="220">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>384</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ção</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="281">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>de</text>
+    </lyric>
+   </note>
+  </measure>
+  <measure number="3" width="417">
+   <direction>
+    <direction-type>
+     <words default-x="808" default-y="8" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">C</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>quem</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="81">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>já</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="126">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>co</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="195">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>nhe</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="256">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>ce&apos;a</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="322">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>Je</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="385">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>sus</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="4" width="184">
+   <direction>
+    <direction-type>
+     <words default-x="1231" default-y="8" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="47">
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>384</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="107">
+    <rest />
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <staff>1</staff>
+   </note>
+  </measure>
+  <measure number="5" width="345">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>A</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="60">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>ver</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="123">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>da</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="190">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>dei</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="260">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ra</text>
+    </lyric>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="1713" default-y="8" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">Em</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="312">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>paz</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="6" width="341">
+   <print new-system="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>22</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+     <system-distance>111</system-distance>
+    </system-layout>
+   </print>
+   <attributes>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <note color="#000000" default-x="70">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="104">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>só</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="139">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>tem</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="174">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>a</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="242">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>384</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>quele</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="306">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>que</text>
+    </lyric>
+   </note>
+  </measure>
+  <measure number="7" width="381">
+   <direction>
+    <direction-type>
+     <words default-x="519" default-y="11" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">Am</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>já</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="63">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>co</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="142">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>nhe</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="223">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ce&apos;a</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="283">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>Je</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="346">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>sus</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="8" width="207">
+   <direction>
+    <direction-type>
+     <words default-x="899" default-y="11" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">D</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="49">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>384</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="1003" default-y="11" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">C</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note default-x="114">
+    <rest />
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <staff>1</staff>
+   </note>
+   <barline>
+    <bar-style>light-light</bar-style>
+   </barline>
+  </measure>
+  <measure number="9" width="376">
+   <direction>
+    <direction-type>
+     <segno default-y="22" />
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+    <sound segno="9" />
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="1108" default-y="19" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>O</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="62">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>sen</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="124">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>ti</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="189">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>men</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="259">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>to</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="296">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>mais</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="331">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>pre</text>
+    </lyric>
+   </note>
+  </measure>
+  <measure number="10" width="270">
+   <direction>
+    <direction-type>
+     <words default-x="1487" default-y="19" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G7</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="49">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>ci</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="84">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="stop" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <tied type="stop" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="119">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>o</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="153">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="stop" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <tied type="stop" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="188">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>so</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="236">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>que</text>
+    </lyric>
+   </note>
+  </measure>
+  <measure number="11" width="381">
+   <print new-system="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>22</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+     <system-distance>111</system-distance>
+    </system-layout>
+   </print>
+   <attributes>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="287" default-y="19" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">C</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="70">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>vem</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="114">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>do</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="159">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>nos</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="227">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>so</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="286">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>Se</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="338">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>nhor</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="12" width="261">
+   <direction>
+    <direction-type>
+     <words default-x="559" default-y="19" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">Cm7</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="90">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="123">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>É</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="155">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>o&apos;a</text>
+    </lyric>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="761" default-y="19" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="216">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>mor,</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="13" width="222">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="90">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="123">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>que</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="155">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>só</text>
+    </lyric>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="994" default-y="16" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">C</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="187">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>tem</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="14" width="301">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="49">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>quem</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="86">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>single</syllabic>
+     <text>já</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="119">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>co</text>
+    </lyric>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="1188" default-y="16" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">D</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="158">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>nhe</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="204">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ce&apos;a</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="236">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>Je</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="268">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>sus</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="15" width="189">
+   <direction>
+    <direction-type>
+     <words default-x="1345" default-y="16" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="1397" default-y="-62" justify="left" valign="middle" font-family="Georgia" font-size="7.6735">Fim 3x</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="1421" default-y="16" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">C</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="1459" default-y="16" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">D</words>
+    </direction-type>
+    <offset sound="no">256</offset>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note default-x="90">
+    <rest />
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <staff>1</staff>
+   </note>
+   <barline location="right">
+    <repeat direction="backward" />
+   </barline>
+  </measure>
+  <measure number="16" width="220">
+   <barline location="left">
+    <ending number="2" type="start" />
+   </barline>
+   <note default-x="15">
+    <rest />
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <staff>1</staff>
+   </note>
+   <note default-x="90">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="123">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>A</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="155">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>le</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="187">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+   <barline location="right">
+    <ending number="2" type="discontinue" />
+   </barline>
+  </measure>
+  <measure number="17" width="223">
+   <print new-system="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>22</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+     <system-distance>109</system-distance>
+    </system-layout>
+   </print>
+   <attributes>
+    <staff-details number="1" print-object="yes" />
+   </attributes>
+   <direction>
+    <direction-type>
+     <words default-x="287" default-y="16" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="70">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>768</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>lu</text>
+    </lyric>
+   </note>
+   <note default-x="159">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="191">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ia</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="18" width="218">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="90">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="122">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>A</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="154">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>le</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="186">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+  </measure>
+  <measure number="19" width="176">
+   <direction>
+    <direction-type>
+     <words default-x="620" default-y="8" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">C</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>768</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>lu</text>
+    </lyric>
+   </note>
+   <note default-x="104">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="742" default-y="8" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">G</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="136">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ia</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="20" width="218">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="46">
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="122">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>A</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="154">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>le</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="186">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+  </measure>
+  <measure number="21" width="168">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>768</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>lu</text>
+    </lyric>
+   </note>
+   <note default-x="104">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="1136" default-y="12" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">Em</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="136">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ia</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="22" width="218">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="90">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="122">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>begin</syllabic>
+     <text>A</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="154">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>le</text>
+    </lyric>
+   </note>
+   <note color="#000000" default-x="186">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+  </measure>
+  <measure number="23" width="168">
+   <direction>
+    <direction-type>
+     <words default-x="1402" default-y="10" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">Am</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>768</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>middle</syllabic>
+     <text>lu</text>
+    </lyric>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="1492" default-y="10" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">D</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note default-x="104">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="136">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="start" />
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <tied type="start" />
+    </notations>
+    <lyric default-y="-80" number="1" color="#000000">
+     <syllabic>end</syllabic>
+     <text>ia</text>
+     <extend />
+    </lyric>
+   </note>
+  </measure>
+  <measure number="24" width="184">
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="1648" default-y="10" justify="center" valign="middle" font-family="Opus Chords Std" font-size="7.0755">C</words>
+    </direction-type>
+    <offset sound="no">384</offset>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="47">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>768</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>half</type>
+    <dot />
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <words justify="right" valign="middle" font-family="Georgia" font-size="8.3711" font-weight="bold">D.S. al Fine</words>
+    </direction-type>
+    <offset sound="no">127</offset>
+    <voice>1</voice>
+    <staff>1</staff>
+    <sound dalsegno="1">
+     <offset>1</offset>
+    </sound>
+   </direction>
+   <note default-x="136">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P1-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <barline>
+    <bar-style>light-heavy</bar-style>
+   </barline>
+  </measure>
+ </part>
+</score-partwise>
