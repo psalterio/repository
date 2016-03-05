@@ -41,3 +41,7 @@ Links Relevantes
 -----------------
 
 - Músicas ACNAC Tições: http://acnac-ticoes.blogspot.pt
+- Juventude Adventista: http://www.juventudeadventista.pt
+- Juventude Adventista Facebook: https://www.facebook.com/juventudeadventista/
+- Serviço de Música e Liturgia: http://musica.adventistas.org.pt
+- Serviço de Música e Liturgia Facebook: https://www.facebook.com/Serviço-de-Musica-Liturgia-255635654562511/
