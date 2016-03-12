@@ -58,7 +58,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/1843901</metaTag>
+    <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -72,6 +72,10 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -93,6 +97,9 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>10</height>
+        </VBox>
       <Measure number="1">
         <Clef>
           <concertClefType>G</concertClefType>
@@ -108,10 +115,9 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <StaffText>
-          <pos x="0" y="-4.1127"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Beam id="1">
           <StemDirection>up</StemDirection>
@@ -282,10 +288,9 @@
         </Measure>
       <Measure number="4">
         <StaffText>
-          <pos x="0" y="-3.91111"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>C7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>C7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -300,10 +305,9 @@
         </Measure>
       <Measure number="5">
         <StaffText>
-          <pos x="0" y="-4.1127"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Gm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Gm</text>
           </StaffText>
         <Beam id="6">
           <StemDirection>up</StemDirection>
@@ -415,10 +419,9 @@
         </Measure>
       <Measure number="7">
         <StaffText>
-          <pos x="-0.201587" y="-4.41111"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>C7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>C7</text>
           </StaffText>
         <Beam id="9">
           <StemDirection>down</StemDirection>
@@ -483,10 +486,9 @@
         </Measure>
       <Measure number="8">
         <StaffText>
-          <pos x="0" y="-4.31429"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -607,10 +609,9 @@
         </Measure>
       <Measure number="11">
         <StaffText>
-          <pos x="0.201587" y="-4.31429"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F7</text>
           </StaffText>
         <Beam id="14">
           <StemDirection>up</StemDirection>
@@ -678,10 +679,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <StaffText>
-          <pos x="0" y="-4.71746"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Bb</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Bb</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -759,10 +759,9 @@
         </Measure>
       <Measure number="14">
         <StaffText>
-          <pos x="0" y="-4.71746"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Beam id="18">
           <StemDirection>up</StemDirection>
@@ -828,10 +827,9 @@
         </Measure>
       <Measure number="15">
         <StaffText>
-          <pos x="0" y="-5.12063"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>C7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>C7</text>
           </StaffText>
         <Beam id="20">
           <StemDirection>down</StemDirection>
@@ -896,10 +894,9 @@
         </Measure>
       <Measure number="16">
         <StaffText>
-          <pos x="0" y="-4.71746"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -926,10 +923,9 @@
             </Note>
           </Chord>
         <StaffText>
-          <pos x="0" y="-4.71746"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>mid</BeamMode>
@@ -950,10 +946,9 @@
             </Note>
           </Chord>
         <StaffText>
-          <pos x="-0.201587" y="-5.12063"/>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Dm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Dm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -980,7 +975,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Gm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Gm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1011,7 +1006,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>C7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>C7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1026,12 +1021,12 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Bb</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Bb</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1050,7 +1045,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1098,7 +1093,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Dm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Dm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1122,7 +1117,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Gm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Gm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1153,7 +1148,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>C7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>C7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1168,12 +1163,12 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Bb</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Bb</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1192,7 +1187,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1230,7 +1225,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Gm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Gm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1271,7 +1266,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Gm7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Gm7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1298,7 +1293,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>C9</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>C9</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1313,7 +1308,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1335,7 +1330,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>A</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>A</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1359,7 +1354,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Dm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Dm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1376,7 +1371,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Bbm6</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Bbm6</text>
           </StaffText>
         <Beam id="24">
           <StemDirection>down</StemDirection>
@@ -1393,7 +1388,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>mid</BeamMode>
@@ -1416,7 +1411,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Dm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Dm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1430,7 +1425,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Gm</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Gm</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1462,7 +1457,7 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>C7</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>C7</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
@@ -1486,17 +1481,17 @@
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>Bb</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>Bb</text>
           </StaffText>
         <StaffText>
           <xoffset>0</xoffset>
           <yoffset>-2.5</yoffset>
-          <text><font size="11.0064"></font><font face="Opus Chords Std"></font>F</text>
+          <text><font size="11.0064"/><font face="Opus Chords Std"/>F</text>
           </StaffText>
         <Chord>
           <BeamMode>no</BeamMode>
