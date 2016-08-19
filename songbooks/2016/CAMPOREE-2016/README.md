@@ -1,11 +1,11 @@
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
-1 | 247    | À Procura de Deus | [a_procura_de_deus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus.tex) | http://www.psalterio.net/ |  
+1 | 247    | À Procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
 2 | 149    | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
 3 | 241    | Em Louvor e Gratidão | [em_louvor_e_gratidao_241.tex](https://github.com/psalterio/repository/blob/master/songs/pt/em_louvor_e_gratidao_241.tex) | http://www.psalterio.net/241 |  
 4 | 123    | Louvai a Deus | [louvai_a_deus_123.tex](https://github.com/psalterio/repository/blob/master/songs/pt/louvai_a_deus_123.tex) | http://www.psalterio.net/123 |  
-5 | -      | Meu Prazer | [](https://github.com/psalterio/repository/blob/master/songs/pt/) | http://www.psalterio.net/ |  
-6 | -      | Brilha Jesus | [brilha_jesus_260.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilha_jesus_260.tex) | http://www.psalterio.net/260 |  
+5 | 119    | P'ra te Adorar/Meu Prazer | [pra_te_adorar_119.tex](https://github.com/psalterio/repository/blob/master/songs/pt/pra_te_adorar_119.tex) | http://www.psalterio.net/119 |  
+6 | 260    | Brilha Jesus | [brilha_jesus_260.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilha_jesus_260.tex) | http://www.psalterio.net/260 |  
 7 | 168    | Quão Grande é o Meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
 8 | 145    | Com Todo o Meu Ser | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/com_todo_o_meu_ser_145.tex) | http://www.psalterio.net/145 |  
 9 | 263    | Eu me Ofereço a Ti | [eu_me_ofereco_a_ti_263.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_me_ofereco_a_ti_263.tex) | http://www.psalterio.net/145 |  
@@ -31,6 +31,6 @@ n  | id    | title | git file | site link |
 29 | 245   | Crescer como David | [sabias_que_davi_245.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sabias_que_davi_245.tex) | http://www.psalterio.net/245 |  
 30 | 244   | Jonas, estás aí? | [jonas_estas_ai_245.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jonas_estas_ai_245.tex) | http://www.psalterio.net/244 |  
 31 | 151   | O Amor de Deus | [o_amor_de_deus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_amor_de_deus.tex) | http://www.psalterio.net/151 |  
-32 | -     | Ele está ao Leme | []() | http://www.psalterio.net/ |   
+32 | 205   | Ele está ao Leme | [jesus_conduz_205.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_conduz_205.tex) | http://www.psalterio.net/205 |   
 33 | 141   | Brilhando Cada Vez Mais | [brilhando_cada_vez_mais.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilhando_cada_vez_mais.tex) | http://www.psalterio.net/141 |  
 34 | 152   | O Tiço Tição | [o_tico_ticao.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_tico_ticao.tex) | http://www.psalterio.net/152 |  
