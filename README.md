@@ -30,13 +30,14 @@ O standard dos acordes no psaltério está nestes mapas de acordes:
 Links do Projecto
 -----------------
 
-- site oficial: http://www.psalterio.net
-- wikipedia   : [http://pt.wikipedia.org/wiki/Psaltério](http://pt.wikipedia.org/wiki/Psalt%C3%A9rio)
-- youtube     : https://www.youtube.com/user/psalterio7
-- twitter : https://twitter.com/psalterio
-- facebook: https://www.facebook.com/psalterio.net
+- Website     : http://www.psalterio.net
+- Facebook    : https://www.facebook.com/psalterio.net
+- Musescore   : https://musescore.com/user/26352
+- Youtube     : https://www.youtube.com/user/psalterio7
+- Twitter     : https://twitter.com/psalterio
 - [Android App](https://play.google.com/store/apps/details?id=net.psalterio.psalterioandroid)
 - [iOS App](https://itunes.apple.com/pt/app/psalterio/id858825872)
+- [Wikipedia]([http://pt.wikipedia.org/wiki/Psaltério](http://pt.wikipedia.org/wiki/Psalt%C3%A9rio))
 
 Links Relevantes
 -----------------
