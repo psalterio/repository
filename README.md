@@ -37,7 +37,7 @@ Links do Projecto
 - Twitter     : https://twitter.com/psalterio
 - [Android App](https://play.google.com/store/apps/details?id=net.psalterio.psalterioandroid)
 - [iOS App](https://itunes.apple.com/pt/app/psalterio/id858825872)
-- [Wikipedia](http://pt.wikipedia.org/wiki/Psaltério](http://pt.wikipedia.org/wiki/Psalt%C3%A9rio)
+- [Wikipedia](http://pt.wikipedia.org/wiki/Psaltério)
 
 Links Relevantes
 -----------------
