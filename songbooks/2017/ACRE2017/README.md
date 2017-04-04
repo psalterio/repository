@@ -56,15 +56,8 @@ Louvor Jovem 2017
 
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
-
-Viver mais a esperança
-
-Uma Familia
-
-Cresca Cristo em Mim
-
-A procura de Deus
-
-Eu Te Louvarei
-
-
+ |     | Viver mais a esperança | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
+ |     | Uma Familia | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
+ |     | Cresca Cristo em Mim | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
+ |     | A procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
+ |     | Eu Te Louvarei | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
