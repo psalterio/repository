@@ -17,13 +17,13 @@ Ticoes
 
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
-8 | 141    | Brilhando Cada Vez Mais | [brilhando_cada_vez_mais.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilhando_cada_vez_mais.tex) | http://www.psalterio.net/141 |  
-9 | 151    | O Amor de Deus | [o_amor_de_deus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_amor_de_deus.tex) | http://www.psalterio.net/151 |  
-10 | 152    | O Tiço Tição | [o_tico_ticao.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_tico_ticao.tex) | http://www.psalterio.net/152 |  
-11 | 157    | Soldado de Jesus | [soldado_de_jesus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/soldado_de_jesus.tex) | http://www.psalterio.net/157 |  
+8 | 141    | Brilhando Cada Vez Mais | [brilhando_cada_vez_mais_141.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilhando_cada_vez_mais_141.tex) | http://www.psalterio.net/141 |  
+9 | 151    | O Amor de Deus | [o_amor_de_deus_151.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_amor_de_deus_151.tex) | http://www.psalterio.net/151 |  
+10 | 152    | O Tiço Tição | [o_tico_ticao_152.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_tico_ticao_152.tex) | http://www.psalterio.net/152 |  
+11 | 157    | Soldado de Jesus | [soldado_de_jesus_157.tex](https://github.com/psalterio/repository/blob/master/songs/pt/soldado_de_jesus_157.tex) | http://www.psalterio.net/157 |  
 12 | 205    | Jesus Conduz | [jesus_conduz_205.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_conduz_205.tex) | http://www.psalterio.net/205 |  
-13 | 155    | Super-Herói | [super_heroi.tex](https://github.com/psalterio/repository/blob/master/songs/pt/super_heroi.tex) | http://www.psalterio.net/155 |  
-14 | 198    | Nesta Batalha | [nesta_batalha.tex](https://github.com/psalterio/repository/blob/master/songs/pt/nesta_batalha.tex) | http://www.psalterio.net/198 |  
+13 | 155    | Super-Herói | [super_heroi_155.tex](https://github.com/psalterio/repository/blob/master/songs/pt/super_heroi_155.tex) | http://www.psalterio.net/155 |  
+14 | 198    | Nesta Batalha | [nesta_batalha_198.tex](https://github.com/psalterio/repository/blob/master/songs/pt/nesta_batalha_198.tex) | http://www.psalterio.net/198 |  
 16 | 222    | Para Me Guiar | [para_me_guiar_222.tex](https://github.com/psalterio/repository/blob/master/songs/pt/para_me_guiar_222.tex) | http://www.psalterio.net/222 |  
 17 | 226    | Dá-me a Tua Mão | [da_me_a_tua_mao_226.tex](https://github.com/psalterio/repository/blob/master/songs/pt/da_me_a_tua_mao_226.tex) | http://www.psalterio.net/226 |  
 18 | 224    | A Pequenina Luz | [a_pequenina_luz_224.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_pequenina_luz_224.tex) | http://www.psalterio.net/224 |  
