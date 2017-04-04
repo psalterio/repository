@@ -32,20 +32,20 @@ Desbravadores/Companheiros/Seniores
 
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
-19 | 63    | Sei que não vai tardar | [sei_que_nao_vai_tardar.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar.tex) | http://www.psalterio.net/63 |  
-20 | 90    | Leão de Judá | [leao_de_juda.tex](https://github.com/psalterio/repository/blob/master/songs/pt/leao_de_juda.tex) | http://www.psalterio.net/90 |  
-21 | 106    | Alegria | [alegria.tex](https://github.com/psalterio/repository/blob/master/songs/pt/alegria.tex) | http://www.psalterio.net/106 |  
+19 | 63    | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://www.psalterio.net/63 |  
+20 | 90    | Leão de Judá | [leao_de_juda_90.tex](https://github.com/psalterio/repository/blob/master/songs/pt/leao_de_juda_90.tex) | http://www.psalterio.net/90 |  
+21 | 106    | Alegria | [alegria_106.tex](https://github.com/psalterio/repository/blob/master/songs/pt/alegria_106.tex) | http://www.psalterio.net/106 |  
 22 | 112    | Vou caminhando | [vou_caminhando_112.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vou_caminhando_112.tex) | http://www.psalterio.net/112 |  
 23 | 114    | Influencia | [influencia_114.tex](https://github.com/psalterio/repository/blob/master/songs/pt/influencia_114.tex) | http://www.psalterio.net/114 |  
 24 | 119    | Pra Te Adorar | [pra_te_adorar_119.tex](https://github.com/psalterio/repository/blob/master/songs/pt/pra_te_adorar_119.tex) | http://www.psalterio.net/119 |  
 26 | 142    | Fé a Arder | [fe_a_arder_142.tex](https://github.com/psalterio/repository/blob/master/songs/pt/fe_a_arder_142.tex) | http://www.psalterio.net/142 |  
 27 | 147    | Mensageiro | [mensageiro_147.tex](https://github.com/psalterio/repository/blob/master/songs/pt/mensageiro_147.tex) | http://www.psalterio.net/147 |  
 28 | 175    | Perto de Jesus | [perto_de_jesus_175.tex](https://github.com/psalterio/repository/blob/master/songs/pt/perto_de_jesus_175.tex) | http://www.psalterio.net/175 |  
-29 | 156    | Tua Palavra | [tua_palavra.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tua_palavra.tex) | http://www.psalterio.net/156 |  
+29 | 156    | Tua Palavra | [tua_palavra_156.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tua_palavra_156.tex) | http://www.psalterio.net/156 |  
 30 | 149    | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
-32 | 162    | Não vivo mais eu | [nao_vivo_mais_eu.tex](https://github.com/psalterio/repository/blob/master/songs/pt/nao_vivo_mais_eu.tex) | http://www.psalterio.net/162 |  
-33 | 165    | Amor | [amor.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amor.tex) | http://www.psalterio.net/165 | 
-35 | 170    | O Meu Deus é O Deus | [o_meu_deus_e_o_deus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_meu_deus_e_o_deus.tex) | http://www.psalterio.net/170 |  
+32 | 162    | Não vivo mais eu | [nao_vivo_mais_eu_162.tex](https://github.com/psalterio/repository/blob/master/songs/pt/nao_vivo_mais_eu_162.tex) | http://www.psalterio.net/162 |  
+33 | 165    | Amor | [amor_165.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amor_165.tex) | http://www.psalterio.net/165 | 
+35 | 170    | O Meu Deus é O Deus | [o_meu_deus_e_o_deus_170.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_meu_deus_e_o_deus_170.tex) | http://www.psalterio.net/170 |  
 36 | 240    | Chamado para Servir | [chamado_para_servir_240.tex](https://github.com/psalterio/repository/blob/master/songs/pt/chamado_para_servir_240.tex) | http://www.psalterio.net/240 |  
 37 | 234    | Sou do Senhor | [sou_do_senhor_234.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sou_do_senhor_234.tex) | http://www.psalterio.net/234 |  
 38 | 239    | Tudo é Teu | [tudo_e_teu_239.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tudo_e_teu_239.tex) | http://www.psalterio.net/239 |  
@@ -58,9 +58,13 @@ n  | id    | title | git file | site link |
 ---|-------|-------|----------|-----------| 
 
 Viver mais a esperança
+
 Uma Familia
+
 Cresca Cristo em Mim
+
 A procura de Deus
+
 Eu Te Louvarei
 
 
