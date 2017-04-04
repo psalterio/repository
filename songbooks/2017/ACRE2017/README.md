@@ -4,7 +4,7 @@ Rebentos
 
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
-1 | 247    | Homenzinho Torto | [homenzinho_torto_246.tex](https://github.com/psalterio/repository/blob/master/songs/pt/homenzinho_torto_246.tex) | http://www.psalterio.net/247 |  
+1 | 247    | Homenzinho Torto | [homenzinho_torto_246.tex](https://github.com/psalterio/repository/blob/master/songs/pt/homenzinho_torto_247.tex) | http://www.psalterio.net/247 |  
 2 | 238    | É Bom, É Muito Bom | [e_bom_e_muito_bom_238.tex](https://github.com/psalterio/repository/blob/master/songs/pt/e_bom_e_muito_bom_238.tex) | http://www.psalterio.net/238 |  
 3 | 246    | Amigo, Amas Tu a Cristo | [amigo_amas_tu_a_cristo_246.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amigo_amas_tu_a_cristo_246.tex) | http://www.psalterio.net/246 |  
 4 | 243    | Quem fez as lindas flores? | [quem_fez_as_lindas_flores_243.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quem_fez_as_lindas_flores_243.tex) | http://www.psalterio.net/243 |  
