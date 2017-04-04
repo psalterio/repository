@@ -1,14 +1,14 @@
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
-1 | 247    | À Procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
+1 | 268    | À Procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
 2 | 149    | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
 3 | 241    | Em Louvor e Gratidão | [em_louvor_e_gratidao_241.tex](https://github.com/psalterio/repository/blob/master/songs/pt/em_louvor_e_gratidao_241.tex) | http://www.psalterio.net/241 |  
 4 | 123    | Louvai a Deus | [louvai_a_deus_123.tex](https://github.com/psalterio/repository/blob/master/songs/pt/louvai_a_deus_123.tex) | http://www.psalterio.net/123 |  
 5 | 119    | P'ra te Adorar/Meu Prazer | [pra_te_adorar_119.tex](https://github.com/psalterio/repository/blob/master/songs/pt/pra_te_adorar_119.tex) | http://www.psalterio.net/119 |  
 6 | 260    | Brilha Jesus | [brilha_jesus_260.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilha_jesus_260.tex) | http://www.psalterio.net/260 |  
 7 | 168    | Quão Grande é o Meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
-8 | 145    | Com Todo o Meu Ser | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/com_todo_o_meu_ser_145.tex) | http://www.psalterio.net/145 |  
-9 | 263    | Eu me Ofereço a Ti | [eu_me_ofereco_a_ti_263.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_me_ofereco_a_ti_263.tex) | http://www.psalterio.net/145 |  
+8 | 145    | Com Todo o Meu Ser | [com_todo_o_meu_ser_145.tex](https://github.com/psalterio/repository/blob/master/songs/pt/com_todo_o_meu_ser_145.tex) | http://www.psalterio.net/145 |  
+9 | 263    | Eu me Ofereço a Ti | [eu_me_ofereco_a_ti_263.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_me_ofereco_a_ti_263.tex) | http://www.psalterio.net/263 |  
 10 | 248   | Eu me entrego | [eu_me_entrego_248.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_me_entrego_248.tex) | http://www.psalterio.net/248 |  
 11 | 167   | Falar Com Deus | [falar_com_deus_167.tex](https://github.com/psalterio/repository/blob/master/songs/pt/falar_com_deus_167.tex) | http://www.psalterio.net/248 |  
 12 | 139   | O Teu Poder | [o_teu_poder_139.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_teu_poder_139.tex) | http://www.psalterio.net/139 |  
@@ -25,7 +25,7 @@ n  | id    | title | git file | site link |
 23 | 115   | Um Gesto de Amor | [um_gesto_de_amor_115.tex](https://github.com/psalterio/repository/blob/master/songs/pt/um_gesto_de_amor_115.tex) | http://www.psalterio.net/115 |  
 24 | 111   | A Minha Esperança | [a_minha_esperanca_111.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_minha_esperanca_111.tex) | http://www.psalterio.net/111 |  
 25 | 265   | Hossana | [hossana_265.tex](https://github.com/psalterio/repository/blob/master/songs/pt/hossana_265.tex) | http://www.psalterio.net/265 |  
-26 | 265   | És o meu Deus | [es_o_meu_deus_266.tex](https://github.com/psalterio/repository/blob/master/songs/pt/es_o_meu_deus_266.tex) | http://www.psalterio.net/265 |  
+26 | 266   | És o meu Deus | [es_o_meu_deus_266.tex](https://github.com/psalterio/repository/blob/master/songs/pt/es_o_meu_deus_266.tex) | http://www.psalterio.net/265 |  
 27 | 157   | Soldado de Jesus | [soldado_de_jesus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/soldado_de_jesus.tex) | http://www.psalterio.net/157 |  
 28 | 155   | Super-Herói | [super_heroi.tex](https://github.com/psalterio/repository/blob/master/songs/pt/super_heroi.tex) | http://www.psalterio.net/155 |  
 29 | 245   | Crescer como David | [sabias_que_davi_245.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sabias_que_davi_245.tex) | http://www.psalterio.net/245 |  
