@@ -1,0 +1,53 @@
+%----------------------------------------------------------
+% refer to template.tex to see how to edit this file 
+
+\beginsong{Eu Te Louvarei}
+[
+    id          = {280},
+    music_by    = {Henrique Peixoto},
+    lyrics_by   = {Adaptação: Pedro Esteves},
+    bible_verse = {Salmo 138},
+    sr          = {},
+    cr          = {},
+    video_url   = {https://www.youtube.com/watch?v=W4mDDVeZYbM&t},
+    extra       = {},
+]
+
+%----------------------------------------------------------
+\beginverse
+\[A]No momento em que eu \[Asus2/B]clamei
+Senhor \[B/C#]Tu me ouviste \[G#m]eu sei
+Al\[A]nto e força des\[Asus2/B]te à minha vi\{B/C#]da \[G#m]
+Toda a terra ó \[A]Senhor\[Asus2/B]
+Se cur\[G#m]ve em honra e \[A]louvor a ti\[F#m]
+E ao ver o Teu poder\[B7]
+\[A]Soberano é o Cri\[Asus2/B]ador
+O excel\[B/C#]so Deus de gló\[G#m]ria e luz
+Mas \[A]que atenta ao Ho\[Asus2/B]mem mais humil\[B/C#]de \[G#m]
+Estende a mão pra \[A]me salvar\[Asus2/B]
+E \[G#m]se difícil o \[A]caminho eu sei\[F#m]
+Ele vai me amparar \[B7]
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+Eu te louvarei
+Senhor de todo o coração te louvarei
+O Teu amor é para sempre eu louvarei
+Em Tua presença inclino o rosto e louvarei
+Teu nome eternamente louvarei
+EU TE LOUVAREI
+\endchorus
+
+%----------------------------------------------------------
+\beginverse
+Só Tu és Santo e Justo
+Puro é o teu falar
+És Deus eterno que se entrega pra salvar
+Teu poder é infinito grande é o Teu perdão
+Digno És de minha adoração
+\endverse
+
+
+%----------------------------------------------------------
+\endsong
