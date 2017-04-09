@@ -1,0 +1,67 @@
+%----------------------------------------------------------
+% begin song latex formating, set the title and other info
+
+\beginsong{Uma Família}
+[
+    id                     = {279},
+    psalterio_number       = {279},
+    music_by               = {},
+    lyrics_by              = {},
+    arrangement_by         = {},
+    bible_verse            = {João 5:33},
+    licence_or_copyright   = {},
+    video_url              = {https://www.youtube.com/watch?v=yLfFuUiOkBk},
+    extra                  = {},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+
+Intro: E B A (x2)
+
+\[E]Hoje eu \[B]quero dedi\[A]car,
+\[E]Hoje eu \[B]quero entre\[A]gar
+\[F#m]Uma nova vida \[G#m]um novo ser,
+Que\[A] em Ti irá nascer\[B].
+\[E]Hoje eu \[B]quero renas\[A]cer,
+\[E]Hoje eu \[B]quero vi\[A]ver,
+\[F#m]Nova esperança, \[G#m]uma nova luz,
+\[A]Assim brilha\[C#m]rei por Je\[B]sus.
+\endverse
+
+%----------------------------------------------------------
+\beginverse
+Hoje \[E]aqui, eu deci\[B]di abandon\[F#m]ar o mundo
+Ren\[A]der minha a vontade a \[E]Ti.
+Tudo o que \[B]quero é que eu \[F#m]diminua
+E \[A]cresça \[B]Cristo em \[M]mim.
+\endverse
+
+%----------------------------------------------------------
+\beginverse
+Hoje eu quero lembrar,
+Hoje eu quero aceitar
+O sacrifício lá na cruz,
+Que fez por mim Jesus
+Hoje eu quero refletir,
+Hoje eu quero sentir
+A Sua graça, o Seu perdão,
+Que me ofereceu salvação.
+\endverse
+
+%----------------------------------------------------------
+\beginverse
+Ponte:
+1ª vez
+Tudo o que \[F#m]sou, agora é \[C#m]Teu
+Rumo à \[A]pátria o alvo é o \[E]céu.
+
+2ªvez
+Tudo o que \[F#m]sou, agora é \[C#m]Teu
+Rumo à \[A]pátria o alvo é o \[B]céu.
+\endverse
+
+%----------------------------------------------------------
+\endsong
