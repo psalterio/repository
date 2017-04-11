@@ -20,7 +20,7 @@ Ticoes | | | | |
 15 | 222    | Para Me Guiar | [para_me_guiar_222.tex](https://github.com/psalterio/repository/blob/master/songs/pt/para_me_guiar_222.tex) | http://www.psalterio.net/222 |  
 16 | 226    | Dá-me a Tua Mão | [da_me_a_tua_mao_226.tex](https://github.com/psalterio/repository/blob/master/songs/pt/da_me_a_tua_mao_226.tex) | http://www.psalterio.net/226 |  
 17 | 224    | A Pequenina Luz | [a_pequenina_luz_224.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_pequenina_luz_224.tex) | http://www.psalterio.net/224 |  
-Desbravadores/Companheiros/Seniores |
+Desbravadores |
 18 | 63    | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://www.psalterio.net/63 |  
 19 | 90    | Leão de Judá | [leao_de_juda_90.tex](https://github.com/psalterio/repository/blob/master/songs/pt/leao_de_juda_90.tex) | http://www.psalterio.net/90 |  
 20 | 106    | Alegria | [alegria_106.tex](https://github.com/psalterio/repository/blob/master/songs/pt/alegria_106.tex) | http://www.psalterio.net/106 |  
