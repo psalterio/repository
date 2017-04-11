@@ -11,12 +11,7 @@ n  | id    | title | git file | site link |
 5 | 244    | Jonas, estás aí? | [jonas_estas_ai_244.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jonas_estas_ai_244.tex) | http://www.psalterio.net/244 |  
 6 | 242    | Eu tenho um Amigo que me ama | [eu_tenho_um_amigo_que_me_ama_242.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_tenho_um_amigo_que_me_ama_242.tex) | http://www.psalterio.net/242 |  
 7 | 245    | Crescer como David | [sabias_que_davi_245.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sabias_que_davi_245.tex) | http://www.psalterio.net/245 |  
-
-
-Ticoes
-
-n  | id    | title | git file | site link | 
----|-------|-------|----------|-----------| 
+Ticoes |     |  | | | 
 8 | 141    | Brilhando Cada Vez Mais | [brilhando_cada_vez_mais_141.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilhando_cada_vez_mais_141.tex) | http://www.psalterio.net/141 |  
 9 | 151    | O Amor de Deus | [o_amor_de_deus_151.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_amor_de_deus_151.tex) | http://www.psalterio.net/151 |  
 10 | 152    | O Tiço Tição | [o_tico_ticao_152.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_tico_ticao_152.tex) | http://www.psalterio.net/152 |  
