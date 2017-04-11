@@ -56,8 +56,8 @@ Louvor Jovem 2017
 
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
-40 |     | Viver mais a esperança | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
-41 |     | Uma Familia | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
-42 |     | Cresca Cristo em Mim | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
-43 | 268    | A procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
-44 |     | Eu Te Louvarei | [.tex](https://github.com/psalterio/repository/blob/master/songs/pt/.tex) | http://www.psalterio.net/ |  
+40 | 277   | Viver mais a esperança | [viver_mais_a_esperanca_277.tex](https://github.com/psalterio/repository/blob/master/songs/pt/viver_mais_a_esperanca_277.tex) | http://www.psalterio.net/277 |  
+41 | 278   | Uma Familia | [uma_familia_278.tex](https://github.com/psalterio/repository/blob/master/songs/pt/uma_familia_278.tex) | http://www.psalterio.net/278 |  
+42 | 279   | Cresca Cristo em Mim | [cresca_cristo_em_mim_279.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cresca_cristo_em_mim_279.tex) | http://www.psalterio.net/279 |  
+43 | 268   | A procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
+44 | 280   | Eu Te Louvarei | [eu_te_louvarei_280.tex](https://github.com/psalterio/repository/blob/master/songs/pt/280.tex) | http://www.psalterio.net/280 |  
