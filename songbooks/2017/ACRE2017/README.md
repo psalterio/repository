@@ -60,4 +60,4 @@ n  | id    | title | git file | site link |
 41 | 278   | Uma Familia | [uma_familia_278.tex](https://github.com/psalterio/repository/blob/master/songs/pt/uma_familia_278.tex) | http://www.psalterio.net/278 |  
 42 | 279   | Cresca Cristo em Mim | [cresca_cristo_em_mim_279.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cresca_cristo_em_mim_279.tex) | http://www.psalterio.net/279 |  
 43 | 268   | A procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
-44 | 280   | Eu Te Louvarei | [eu_te_louvarei_280.tex](https://github.com/psalterio/repository/blob/master/songs/pt/280.tex) | http://www.psalterio.net/280 |  
+44 | 280   | Eu Te Louvarei | [eu_te_louvarei_280.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_te_louvarei_280.tex) | http://www.psalterio.net/280 |  
