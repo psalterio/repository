@@ -34,14 +34,15 @@ Desbravadores |
 28 | 149    | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
 29 | 162    | Não vivo mais eu | [nao_vivo_mais_eu_162.tex](https://github.com/psalterio/repository/blob/master/songs/pt/nao_vivo_mais_eu_162.tex) | http://www.psalterio.net/162 |  
 30 | 165    | Amor | [amor_165.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amor_165.tex) | http://www.psalterio.net/165 | 
-31 | 170    | O Meu Deus é O Deus | [o_meu_deus_e_o_deus_170.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_meu_deus_e_o_deus_170.tex) | http://www.psalterio.net/170 |  
-32 | 240    | Chamado para Servir | [chamado_para_servir_240.tex](https://github.com/psalterio/repository/blob/master/songs/pt/chamado_para_servir_240.tex) | http://www.psalterio.net/240 |  
-33 | 234    | Sou do Senhor | [sou_do_senhor_234.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sou_do_senhor_234.tex) | http://www.psalterio.net/234 |  
-34 | 239    | Tudo é Teu | [tudo_e_teu_239.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tudo_e_teu_239.tex) | http://www.psalterio.net/239 |  
-35 | 241    | Em Louvor e Gratidão | [em_louvor_e_gratidao_241.tex](https://github.com/psalterio/repository/blob/master/songs/pt/em_louvor_e_gratidao_241.tex) | http://www.psalterio.net/241 |  
+31 | 170    | O Meu Deus é O Deus | [o_meu_deus_e_o_deus_170.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_meu_deus_e_o_deus_170.tex) | http://www.psalterio.net/170 | 
+32 | 153    | Quem o fará | [quem_o_fara_153.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quem_o_fara_153.tex) | http://www.psalterio.net/153 |  
+33 | 240    | Chamado para Servir | [chamado_para_servir_240.tex](https://github.com/psalterio/repository/blob/master/songs/pt/chamado_para_servir_240.tex) | http://www.psalterio.net/240 | 
+34 | 234    | Sou do Senhor | [sou_do_senhor_234.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sou_do_senhor_234.tex) | http://www.psalterio.net/234 |  
+35 | 239    | Tudo é Teu | [tudo_e_teu_239.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tudo_e_teu_239.tex) | http://www.psalterio.net/239 |  
+36 | 241    | Em Louvor e Gratidão | [em_louvor_e_gratidao_241.tex](https://github.com/psalterio/repository/blob/master/songs/pt/em_louvor_e_gratidao_241.tex) | http://www.psalterio.net/241 |  
 Louvor Jovem 2017 | | | | | 
-36 | 277   | Viver mais a esperança | [viver_mais_a_esperanca_277.tex](https://github.com/psalterio/repository/blob/master/songs/pt/viver_mais_a_esperanca_277.tex) | http://www.psalterio.net/277 |  
-37 | 278   | Uma Familia | [uma_familia_278.tex](https://github.com/psalterio/repository/blob/master/songs/pt/uma_familia_278.tex) | http://www.psalterio.net/278 |  
-38 | 279   | Cresca Cristo em Mim | [cresca_cristo_em_mim_279.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cresca_cristo_em_mim_279.tex) | http://www.psalterio.net/279 |  
-39 | 268   | A procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
-40 | 280   | Eu Te Louvarei | [eu_te_louvarei_280.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_te_louvarei_280.tex) | http://www.psalterio.net/280 |  
+37 | 277   | Viver mais a esperança | [viver_mais_a_esperanca_277.tex](https://github.com/psalterio/repository/blob/master/songs/pt/viver_mais_a_esperanca_277.tex) | http://www.psalterio.net/277 |  
+38 | 278   | Uma Familia | [uma_familia_278.tex](https://github.com/psalterio/repository/blob/master/songs/pt/uma_familia_278.tex) | http://www.psalterio.net/278 |  
+39 | 279   | Cresca Cristo em Mim | [cresca_cristo_em_mim_279.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cresca_cristo_em_mim_279.tex) | http://www.psalterio.net/279 |  
+40 | 268   | A procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
+41 | 280   | Eu Te Louvarei | [eu_te_louvarei_280.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_te_louvarei_280.tex) | http://www.psalterio.net/280 |  
