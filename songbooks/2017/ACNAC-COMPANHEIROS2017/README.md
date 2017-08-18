@@ -22,12 +22,11 @@ n  | id    | title | git file | site link |
 19 | 167 | Falar com Deus | [falar_com_deus_167.tex](https://github.com/psalterio/repository/blob/master/songs/pt/falar_com_deus_167.tex) | http://www.psalterio.net/167 |  
 20 | 139 | O Teu Poder | [o_teu_poder_139.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_teu_poder_139.tex) | http://www.psalterio.net/139 |  
 21 | 221 | Surprised by Grace | [surprised_by_grace_221.tex](https://github.com/psalterio/repository/blob/master/songs/en/surprised_by_grace_221.tex) | http://www.psalterio.net/221 |  
-22 | 142 | Fé é a Arder | [fe_a_arder_142.tex](https://github.com/psalterio/repository/blob/master/songs/pt/fe_a_arder_142.tex) | http://www.psalterio.net/142 |  
-23 | 91  | Jesus em breve virá | [jesus_em_breve_vira_91.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_em_breve_vira_91.tex) | http://www.psalterio.net/91 |  
-24 | 101 | Jerusalém | [jerusalem_101.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jerusalem_101.tex) | http://www.psalterio.net/101 |  
-25 | 71  | Deus está aqui | [deus_esta_aqui_71.tex](https://github.com/psalterio/repository/blob/master/songs/pt/deus_esta_aqui_71.tex) | http://www.psalterio.net/71 |  
-26 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
-27 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
-28 | 169 | Mensageiro dos Ceús | [mensageiro_dos_ceus_169.tex](https://github.com/psalterio/repository/blob/master/songs/pt/XXX.tex) | http://www.psalterio.net/169 |  
-29 | 120 | Vaso de Honra/Renova-me | [vaso_de_honra_renovame_120.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vaso_de_honra_renovame_120.tex) | http://www.psalterio.net/120 |  
-30 | 171 | Vai Falar | [vai_falar_171.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vai_falar_171.tex) | http://www.psalterio.net/171 |  
+22 | 91  | Jesus em breve virá | [jesus_em_breve_vira_91.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_em_breve_vira_91.tex) | http://www.psalterio.net/91 |  
+23 | 101 | Jerusalém | [jerusalem_101.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jerusalem_101.tex) | http://www.psalterio.net/101 |  
+24 | 71  | Deus está aqui | [deus_esta_aqui_71.tex](https://github.com/psalterio/repository/blob/master/songs/pt/deus_esta_aqui_71.tex) | http://www.psalterio.net/71 |  
+25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
+26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
+27 | 169 | Mensageiro dos Ceús | [mensageiro_dos_ceus_169.tex](https://github.com/psalterio/repository/blob/master/songs/pt/XXX.tex) | http://www.psalterio.net/169 |  
+28 | 120 | Vaso de Honra/Renova-me | [vaso_de_honra_renovame_120.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vaso_de_honra_renovame_120.tex) | http://www.psalterio.net/120 |  
+29 | 171 | Vai Falar | [vai_falar_171.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vai_falar_171.tex) | http://www.psalterio.net/171 |  
