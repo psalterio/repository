@@ -9,7 +9,7 @@ Como ajudar?
 Existem várias formas de ajudar. Normalmente estas são as maiores tarefas:
 - [corrigir músicas](https://github.com/psalterio/repository/wiki/Corrigir-Música)
 - [adicionar músicas](https://github.com/psalterio/repository/wiki/Adicionar-Música)
-- [adicionar separatas]()
+- [criar separata](https://github.com/psalterio/repository/wiki/criar-separata)
 
 Mas também existem outras tarefas:
 - [lista de tarefas (milestones)](https://github.com/psalterio/repository/milestones)
