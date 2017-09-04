@@ -7,7 +7,7 @@ n  | id    | title | git file | site link |
 5 | 73 | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |    
 6 | 149 | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
 7 | 284 | És a minha vida | [es_a_minha_vida_284.tex](https://github.com/psalterio/repository/blob/master/songs/pt/es_a_minha_vida_284.tex) | http://www.psalterio.net/284 |  
-12 | 165 | Amor | [amor_165.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amor_165.tex) | http://www.psalterio.net/165 |  
+8 | 52 | Estamos unidos | [estamos_unidos_52.tex](https://github.com/psalterio/repository/blob/master/songs/pt/estamos_unidos_52.tex) | http://www.psalterio.net/52 |  
 13 | 153 | Quem o fará | [quem_o_fara_153.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quem_o_fara_153.tex) | http://www.psalterio.net/153 |  
 14 | 240 | Chamado para Servir | [chamado_para_servir_240.tex](https://github.com/psalterio/repository/blob/master/songs/pt/chamado_para_servir_240.tex) | http://www.psalterio.net/240 |  
 15 | 268 | À Procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
