@@ -4,13 +4,9 @@ n  | id    | title | git file | site link |
 2 | 61 | A nossa força é o cantar | [a_nossa_forca_e_o_cantar.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_nossa_forca_e_o_cantar.tex) | http://www.psalterio.net/61 |  
 3 | 260 | Brilha Jesus | [brilha_jesus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilha_jesus_260.tex) | http://www.psalterio.net/260 |  
 4 | 249 | Com Jesus eu estou OK | [com_jesus_eu_estou_ok_249.tex](https://github.com/psalterio/repository/blob/master/songs/pt/com_jesus_eu_estou_ok_249.tex) | http://www.psalterio.net/249 |  
-5 | 73 | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
-6 | 142 | Fé a Arder | [fe_a_arder_142.tex](https://github.com/psalterio/repository/blob/master/songs/pt/fe_a_arder_142.tex) | http://www.psalterio.net/142 |  
-7 | 147 | Mensageiro | [mensageiro_147.tex](https://github.com/psalterio/repository/blob/master/songs/pt/mensageiro_147.tex) | http://www.psalterio.net/147 |  
-8 | 175 | Perto de Jesus | [perto_de_jesus_175.tex](https://github.com/psalterio/repository/blob/master/songs/pt/perto_de_jesus_175.tex) | http://www.psalterio.net/175 |  
-9 | 156 | Tua Palavra | [tua_palavra_156.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tua_palavra_156.tex) | http://www.psalterio.net/156 |  
-10 | 149 | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
-11 | 162 | Não vivo mais eu | [nao_vivo_mais_eu_162.tex](https://github.com/psalterio/repository/blob/master/songs/pt/nao_vivo_mais_eu_162.tex) | http://www.psalterio.net/162 |  
+5 | 73 | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |    
+6 | 149 | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
+7 | 284 | És a minha vida | [es_a_minha_vida_284.tex](https://github.com/psalterio/repository/blob/master/songs/pt/es_a_minha_vida_284.tex) | http://www.psalterio.net/284 |  
 12 | 165 | Amor | [amor_165.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amor_165.tex) | http://www.psalterio.net/165 |  
 13 | 153 | Quem o fará | [quem_o_fara_153.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quem_o_fara_153.tex) | http://www.psalterio.net/153 |  
 14 | 240 | Chamado para Servir | [chamado_para_servir_240.tex](https://github.com/psalterio/repository/blob/master/songs/pt/chamado_para_servir_240.tex) | http://www.psalterio.net/240 |  
