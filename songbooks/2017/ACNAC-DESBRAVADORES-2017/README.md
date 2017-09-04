@@ -3,7 +3,7 @@ n  | id    | title | git file | site link |
 1 | 283 | À Espera do Rei | [a_espera_do_rei_283.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_espera_do_rei_283.tex) | http://www.psalterio.net/283|  
 2 | 61 | A nossa força é o cantar | [a_nossa_forca_e_o_cantar.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_nossa_forca_e_o_cantar.tex) | http://www.psalterio.net/61 |  
 3 | 260 | Brilha Jesus | [brilha_jesus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilha_jesus_260.tex) | http://www.psalterio.net/260 |  
-4 | 114 | Influência | [influencia_114.tex](https://github.com/psalterio/repository/blob/master/songs/pt/influencia_114.tex) | http://www.psalterio.net/114 |  
+4 | 249 | Com Jesus eu estou OK | [com_jesus_eu_estou_ok_249.tex](https://github.com/psalterio/repository/blob/master/songs/pt/com_jesus_eu_estou_ok_249.tex) | http://www.psalterio.net/249 |  
 5 | 119 | Pra te Adorar | [pra_te_adorar_119.tex](https://github.com/psalterio/repository/blob/master/songs/pt/pra_te_adorar_119.tex) | http://www.psalterio.net/119 |  
 6 | 142 | Fé a Arder | [fe_a_arder_142.tex](https://github.com/psalterio/repository/blob/master/songs/pt/fe_a_arder_142.tex) | http://www.psalterio.net/142 |  
 7 | 147 | Mensageiro | [mensageiro_147.tex](https://github.com/psalterio/repository/blob/master/songs/pt/mensageiro_147.tex) | http://www.psalterio.net/147 |  
