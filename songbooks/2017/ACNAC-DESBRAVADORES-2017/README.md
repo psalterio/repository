@@ -20,11 +20,10 @@ n  | id    | title | git file | site link |
 18 | 126  | O poder do amor | [o_poder_do_amor_126.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_poder_do_amor_126.tex) | http://www.psalterio.net/126 |  
 19 | 168 | Quão grande é o meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
 20| 63  | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://www.psalterio.net/63 |  
+21 | 234 | Sou do Senhor | [sou_do_senhor_234.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sou_do_senhor_234.tex) | http://www.psalterio.net/234 |  
+22 | 139  | O Teu poder | [o_teu_poder_139.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_teu_poder_139.tex) | http://www.psalterio.net/139 |  
+23 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
+24 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 | 
 25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
 26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
-25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
-26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 | 
-25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
-26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
-25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
-26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 | 
+
