@@ -16,10 +16,10 @@ n  | id    | title | git file | site link |
 14 | 123 | Louvai a Deus | [louvai_a_Deus_123.tex](https://github.com/psalterio/repository/blob/master/songs/pt/louvai_a_Deus_123.tex) | http://www.psalterio.net/123 |  
 15 | 170 | O meu Deus é o Deus | [o_meu_deus_e_o_deus_170.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_meu_deus_e_o_deus_170.tex) | http://www.psalterio.net/170 |  
 16 | 89 | O Senhor marchando está | [o_senhor_marchando_esta_89.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_senhor_marchando_esta_89.tex) | http://www.psalterio.net/89 |  
-21 | 221 | Surprised by Grace | [surprised_by_grace_221.tex](https://github.com/psalterio/repository/blob/master/songs/en/surprised_by_grace_221.tex) | http://www.psalterio.net/221 |  
-22 | 91  | Jesus em breve virá | [jesus_em_breve_vira_91.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_em_breve_vira_91.tex) | http://www.psalterio.net/91 |  
-23 | 101 | Jerusalém | [jerusalem_101.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jerusalem_101.tex) | http://www.psalterio.net/101 |  
-24 | 71  | Deus está aqui | [deus_esta_aqui_71.tex](https://github.com/psalterio/repository/blob/master/songs/pt/deus_esta_aqui_71.tex) | http://www.psalterio.net/71 |  
+17 | 285 | Pai nosso (Galego) | [pai_nosso_galego_285.tex](https://github.com/psalterio/repository/blob/master/songs/en/pai_nosso_galego_285.tex) | http://www.psalterio.net/285 |  
+18 | 126  | O poder do amor | [o_poder_do_amor_126.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_poder_do_amor_126.tex) | http://www.psalterio.net/126 |  
+19 | 168 | Quão grande é o meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
+20| 71  | Deus está aqui | [deus_esta_aqui_71.tex](https://github.com/psalterio/repository/blob/master/songs/pt/deus_esta_aqui_71.tex) | http://www.psalterio.net/71 |  
 25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
 26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
  
