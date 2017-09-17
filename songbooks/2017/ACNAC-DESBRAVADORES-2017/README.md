@@ -2,7 +2,7 @@ n  | id    | title | git file | site link |
 ---|-------|-------|----------|-----------| 
 1 | 283 | À Espera do Rei | [a_espera_do_rei_283.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_espera_do_rei_283.tex) | http://www.psalterio.net/283|  
 2 | 61 | A nossa força é o cantar | [a_nossa_forca_e_o_cantar_61.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_nossa_forca_e_o_cantar.tex) | http://www.psalterio.net/61 |  
-3 | 260 | Brilha Jesus | [brilha_jesus.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilha_jesus_260.tex) | http://www.psalterio.net/260 |  
+3 | 260 | Brilha Jesus | [brilha_jesus_260.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilha_jesus_260.tex) | http://www.psalterio.net/260 |  
 4 | 249 | Com Jesus eu estou OK | [com_jesus_eu_estou_ok_249.tex](https://github.com/psalterio/repository/blob/master/songs/pt/com_jesus_eu_estou_ok_249.tex) | http://www.psalterio.net/249 |  
 5 | 73 | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |    
 6 | 149 | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
