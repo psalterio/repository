@@ -22,8 +22,8 @@ n  | id    | title | git file | site link |
 20| 63  | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://www.psalterio.net/63 |  
 21 | 234 | Sou do Senhor | [sou_do_senhor_234.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sou_do_senhor_234.tex) | http://www.psalterio.net/234 |  
 22 | 139  | O Teu poder | [o_teu_poder_139.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_teu_poder_139.tex) | http://www.psalterio.net/139 |  
-23 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
-24 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 | 
+23 | 103 | Tu És o único Senhor naminha vida | [tu_es_o_unico_senhor_na_minha_vida_103.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tu_es_o_unico_senhor_na_minha_vida_103.tex) | http://www.psalterio.net/103 |  
+24 | 92  | Vem connosco para cantar | [vem_connosco_para_cantar_92.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vem_connosco_para_cantar_92.tex) | http://www.psalterio.net/92 | 
 25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
 26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
 
