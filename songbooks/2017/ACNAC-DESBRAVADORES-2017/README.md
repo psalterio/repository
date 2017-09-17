@@ -24,6 +24,6 @@ n  | id    | title | git file | site link |
 22 | 139  | O Teu poder | [o_teu_poder_139.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_teu_poder_139.tex) | http://www.psalterio.net/139 |  
 23 | 103 | Tu És o único Senhor naminha vida | [tu_es_o_unico_senhor_na_minha_vida_103.tex](https://github.com/psalterio/repository/blob/master/songs/pt/tu_es_o_unico_senhor_na_minha_vida_103.tex) | http://www.psalterio.net/103 |  
 24 | 92  | Vem connosco para cantar | [vem_connosco_para_cantar_92.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vem_connosco_para_cantar_92.tex) | http://www.psalterio.net/92 | 
-25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
-26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
+25 | 95 | Vem viver em mim | [vem_viver_em_mim_95.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vem_viver_em_mim_95.tex) | http://www.psalterio.net/95 |  
+26 | 10 | Vencendo vem Jesus | [vencendo_vem_jesus_10.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vencendo_vem_jesus_10.tex) | http://www.psalterio.net/10 |  
 
