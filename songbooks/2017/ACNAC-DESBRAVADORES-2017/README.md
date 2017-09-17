@@ -8,9 +8,9 @@ n  | id    | title | git file | site link |
 6 | 149 | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
 7 | 284 | És a minha vida | [es_a_minha_vida_284.tex](https://github.com/psalterio/repository/blob/master/songs/pt/es_a_minha_vida_284.tex) | http://www.psalterio.net/284 |  
 8 | 52 | Estamos unidos | [estamos_unidos_52.tex](https://github.com/psalterio/repository/blob/master/songs/pt/estamos_unidos_52.tex) | http://www.psalterio.net/52 |  
-13 | 153 | Quem o fará | [quem_o_fara_153.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quem_o_fara_153.tex) | http://www.psalterio.net/153 |  
-14 | 240 | Chamado para Servir | [chamado_para_servir_240.tex](https://github.com/psalterio/repository/blob/master/songs/pt/chamado_para_servir_240.tex) | http://www.psalterio.net/240 |  
-15 | 268 | À Procura de Deus | [a_procura_de_deus_268.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_procura_de_deus_268.tex) | http://www.psalterio.net/268 |  
+9| 000 | 000 | [0000000000000.tex](https://github.com/psalterio/repository/blob/master/songs/pt/000000000000000000.tex) | http://www.psalterio.net/153 |  
+10 | 117 | Já falaste | [ja_falaste_117.tex](https://github.com/psalterio/repository/blob/master/songs/pt/ja_falaste_117.tex) | http://www.psalterio.net/117 |  
+11 | 101 | Jerusalém | [jerusalem_101.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jerusalem_101.tex) | http://www.psalterio.net/101 |  
 16 | 82  | É Tempo de Louvar | [e_tempo_de_louvar_82.tex](https://github.com/psalterio/repository/blob/master/songs/pt/e_tempo_de_louvar_82.tex) | http://www.psalterio.net/82 |  
 17 | 168 | Quão grande é o meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
 18 | 248 | Eu me entrego | [eu_me_entrego_248.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_me_entrego_248.tex) | http://www.psalterio.net/248 |  
