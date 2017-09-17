@@ -19,7 +19,7 @@ n  | id    | title | git file | site link |
 17 | 285 | Pai nosso (Galego) | [pai_nosso_galego_285.tex](https://github.com/psalterio/repository/blob/master/songs/en/pai_nosso_galego_285.tex) | http://www.psalterio.net/285 |  
 18 | 126  | O poder do amor | [o_poder_do_amor_126.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_poder_do_amor_126.tex) | http://www.psalterio.net/126 |  
 19 | 168 | Quão grande é o meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
-20| 71  | Deus está aqui | [deus_esta_aqui_71.tex](https://github.com/psalterio/repository/blob/master/songs/pt/deus_esta_aqui_71.tex) | http://www.psalterio.net/71 |  
+20| 63  | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://www.psalterio.net/63 |  
 25 | 160 | Agradecer | [agradecer_160.tex](https://github.com/psalterio/repository/blob/master/songs/pt/agradecer_160.tex) | http://www.psalterio.net/160 |  
 26 | 73  | Cristo é Rei | [cristo_e_rei_73.tex](https://github.com/psalterio/repository/blob/master/songs/pt/cristo_e_rei_73.tex) | http://www.psalterio.net/73 |  
  
