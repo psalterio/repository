@@ -8,7 +8,7 @@ n  | id    | title | git file | site link |
 6 | 149 | Digno de Glória | [digno_de_gloria_149.tex](https://github.com/psalterio/repository/blob/master/songs/pt/digno_de_gloria_149.tex) | http://www.psalterio.net/149 |  
 7 | 284 | És a minha vida | [es_a_minha_vida_284.tex](https://github.com/psalterio/repository/blob/master/songs/pt/es_a_minha_vida_284.tex) | http://www.psalterio.net/284 |  
 8 | 52 | Estamos unidos | [estamos_unidos_52.tex](https://github.com/psalterio/repository/blob/master/songs/pt/estamos_unidos_52.tex) | http://www.psalterio.net/52 |  
-9| 000 | 000 | [0000000000000.tex](https://github.com/psalterio/repository/blob/master/songs/pt/000000000000000000.tex) | http://www.psalterio.net/153 |  
+9| 150 | Estamos unidos|[estamos_juntos_150.tex](https://github.com/psalterio/repository/blob/master/songs/pt/estamos_juntos_150.tex) | http://www.psalterio.net/150 |  
 10 | 117 | Já falaste | [ja_falaste_117.tex](https://github.com/psalterio/repository/blob/master/songs/pt/ja_falaste_117.tex) | http://www.psalterio.net/117 |  
 11 | 101 | Jerusalém | [jerusalem_101.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jerusalem_101.tex) | http://www.psalterio.net/101 |  
 12 | 91  | Jesus em breve virá... | [jesus_em_breve_vira_91.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_em_breve_vira_91.tex) | http://www.psalterio.net/91 |  
