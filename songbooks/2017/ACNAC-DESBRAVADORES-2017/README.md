@@ -14,8 +14,8 @@ n  | id    | title | git file | site link |
 12 | 91  | Jesus em breve virá... | [jesus_em_breve_vira_91.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_em_breve_vira_91.tex) | http://www.psalterio.net/91 |  
 13 | 90 | Leão de Judá | [leao_de_juda_90.tex](https://github.com/psalterio/repository/blob/master/songs/pt/leao_de_juda_90.tex) | http://www.psalterio.net/90 |  
 14 | 123 | Louvai a Deus | [louvai_a_Deus_123.tex](https://github.com/psalterio/repository/blob/master/songs/pt/louvai_a_Deus_123.tex) | http://www.psalterio.net/123 |  
-19 | 167 | Falar com Deus | [falar_com_deus_167.tex](https://github.com/psalterio/repository/blob/master/songs/pt/falar_com_deus_167.tex) | http://www.psalterio.net/167 |  
-20 | 139 | O Teu Poder | [o_teu_poder_139.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_teu_poder_139.tex) | http://www.psalterio.net/139 |  
+15 | 170 | O meu Deus é o Deus | [o_meu_deus_e_o_deus_170.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_meu_deus_e_o_deus_170.tex) | http://www.psalterio.net/170 |  
+16 | 89 | O Senhor marchando está | [o_senhor_marchando_esta_89.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_senhor_marchando_esta_89.tex) | http://www.psalterio.net/89 |  
 21 | 221 | Surprised by Grace | [surprised_by_grace_221.tex](https://github.com/psalterio/repository/blob/master/songs/en/surprised_by_grace_221.tex) | http://www.psalterio.net/221 |  
 22 | 91  | Jesus em breve virá | [jesus_em_breve_vira_91.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_em_breve_vira_91.tex) | http://www.psalterio.net/91 |  
 23 | 101 | Jerusalém | [jerusalem_101.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jerusalem_101.tex) | http://www.psalterio.net/101 |  
