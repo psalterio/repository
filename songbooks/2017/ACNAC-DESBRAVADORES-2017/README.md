@@ -11,9 +11,9 @@ n  | id    | title | git file | site link |
 9| 000 | 000 | [0000000000000.tex](https://github.com/psalterio/repository/blob/master/songs/pt/000000000000000000.tex) | http://www.psalterio.net/153 |  
 10 | 117 | Já falaste | [ja_falaste_117.tex](https://github.com/psalterio/repository/blob/master/songs/pt/ja_falaste_117.tex) | http://www.psalterio.net/117 |  
 11 | 101 | Jerusalém | [jerusalem_101.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jerusalem_101.tex) | http://www.psalterio.net/101 |  
-16 | 82  | É Tempo de Louvar | [e_tempo_de_louvar_82.tex](https://github.com/psalterio/repository/blob/master/songs/pt/e_tempo_de_louvar_82.tex) | http://www.psalterio.net/82 |  
-17 | 168 | Quão grande é o meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
-18 | 248 | Eu me entrego | [eu_me_entrego_248.tex](https://github.com/psalterio/repository/blob/master/songs/pt/eu_me_entrego_248.tex) | http://www.psalterio.net/248 |  
+12 | 91  | Jesus em breve virá... | [jesus_em_breve_vira_91.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jesus_em_breve_vira_91.tex) | http://www.psalterio.net/91 |  
+13 | 90 | Leão de Judá | [leao_de_juda_90.tex](https://github.com/psalterio/repository/blob/master/songs/pt/leao_de_juda_90.tex) | http://www.psalterio.net/90 |  
+14 | 123 | Louvai a Deus | [louvai_a_Deus_123.tex](https://github.com/psalterio/repository/blob/master/songs/pt/louvai_a_Deus_123.tex) | http://www.psalterio.net/123 |  
 19 | 167 | Falar com Deus | [falar_com_deus_167.tex](https://github.com/psalterio/repository/blob/master/songs/pt/falar_com_deus_167.tex) | http://www.psalterio.net/167 |  
 20 | 139 | O Teu Poder | [o_teu_poder_139.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_teu_poder_139.tex) | http://www.psalterio.net/139 |  
 21 | 221 | Surprised by Grace | [surprised_by_grace_221.tex](https://github.com/psalterio/repository/blob/master/songs/en/surprised_by_grace_221.tex) | http://www.psalterio.net/221 |  
