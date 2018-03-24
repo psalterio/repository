@@ -9,7 +9,6 @@ Rebentos | | | | |
 5 | 246    | Amigo, Amas Tu a Cristo | [amigo_amas_tu_a_cristo_246.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amigo_amas_tu_a_cristo_246.tex) | http://www.psalterio.net/246 |  
 6 | 245    | Crescer como David | [sabias_que_davi_245.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sabias_que_davi_245.tex) | http://www.psalterio.net/245 |  
 7 |     | A Voz de Deus | [a_voz_de_deus_.tex](https://github.com/psalterio/repository/blob/master/songs/pt/) | http://www.psalterio.net/ |  
-
 Ticoes | | | | | 
 8 | 141    | Brilhando Cada Vez Mais | [brilhando_cada_vez_mais_141.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilhando_cada_vez_mais_141.tex) | http://www.psalterio.net/141 |  
 9 | 151    | O Amor de Deus | [o_amor_de_deus_151.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_amor_de_deus_151.tex) | http://www.psalterio.net/151 |  
@@ -22,7 +21,6 @@ Ticoes | | | | |
 16 | 226    | Dá-me a Tua Mão | [da_me_a_tua_mao_226.tex](https://github.com/psalterio/repository/blob/master/songs/pt/da_me_a_tua_mao_226.tex) | http://www.psalterio.net/226 |  
 17 | 224    | A Pequenina Luz | [a_pequenina_luz_224.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_pequenina_luz_224.tex) | http://www.psalterio.net/224 |  
 14 | 251    | Experiência com Jesus | [experiencia_com_jesus_251.tex](https://github.com/psalterio/repository/blob/master/songs/pt/experiencia_com_jesus_251.tex) | http://www.psalterio.net/251 |  
-
 Desbravadores |
 18 | 63    | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://www.psalterio.net/63 |  
 Hino dos Desbravadores
