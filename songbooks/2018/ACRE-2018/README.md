@@ -8,7 +8,7 @@ Rebentos | | | | |
 4 | 244    | Jonas, estás aí? | [jonas_estas_ai_244.tex](https://github.com/psalterio/repository/blob/master/songs/pt/jonas_estas_ai_244.tex) | http://www.psalterio.net/244 |  
 5 | 246    | Amigo, Amas Tu a Cristo | [amigo_amas_tu_a_cristo_246.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amigo_amas_tu_a_cristo_246.tex) | http://www.psalterio.net/246 |  
 6 | 245    | Crescer como David | [sabias_que_davi_245.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sabias_que_davi_245.tex) | http://www.psalterio.net/245 |  
-7 |     | A Voz de Deus | [a_voz_de_deus_.tex](https://github.com/psalterio/repository/blob/master/songs/pt/) | http://www.psalterio.net/ |  
+7 | 312    | A Voz de Deus | [a_voz_de_deus_.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_voz_de_deus_312.tex) | http://www.psalterio.net/312 |  
 Ticoes | | | | | 
 8 | 141    | Brilhando Cada Vez Mais | [brilhando_cada_vez_mais_141.tex](https://github.com/psalterio/repository/blob/master/songs/pt/brilhando_cada_vez_mais_141.tex) | http://www.psalterio.net/141 |  
 9 | 151    | O Amor de Deus | [o_amor_de_deus_151.tex](https://github.com/psalterio/repository/blob/master/songs/pt/o_amor_de_deus_151.tex) | http://www.psalterio.net/151 |  
