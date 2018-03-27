@@ -24,7 +24,7 @@ Ticoes | | | | |
 Desbravadores |
 19 | 63    | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://www.psalterio.net/63 |  
 20 | 3    | Hino dos Desbravadores | [hino_dos_desbravadores_3.tex](https://github.com/psalterio/repository/blob/master/songs/pt/hino_dos_desbravadores_3.tex) | http://www.psalterio.net/3 |  
-21 | 3    | Hino dos Companheiros e Seniores  | [hino_dos_companheiros_4.tex](https://github.com/psalterio/repository/blob/master/songs/pt/hino_dos_companheiros_4.tex) | http://www.psalterio.net/4 |  
+21 | 4    | Hino dos Companheiros e Seniores  | [hino_dos_companheiros_4.tex](https://github.com/psalterio/repository/blob/master/songs/pt/hino_dos_companheiros_4.tex) | http://www.psalterio.net/4 |  
 22 | 105    | Amar é Fazer Amigos  | [amar_e_fazer_amigos_105.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amar_e_fazer_amigos_105.tex) | http://www.psalterio.net/105 |  
 23 | 164    | Amizade  | [a_amizade_164.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_amizade_164.tex) | http://www.psalterio.net/164 |  
 24 | 90    | Leão de Judá | [leao_de_juda_90.tex](https://github.com/psalterio/repository/blob/master/songs/pt/leao_de_juda_90.tex) | http://www.psalterio.net/90 |  
