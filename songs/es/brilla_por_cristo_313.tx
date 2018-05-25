@@ -1,0 +1,53 @@
+%----------------------------------------------------------
+% begin song latex formating, set the title and other info
+
+\beginsong{Brilla por Cristo}
+[
+    id = {313},
+    psalterio_number = {313},
+    music_by = {Andy Wallis},
+    lyrics_by = {},
+    arrangement_by = {María José Roth},
+    bible_verse = {},
+    licence_or_copyright = {},
+    video_url = {},
+    extra = {Original: "Let your light shine"},
+    index = {},
+]
+
+%----------------------------------------------------------
+% section #1: verse 
+
+\beginverse
+
+\[G]Trepa, trepa, \[Em]trepa en la os\[Eb D]curidad, 
+el m\[G]iedo \[Em]va a apa\[Eb D]gar
+las \[G]luces que se\[Em]ñalan que Je\[Eb]sús ven\[D]drá
+\[G]otra \[Em]vez por \[Eb D]ti.
+\endverse
+
+%----------------------------------------------------------
+% section #2: chorus 
+
+\beginchorus
+
+\[C]Tu luz brilla,\[G D] oh.
+Tu luz brilla\[Em D C], oh.
+Tu luz bri\[G]lla cuando \[D D/C D/B D/A G]Cristo brilla en ti.
+
+\endchorus
+
+%----------------------------------------------------------
+% section #3: verse 
+
+\beginverse
+Junto a mi Dios muy pequeños son
+el miedo y el temor.
+Míralos de frente y mantente en pie
+y grita ¡basta ya!
+\endverse
+
+%----------------------------------------------------------
+% end song
+
+\endsong
