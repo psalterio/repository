@@ -21,13 +21,13 @@ number  | id    | title | git file | site link |
 19 | 251    | Experiência com Jesus | [experiencia_com_jesus_251.tex](https://github.com/psalterio/repository/blob/master/songs/pt/experiencia_com_jesus_251.tex) | http://dev.psalterio.net/song/251 |  
 20 | 224    | A Pequenina Luz | [a_pequenina_luz_224.tex](https://github.com/psalterio/repository/blob/master/songs/pt/a_pequenina_luz_224.tex) | http://dev.psalterio.net/song/224 |  
 21 | 130    | Sonhos | [sonhos_130.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sonhos_130.tex) | http://dev.psalterio.net/song/130 |  
-22 |     |  | [](https://github.com/psalterio/repository/blob/master/songs/pt/) | http://dev.psalterio.net/song/ |  
+22 | 429    | Atreve-te | [atrevete_429.tex](https://github.com/psalterio/repository/blob/master/songs/pt/atrevete_429.tex) | http://dev.psalterio.net/song/429 |  
 23 | 206    | Mil Anos de Aventuras | [mil_anos_de_aventuras_206.tex](https://github.com/psalterio/repository/blob/master/songs/pt/mil_anos_de_aventuras_206.tex) | http://dev.psalterio.net/song/206 |  
 24 | 253    | Ando Com Jesus | [ando_com_jesus_253.tex](https://github.com/psalterio/repository/blob/master/songs/pt/ando_com_jesus_253.tex) | http://dev.psalterio.net/song/253 |  
 25 | 3    | Hino dos Desbravadores | [hino_dos_desbravadores_3.tex](https://github.com/psalterio/repository/blob/master/songs/pt/hino_dos_desbravadores_3.tex) | http://dev.psalterio.net/song/3 |  
 26 | 4    | Hino dos Companheiros | [hino_dos_companheiros_4.tex](https://github.com/psalterio/repository/blob/master/songs/pt/hino_dos_companheiros_4.tex) | http://dev.psalterio.net/song/4 |  
 27 | 21    | Amen | [amen_21.tex](https://github.com/psalterio/repository/blob/master/songs/pt/amen_21.tex) | http://dev.psalterio.net/song/21 |  
-28 |     |  | [](https://github.com/psalterio/repository/blob/master/songs/pt/) | http://dev.psalterio.net/song/ |  
+28 | 430    | Descobre Este Amigo | [descobre_este_amigo_430.tex](https://github.com/psalterio/repository/blob/master/songs/pt/descobre_este_amigo_430.tex) | http://dev.psalterio.net/song/430 |  
 29 | 82    | É Tempo de Louvar | [e_tempo_de_louvar_82.tex](https://github.com/psalterio/repository/blob/master/songs/pt/e_tempo_de_louvar_82.tex) | http://dev.psalterio.net/song/82 |  
 30 | 63    | Sei que não vai tardar | [sei_que_nao_vai_tardar_63.tex](https://github.com/psalterio/repository/blob/master/songs/pt/sei_que_nao_vai_tardar_63.tex) | http://dev.psalterio.net/song/63 |  
 31 | 112    | Vou caminhando | [vou_caminhando_112.tex](https://github.com/psalterio/repository/blob/master/songs/pt/vou_caminhando_112.tex) | http://dev.psalterio.net/song/112 |  
