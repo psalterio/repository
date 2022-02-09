@@ -1,4 +1,3 @@
-http://dev.psalterio.net/song/435
 n  | id    | title | git file | site link | 
 ---|-------|-------|----------|-----------| 
 1 | 168 | Quão grande é o meu Deus | [quao_grande_e_o_meu_deus_168.tex](https://github.com/psalterio/repository/blob/master/songs/pt/quao_grande_e_o_meu_deus_168.tex) | http://www.psalterio.net/168 |  
