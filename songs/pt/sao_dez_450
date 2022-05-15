@@ -1,0 +1,61 @@
+\beginsong{São Dez}
+[
+    id                  = {450},
+    music_by            = {}, % Music Author
+    lyrics_by           = {}, % Lyrics Author
+    arrangement_by      = {}, % Arrangement Author
+    bible_verse         = {},
+    licence_or_copyright= {},
+    sr                  = {},
+    cr                  = {},
+    video_url           = {https://www.youtube.com/watch?v=ExX5ueV8bf8}, % vimeo, facebook, etc. (for youtube videos use the youtube_id
+    music_score         = {}, % example: https://musescore.com/user/26352/scores/7572545
+    extra               = {},
+    index               = {São Dez},
+]
+
+%----------------------------------------------------------
+\beginverse
+Intro:\[G D A Bm G A D]
+
+Je\[D]sus ensinou-me na Su\[G]a Palavra
+Tu\[A]do o que eu preciso pra \[D]ser fe\[A]liz
+São \[D]dez os manda\[D7]mentos para o\[G]bedecer
+São \[A]dez, são dez, são \[D]dez
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+A\[G]mar a \[D]Deus em pri\[A]meiro lugar\[Bm]
+E \[G]só a \[A]Ele adorar\[D]
+\[G]Respei\[D]tar quem \[A]Ele é\[Bm]
+E o \[G]sábado\[A] guardar\[D]
+\endchorus
+
+%----------------------------------------------------------
+\beginverse
+Lara\[Em]rara\[Bm]ra lara\[G]rarara\[A] 
+Lara\[Em]rara\[Bm]ra lara\[G]rarara\[A] 
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+Hon\[G]rar o pa\[D]pá e \[A]a mamã\[Bm]
+\[G]Não fer\[A]ir, não roub\[D]ar
+\[G]Não men\[D]tir nem \[A]enganar\[Bm]
+\[G]E por \[A]fim agradecer\[Bm]
+Por \[G]tudo o \[A]que se \[D]tem
+\endchorus
+
+%----------------------------------------------------------
+\beginverse
+
+Je\[D]sus ensinou-me na Su\[G]a Palavra
+Tu\[A]do o que eu preciso pra \[D]ser fe\[A]liz
+São \[D]dez os manda\[D7]mentos para o\[G]bedecer
+São \[A]dez, são dez, são \[D]dez
+São \[A]dez, são dez, são \[D]dez
+\endverse
+
+%----------------------------------------------------------
+\endsong
