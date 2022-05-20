@@ -8,8 +8,7 @@
     licence_or_copyright= {},
     sr                  = {},
     cr                  = {},
-    video_url           = {https://www.youtube.com/watch?v=yjJv6b-hG2Y}, % vimeo, facebook, etc. (for youtube videos use the youtube_id
-    youtube_id          = {}, % example: https://www.youtube.com/watch?v=7km1-BSWgeg
+    video_url           = {https://www.youtube.com/watch?v=yjJv6b-hG2Y},
     music_score         = {}, % example: https://musescore.com/user/26352/scores/7572545
     extra               = {},
     index               = {Em Oração},
