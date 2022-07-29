@@ -1,0 +1,67 @@
+%----------------------------------------------------------
+% refer to template.tex to see how to edit this file 
+\beginsong{Hoje nasce um novo eu}
+[
+    id                  = {457},
+    music_by            = {Rui Ferreira}, % Music Author
+    lyrics_by           = {Rui Ferreira}, % Lyrics Author
+    arrangement_by      = {}, % Arrangement Author
+    bible_verse         = {},
+    licence_or_copyright= {},
+    sr                  = {},
+    cr                  = {},
+    video_url           = {}, % vimeo, facebook, etc. (for youtube videos use the youtube_id
+    youtube_id          = {}, % example: https://www.youtube.com/watch?v=7km1-BSWgeg
+    music_score         = {}, % example: https://musescore.com/user/26352/scores/7572545
+    extra               = {},
+    index               = {Song Title},
+]
+
+%----------------------------------------------------------
+\beginverse
+Quantos erros cometi, coisas das quais já me arrependi
+Deixo o mundo para trás, um velho eu agora jaz
+Deixo o mundo para trás, em Cristo eu serei capaz
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+Hoje nasce um novo eu, 
+Uma jornada para o céu,
+Um caminho a trilhar
+Uma entrega que faço a Jesus, 
+Ponto de viragem para a luz
+Hoje nasce um novo eu
+\endchorus
+
+%----------------------------------------------------------
+\beginverse
+Hoje a decisão tomei, perante todos e perante o meu rei
+Deixo o mundo para trás, um velho eu agora jaz
+Deixo o mundo para trás, em Cristo eu serei capaz
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+Hoje nasce um novo eu, 
+Uma jornada para o céu,
+Um caminho a trilhar
+Uma entrega que faço a Jesus,  
+Ponto de viragem para a luz
+Hoje nasce um novo eu (hoje nasce)
+\endchorus
+
+%----------------------------------------------------------
+\beginchorus
+Hoje nasce um novo eu, 
+Uma jornada para o céu,
+Um caminho a trilhar
+Uma entrega que faço a Jesus, 
+Ponto de viragem para a luz
+Hoje nasce um novo eu
+Hoje nasce um novo eu
+Hoje nasce um novo eu
+\endchorus
+
+%----------------------------------------------------------
+\endsong
