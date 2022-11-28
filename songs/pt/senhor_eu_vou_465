@@ -10,7 +10,7 @@
     cr                  = {},
     video_url           = {}, 
     youtube_id          = {https://www.youtube.com/watch?v=hrAQfRB5m7w}, 
-    music_score         = {https://musescore.com/user/56347775/scores/9050009?share=copy_link},
+    music_score         = {},
     extra               = {},
     index               = {Senhor eu vou},
 ]
