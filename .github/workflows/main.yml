@@ -1,4 +1,4 @@
-name: CI
+name: CI on master
 
 # Controls when the workflow will run
 on:
@@ -17,3 +17,4 @@ jobs:
         with:
           url: 'https://www.psalterio.net/workshop/tools/db/update_table_songs.php'
           method: 'GET'
+          timeout: 60000
