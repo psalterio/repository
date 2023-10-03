@@ -1,0 +1,19 @@
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches:
+      - master
+      
+jobs:
+  update-table-songs:
+    name: 🎉 Update table songs
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 HTTP Request Action
+        uses: fjogeleit/http-request-action@v1.14.1
+        with:
+          url: 'https://www.psalterio.net/workshop/tools/db/update_table_songs.php'
+          method: 'GET'
