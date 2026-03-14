@@ -1,0 +1,124 @@
+%----------------------------------------------------------
+% refer to template.tex to see how to edit this file 
+\beginsong{Ninguém fica para trás}
+[
+    id                  = {536},
+    music_by            = {Silvana Cunha e Fernanda Sequeira}, % Music Author
+    lyrics_by           = {Silvana Cunha e Fernanda Sequeira}, % Lyrics Author
+    arrangement_by      = {André dos Santos}, % Arrangement Author
+    translated_by       = {}, % Translation Author
+    bible_verse         = {},
+    licence_or_copyright= {},
+    sr                  = {},
+    cr                  = {},
+    video_url           = {}, % vimeo, facebook, etc. (for youtube videos use the youtube_id
+    youtube_id          = {https://www.youtube.com/watch?v=q44O6u15hMw}, % example: https://www.youtube.com/watch?v=7km1-BSWgeg
+    music_score         = {}, % example: https://musescore.com/user/26352/scores/7572545
+    extra               = {},
+    original_title      = {}, % Original Song Title
+    index               = {Ninguém fica para trás},
+]
+
+%----------------------------------------------------------
+\beginverse
+Verso I
+\[E]Quando me afas\[B/D#]tei
+A Tua\[C#m] voz ou\[B]vi e cho\[A]rei.
+O Teu\[G#] amor me aco\[C#m]lheu
+Eu\[F#m] quis serapenas \[Bsus B]Teu
+O Teu \[A]amor me \[E/G#]transformou
+Eu não \[A]quero \[E/G#]mais an\[F#]dar em \[Bsus B]vão.
+
+Pré-refrão
+Con\[E]tigo aprendi o que é a\[B]mar
+Me \[C#m]acolheste, eu vou tam\[A]bém.
+
+Con\[E]tigo aprendi o que é a\[B]mar
+Me \[C#m]acolheste, eu vou tam\[A]bém.
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+Refrão
+Ninguém fica para \[E]trás,
+O Teu amor nos faz i\[B]guais.
+Chamados pra ser\[C#m]vir, a\[B]mar,\[A]
+E ao mundo \[E]Tua graça e luz \[B]levar.
+Ninguém fica para \[C#m]trás!
+Ninguém fica para \[A]trás!
+
+\endchorus
+
+%----------------------------------------------------------
+\beginverse
+Verso II
+Cris\[E]to é a dire\[B/D#]ção
+Dá-me a tua\[C#m] mão, \[B]ó meu \[A]irmão
+Vamos \[G#]juntos prosse\[C#m]guir
+Rumo \[F#m]ao lar celes\[B]tial
+Ele \[A]pode transfor\[E/G#]mar
+Então não \[A]queiras \[E/G#]mais an\[F#]dar em \[Bsus Bb/C]vão.
+
+Pré-refrão
+Tu nos cha\[F]maste a inclu\[C]ir,
+E levan\[Dm]tar a quem \[Bb]cair.
+
+Tu nos cha\[F]maste a inclu\[C]ir,
+E levan\[Dm]tar a quem ca\[Bb Bb/C]ir
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+Refrão
+Ninguém fica para \[F]trás,
+O Teu amor nos faz i\[C]guais.
+Chamados pra ser\[Dm]vir, \[C]amar, \[Bb]
+E ao mundo \[F]Tua graça e luz \[C]levar.
+Ninguém fica para \[Dm]trás!
+Ninguém fica para \[Bb]trás! \[C]
+\endchorus
+
+%----------------------------------------------------------
+\beginverse
+Ponte
+Tua \[Gm]mão eu quero ser
+Teu \[Am]abraço a quem quiser
+A quem pre\[Bb]cisa vou aju\[Dm]dar \[C]
+Com o \[Gm]Teu amor em nós
+Nós \[F/A]erguemos nossa voz
+Ninguém \[Bb]fica para \[C]trás \[C/D]
+
+\endverse
+
+%----------------------------------------------------------
+\beginchorus
+Refrão
+
+Ninguém fica para \[G]trás,
+O Teu amor nos faz i\[D]guais.
+Chamados pra ser\[Em]vir, \[D]a\[C]mar,
+E ao mundo Tua gra\[G]ça e luz \[D]levar.
+Ninguém fica para \[Em]trás!
+Ninguém fica para \[C/D]trás! (e repete)
+
+Ninguém fica para \[G]trás,
+O Teu amor nos faz i\[D]guais.
+Chamados pra ser\[Em]vir, \[D]a\[C]mar,
+E ao mundo Tua gra\[G]ça e luz \[D]levar.
+Ninguém fica para \[Em]trás!
+Ninguém fica para \[C/D]trás!
+
+Ninguém fica para \[G]trás!
+(Nin\[D/F#]guém, nin\[Em]guém)
+Ninguém fica para \[C]trás!
+(Nin\[D]guém, nin\[Em]guém)
+Ninguém fica para \[Am]trás!
+(Nin\[B7]guém, nin\[Em]guém)
+
+Nos teus \[Am]braços, todos \[C/D]cabem, \[G]Pai
+
+\endchorus
+
+
+%----------------------------------------------------------
+\endsong
